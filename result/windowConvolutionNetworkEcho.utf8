@@ -1,0 +1,295 @@
+Network setting: 
+  corpusFile: dataset/segmentation_corpus.utf8
+  tokenFile: conf/characters.utf8
+  labelFile: dataset/segmentation_labels.utf8
+  isReadEmbedding: false
+  embeddingFile: embedding/Word2Vector.class
+  isExternalFeature: false
+  externalFeatureFile: conf/charactersWithExternalFeature.utf8
+  isReadNetworkSetting: false
+  inputNetworkSettingFile: model/windowConvolutionNetwork_d100_w3_f1.class
+  outputNetworkSettingFile: model/windowConvolutionNetwork_d100_w3_f1.class
+  echoFile: result/windowConvolutionNetworkEcho.utf8
+  featureDimension: 100
+  internalFeatureDimension: 100
+  externalFeatureDimension: 0
+  windowSize: 3
+  featureMap: 1
+  isIgnoreAlphabetNumber: true
+  isAverage: false
+  learningRate: 0.05
+  regularizationRate: 1.0E-4
+  errorLimit: 0.001
+  learningTimes: 100
+  The size of tagset: 4
+  The size of the lookup table: 8010
+
+The current learning time 0 (Convolutional window model with multiple feature maps): 
+The correct count: 29236
+The total count: 44393
+The tagging precision: 0.6585722974342801
+The learning rate: 0.05
+
+The current learning time 1 (Convolutional window model with multiple feature maps): 
+The correct count: 37841
+The total count: 44393
+The tagging precision: 0.8524091636068749
+The learning rate: 0.0495
+
+The current learning time 2 (Convolutional window model with multiple feature maps): 
+The correct count: 39638
+The total count: 44393
+The tagging precision: 0.8928885184601176
+The learning rate: 0.049
+
+The current learning time 3 (Convolutional window model with multiple feature maps): 
+The correct count: 40621
+The total count: 44393
+The tagging precision: 0.9150316491338725
+The learning rate: 0.0485
+
+The current learning time 4 (Convolutional window model with multiple feature maps): 
+The correct count: 41097
+The total count: 44393
+The tagging precision: 0.925754060324826
+The learning rate: 0.048
+
+The current learning time 5 (Convolutional window model with multiple feature maps): 
+The correct count: 41611
+The total count: 44393
+The tagging precision: 0.9373324623251413
+The learning rate: 0.0475
+
+The current learning time 6 (Convolutional window model with multiple feature maps): 
+The correct count: 41895
+The total count: 44393
+The tagging precision: 0.9437298673214245
+The learning rate: 0.047
+
+The current learning time 7 (Convolutional window model with multiple feature maps): 
+The correct count: 42425
+The total count: 44393
+The tagging precision: 0.9556686865046291
+The learning rate: 0.04650000000000001
+
+The current learning time 8 (Convolutional window model with multiple feature maps): 
+The correct count: 42346
+The total count: 44393
+The tagging precision: 0.9538891266641137
+The learning rate: 0.046000000000000006
+
+The current learning time 9 (Convolutional window model with multiple feature maps): 
+The correct count: 42891
+The total count: 44393
+The tagging precision: 0.9661658369562769
+The learning rate: 0.045500000000000006
+
+The current learning time 10 (Convolutional window model with multiple feature maps): 
+The correct count: 42943
+The total count: 44393
+The tagging precision: 0.9673371928006668
+The learning rate: 0.045000000000000005
+
+The current learning time 11 (Convolutional window model with multiple feature maps): 
+The correct count: 43040
+The total count: 44393
+The tagging precision: 0.9695222219719325
+The learning rate: 0.044500000000000005
+
+The current learning time 12 (Convolutional window model with multiple feature maps): 
+The correct count: 43151
+The total count: 44393
+The tagging precision: 0.9720226161782263
+The learning rate: 0.044000000000000004
+
+The current learning time 13 (Convolutional window model with multiple feature maps): 
+The correct count: 43167
+The total count: 44393
+The tagging precision: 0.9723830333611155
+The learning rate: 0.043500000000000004
+
+The current learning time 14 (Convolutional window model with multiple feature maps): 
+The correct count: 43401
+The total count: 44393
+The tagging precision: 0.9776541346608699
+The learning rate: 0.043000000000000003
+
+The current learning time 15 (Convolutional window model with multiple feature maps): 
+The correct count: 43512
+The total count: 44393
+The tagging precision: 0.9801545288671637
+The learning rate: 0.0425
+
+The current learning time 16 (Convolutional window model with multiple feature maps): 
+The correct count: 43548
+The total count: 44393
+The tagging precision: 0.9809654675286644
+The learning rate: 0.042
+
+The current learning time 17 (Convolutional window model with multiple feature maps): 
+The correct count: 43688
+The total count: 44393
+The tagging precision: 0.9841191178789449
+The learning rate: 0.0415
+
+The current learning time 18 (Convolutional window model with multiple feature maps): 
+The correct count: 43687
+The total count: 44393
+The tagging precision: 0.9840965918050143
+The learning rate: 0.041
+
+The current learning time 19 (Convolutional window model with multiple feature maps): 
+The correct count: 43697
+The total count: 44393
+The tagging precision: 0.98432185254432
+The learning rate: 0.04050000000000001
+
+The current learning time 20 (Convolutional window model with multiple feature maps): 
+The correct count: 43821
+The total count: 44393
+The tagging precision: 0.9871150857117114
+The learning rate: 0.04000000000000001
+
+The current learning time 21 (Convolutional window model with multiple feature maps): 
+The correct count: 43847
+The total count: 44393
+The tagging precision: 0.9877007636339062
+The learning rate: 0.03950000000000001
+
+The current learning time 22 (Convolutional window model with multiple feature maps): 
+The correct count: 43879
+The total count: 44393
+The tagging precision: 0.9884215979996847
+The learning rate: 0.03900000000000001
+
+The current learning time 23 (Convolutional window model with multiple feature maps): 
+The correct count: 43969
+The total count: 44393
+The tagging precision: 0.9904489446534364
+The learning rate: 0.038500000000000006
+
+The current learning time 24 (Convolutional window model with multiple feature maps): 
+The correct count: 43952
+The total count: 44393
+The tagging precision: 0.9900660013966166
+The learning rate: 0.038000000000000006
+
+The current learning time 25 (Convolutional window model with multiple feature maps): 
+The correct count: 43951
+The total count: 44393
+The tagging precision: 0.990043475322686
+The learning rate: 0.037500000000000006
+
+The current learning time 26 (Convolutional window model with multiple feature maps): 
+The correct count: 43931
+The total count: 44393
+The tagging precision: 0.9895929538440745
+The learning rate: 0.037
+
+The current learning time 27 (Convolutional window model with multiple feature maps): 
+The correct count: 44096
+The total count: 44393
+The tagging precision: 0.9933097560426193
+The learning rate: 0.0365
+
+The current learning time 28 (Convolutional window model with multiple feature maps): 
+The correct count: 44125
+The total count: 44393
+The tagging precision: 0.993963012186606
+The learning rate: 0.036
+
+The current learning time 29 (Convolutional window model with multiple feature maps): 
+The correct count: 44176
+The total count: 44393
+The tagging precision: 0.9951118419570653
+The learning rate: 0.0355
+
+The current learning time 30 (Convolutional window model with multiple feature maps): 
+The correct count: 44172
+The total count: 44393
+The tagging precision: 0.995021737661343
+The learning rate: 0.034999999999999996
+
+The current learning time 31 (Convolutional window model with multiple feature maps): 
+The correct count: 44205
+The total count: 44393
+The tagging precision: 0.995765098101052
+The learning rate: 0.034499999999999996
+
+The current learning time 32 (Convolutional window model with multiple feature maps): 
+The correct count: 44189
+The total count: 44393
+The tagging precision: 0.9954046809181628
+The learning rate: 0.034
+
+The current learning time 33 (Convolutional window model with multiple feature maps): 
+The correct count: 44235
+The total count: 44393
+The tagging precision: 0.9964408803189692
+The learning rate: 0.0335
+
+The current learning time 34 (Convolutional window model with multiple feature maps): 
+The correct count: 44252
+The total count: 44393
+The tagging precision: 0.996823823575789
+The learning rate: 0.033
+
+The current learning time 35 (Convolutional window model with multiple feature maps): 
+The correct count: 44229
+The total count: 44393
+The tagging precision: 0.9963057238753857
+The learning rate: 0.0325
+
+The current learning time 36 (Convolutional window model with multiple feature maps): 
+The correct count: 44266
+The total count: 44393
+The tagging precision: 0.9971391886108171
+The learning rate: 0.032
+
+The current learning time 37 (Convolutional window model with multiple feature maps): 
+The correct count: 44288
+The total count: 44393
+The tagging precision: 0.9976347622372896
+The learning rate: 0.0315
+
+The current learning time 38 (Convolutional window model with multiple feature maps): 
+The correct count: 44297
+The total count: 44393
+The tagging precision: 0.9978374969026649
+The learning rate: 0.031
+
+The current learning time 39 (Convolutional window model with multiple feature maps): 
+The correct count: 44248
+The total count: 44393
+The tagging precision: 0.9967337192800667
+The learning rate: 0.0305
+
+The current learning time 40 (Convolutional window model with multiple feature maps): 
+The correct count: 44323
+The total count: 44393
+The tagging precision: 0.9984231748248598
+The learning rate: 0.03
+
+The current learning time 41 (Convolutional window model with multiple feature maps): 
+The correct count: 44308
+The total count: 44393
+The tagging precision: 0.9980852837159011
+The learning rate: 0.0295
+
+The current learning time 42 (Convolutional window model with multiple feature maps): 
+The correct count: 44315
+The total count: 44393
+The tagging precision: 0.9982429662334151
+The learning rate: 0.028999999999999998
+
+The current learning time 43 (Convolutional window model with multiple feature maps): 
+The correct count: 44334
+The total count: 44393
+The tagging precision: 0.9986709616380961
+The learning rate: 0.028499999999999998
+
+The current learning time 44 (Convolutional window model with multiple feature maps): 
+The correct count: 44360
+The total count: 44393
+The tagging precision: 0.999256639560291
+The learning rate: 0.028000000000000004

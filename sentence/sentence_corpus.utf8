@@ -1,0 +1,111 @@
+E_UNKNOWN 【 天 猫 】 年 终 奖 还 不 发 ， 年 货 还 得 买 ， 手 机 天 猫 、 手 机 淘 宝 搜 索 “ 红 包 不 拿 就 是 丢 ” 捡 最 高 CURRENCY 红 包 ， 能 省 TIME 是 TIME ！ 回 FOREIGN 退 订 。
+E_UNKNOWN 他 喜 欢 我 ！
+E_DEPOSIT 您 的 中 国 银 行 尾 号 为 DIGIT 账 户 于 DATE 入 账 CURRENCY ， 余 额 为 CURRENCY 。
+E_PAYMENT 您 工 商 银 行 账 户 DIGIT 于 DATE 消 费 CURRENCY ， 余 额 为 CURRENCY 。
+E_UPDATE 我 现 在 用 CELLPHONE ， 赶 紧 存 下 ， 不 然 请 你 吃 饭 找 不 到 你 。
+E_UPDATE 换 新 手 机 号 了 ： LANDLINE 。
+E_DATE 不 如 DATE 一 起 去 喜 多 屋 吃 个 自 助 ， 叫 上 公 司 金 老 板 。
+E_MEETING 会 议 通 知 ： 王 明 LANDLINE 组 织 的 转 正 答 辩 会 议 于 DATE DATE TIME 召 开 ， 请 您 准 时 参 加 ！ （ 会 议 室 ： 上 海 二 期 FOREIGN 座 DIGIT 楼 FOREIGN （ 会 议 如 超 过 DIGIT 人 ， 请 联 系 龚 杰 配 送 备 用 座 椅 ） ， 成 都 研 究 所 FOREIGN 座 DIGIT - DIGIT ， 南 京 一 期 FOREIGN 区 FOREIGN - DIGIT 【 双 屏 会 议 室 】 投 影 请 用 电 视 机 ） 【 Z T E 】
+E_DATE DATE 一 起 吃 个 非 常 香 辣 的 火 锅 吧 ！ 徐 家 汇 的 老 工 厂 就 不 错 。
+E_DATE 有 机 会 来 杭 州 请 你 们 吃 生 蚝 自 助 啊 ！
+E_UNKNOWN 动 态 密 码 DIGIT ， 该 验 证 码 用 于 掌 上 生 活 重 置 手 势 密 码 ， PERIOD 有 效 [ 招 商 银 行 ]
+E_DATE DATE 我 请 你 们 一 起 去 吃 稻 香 。
+E_UPDATE 我 是 曹 操 ， 新 手 机 号 码 为 LANDLINE ， 旧 号 已 停 用 ， 常 联 系 ！
+E_UPDATE 亲 们 ， 我 的 旧 号 码 CELLPHONE 停 用 了 。 新 号 码 ： LANDLINE 请 惠 记 啦 。 常 联 系 咯 ！
+E_UNKNOWN 寒 假 的 时 候 我 想 和 女 友 一 起 去 趟 东 北 玩 ， 要 不 要 叫 上 你 和 和 你 女 朋 友 一 起 ？
+E_UPDATE 各 位 亲 朋 好 友 领 导 同 事 ， 我 是 董 东 。 因 故 我 的 手 机 号 码 更 换 为 本 号 码 ， 请 你 惠 存 ， 原 来 手 机 号 码 （ CELLPHONE ） 将 不 再 使 用 。 非 常 抱 歉 给 你 带 来 麻 烦 ， 谢 谢 你 ！
+E_UNKNOWN 呵 呵 ， 好 的 ！
+E_1001F 预 定 DATE 深 圳 到 上 海 的 飞 机 票 。
+E_TICKET 【 铁 路 客 服 】 订 单 号 FOREIGN ， 钱 女 士 您 已 购 DATE FOREIGN 次 DIGIT 车 DIGIT 号 哈 尔 滨 TIME 开 。 请 尽 快 换 取 纸 质 车 票 。
+E_UPDATE 我 的 新 手 机 号 码 是 CELLPHONE ， 记 得 保 存 哦 。
+E_HOTEL 【 去 哪 儿 网 】 您 已 成 功 预 订 DATE 至 DATE 甘 孜 麦 朵 康 桑 客 栈 DIGIT 间 标 准 榻 榻 米 - 不 含 早 （ 现 付 ） 。 入 住 人 ： 刘 备 ， 前 台 现 付 CURRENCY ， 暂 扣 担 保 金 CURRENCY 。 订 单 确 认 后 不 可 取 消 ， 如 未 入 住 将 扣 除 全 部 担 保 金 额 CURRENCY 。 该 订 单 不 可 变 更 。 到 店 后 仍 需 付 房 费 ， 去 哪 儿 网 审 核 您 入 住 后 会 立 即 为 您 解 冻 担 保 金 。 酒 店 地 址 ： 甘 孜 州 康 定 县 滨 河 路 宏 达 名 苑 C DIGIT 幢 DIGIT 楼 一 号 ， 电 话 ： LANDLINE ， 订 单 号 ： LANDLINE 。
+E_WEATHER 上 海 中 心 气 象 台 DATE TIME ： 晴 到 多 云 。 西 北 风 DIGIT - DIGIT 级 。 DATE 最 高 温 度 TEMPERATURE ， DATE 最 低 温 度 TEMPERATURE ， 局 部 地 区 有 薄 冰 。
+E_UPDATE 我 换 号 了 LANDLINE ， 蔡 伦 。
+E_UPDATE 旧 的 不 去 新 的 不 来 ， 这 是 我 新 的 电 话 号 码 CELLPHONE 。
+E_UNKNOWN 山 西 警 方 提 醒 您 ： 如 果 您 接 到 陌 生 人 电 话 ， 一 定 要 先 确 认 对 方 真 实 身 份 ， 在 没 有 确 实 弄 清 对 方 是 谁 的 情 况 下 ， 不 要 盲 目 汇 款 或 答 应 对 方 的 要 求 ， 谨 防 上 当 受 骗 ， 给 您 带 来 损 失 。
+E_UPDATE 手 机 号 码 已 改 ， 欢 迎 众 亲 常 “ 来 ” ： LANDLINE 。
+E_WEATHER 中 心 气 象 台 DATE 天 气 预 报 ： DATE 阴 有 雨 转 阴 到 多 云 ， DIGIT 到 TEMPERATURE 。 DATE 多 云 ， DIGIT 到 TEMPERATURE 。 DATE 多 云 ， DIGIT 到 TEMPERATURE 。 DATE 阴 转 阴 有 小 雨 ， DIGIT 到 TEMPERATURE 。 DATE 阴 有 雨 或 雨 夹 雪 ， DIGIT 到 TEMPERATURE 。 DATE 阴 有 雨 或 雨 夹 雪 ， DIGIT 到 TEMPERATURE 。 DATE 多 云 到 阴 ， - DIGIT 到 TEMPERATURE 。
+E_DATE DATE 去 滨 江 森 林 公 园 烧 烤 ， 全 班 TIME 在 园 区 门 口 集 合 ， 不 要 迟 到 。
+E_EXPRESS 【 饿 了 么 】 叫 外 卖 ， 上 饿 了 么 ！ 饿 了 么 温 馨 提 示 ： 您 点 的 外 卖 已 由 配 送 员 张 立 （ LANDLINE ） 确 认 送 达 ， 感 谢 您 选 择 饿 了 么 ， 祝 您 用 餐 愉 快 。 如 果 您 未 收 到 外 卖 ， 请 戳 此 链 接 举 报 ： URL 。
+E_UPDATE 阿 拉 是 李 小 萌 ， 即 日 起 使 用 CELLPHONE ， 原 号 作 废 ， 请 惠 存 ， 有 事 没 事 常 联 系 ！
+E_WEATHER DATE 最 高 温 度 TEMPERATURE 。
+E_UPDATE 三 弟 ， 我 启 用 了 上 海 的 号 码 CELLPHONE ， 保 持 联 系 ， 你 大 哥 。
+E_UPDATE 尊 敬 的 各 位 领 导 和 朋 友 ， 我 是 Z T E 的 李 刚 ， 现 将 手 机 号 码 更 改 为 CELLPHONE ， 原 号 即 日 起 不 再 使 用 。 如 给 您 带 来 不 便 ， 请 谅 解 。
+E_UPDATE 原 号 码 LANDLINE 由 于 使 用 果 机 ， 相 关 数 据 已 被 特 工 局 截 获 ， 已 多 次 被 局 委 约 见 ， 勒 令 换 机 换 号 ， 新 号 码 ： LANDLINE ， 记 得 常 联 系 。
+E_UPDATE 我 换 新 手 机 号 了 ： LANDLINE ， 约 起 来 。
+E_EXPRESS 您 有 DIGIT 件 中 通 快 递 待 取 ， 请 尽 快 到 二 期 快 递 站 （ LANDLINE ） 领 取 ！ 关 注 公 众 号 FOREIGN _ FOREIGN 积 分 可 兑 换 鲜 果 盘 啦 ！ 【 中 兴 快 递 】
+E_UPDATE CELLPHONE 电 话 号 码 已 换 陈 大 海 。
+E_UPDATE 您 好 ， 您 的 朋 友 路 得 手 机 号 码 从 即 日 TIME 起 升 级 为 LANDLINE ， 请 及 时 保 存 。
+E_MEETING 接 上 级 的 会 议 通 知 ， 要 求 DATE （ DATE ） TIME 在 第 三 会 议 室 召 开 部 门 会 议 请 您 参 会 。
+E_UPDATE 如 您 有 烦 心 事 、 苦 恼 事 、 伤 心 事 、 担 心 事 可 致 电 LANDLINE 于 本 机 主 曹 操 联 系 ， 本 机 主 一 定 尽 力 为 您 解 答 。 同 时 原 CELLPHONE 暂 停 使 用 ， 本 条 信 息 免 费 。 再 次 感 谢 ！ ！
+E_WEATHER 气 象 台 DATE TIME ： 阴 天 ， DATE TIME 转 阴 有 小 雨 ， DATE 阴 有 雨 。 偏 东 风 DIGIT - DIGIT 级 ， DATE 转 偏 北 风 DIGIT - DIGIT 级 。 DATE 最 高 温 度 TEMPERATURE ， DATE 最 低 温 度 TEMPERATURE 。
+E_UPDATE 大 家 好 ， 我 是 曹 操 ， 换 号 码 我 一 直 很 谨 慎 ， 号 码 是 自 己 选 的 ， 要 对 自 己 负 责 ， 还 要 便 于 大 家 记 忆 ， LANDLINE ， 移 动 荣 誉 出 品 ， 符 合 中 国 人 的 口 味 ， 我 以 后 都 用 它 ！
+E_UPDATE 亲 们 ， 曹 操 的 手 机 号 码 变 更 为 LANDLINE ， 现 号 码 年 底 前 有 效 。
+E_UNKNOWN 新 年 好 ！ 本 市 外 环 线 内 一 律 禁 止 燃 放 烟 花 爆 竹 ， 违 者 必 究 。 举 报 电 话 ： DIGIT 。 上 海 市 公 安 局 。
+E_TICKET （ DATE ） 订 单 号 E 5 0 3 8 1 1 7 8 4 ， 王 先 生 您 已 购 0 5 月 1 0 日 G 7 0 2 0 次 0 6 DIGIT 0 9 F 号 、 1 0 F 号 无 锡 1 6 ： 4 4 开 ， 北 广 场 进 站 。 【 铁 路 客 服 】
+E_UPDATE 我 是 赵 云 ， 这 是 我 的 新 号 CELLPHONE ， 旧 号 从 DATE 开 始 停 用 ， 请 惠 存 ， 常 联 系 哦 ~
+E_UPDATE 我 是 石 头 ， 原 手 机 号 停 用 ， 现 手 机 号 LANDLINE ， 切 记 。
+E_UNKNOWN 订 票 系 统 真 是 烂 倒 家 了 ， 怎 么 都 上 不 去 。
+E_EXPRESS 【 百 世 汇 通 】 您 的 快 递 DIGIT 已 签 收 。 如 需 帮 助 请 拨 CELLPHONE 或 戳 FOREIGN . FOREIGN R U 8 Y I 7 N 。
+E_TICKET 【 去 哪 儿 网 】 您 预 订 的 香 港 机 场 到 哥 打 基 纳 巴 卢 机 场 的 机 票 已 购 票 完 成 ， DATE ， 香 港 国 际 机 场 到 哥 打 基 纳 巴 卢 机 场 的 航 班 FOREIGN 。 订 单 号 FOREIGN ， 请 至 少 提 前 PERIOD 到 达 机 场 凭 购 票 时 所 填 证 件 办 理 登 机 手 续 。
+E_TICKET 【 东 方 航 空 】 从 白 云 机 场 到 浦 东 机 场 FOREIGN ， FOREIGN 航 班 ， 起 飞 时 间 ： DATE □ TIME 。 旅 客 ： 刘 备 ， 票 号 ： DIGIT - DIGIT 。 为 避 免 耽 误 您 的 行 程 ， 建 议 国 内 航 班 至 少 提 前 PERIOD 、 国 际 航 班 至 少 提 前 PERIOD 到 达 机 场 办 理 乘 机 手 续 。
+E_WEATHER 气 象 台 DATE TIME 发 布 大 雾 黄 色 预 警 ： TIME 浦 东 新 区 南 部 、 崇 明 、 奉 贤 、 松 江 、 青 浦 、 闵 行 、 嘉 定 、 宝 山 、 金 山 将 有 能 见 度 小 于 LENGTH 的 浓 雾 。
+E_UPDATE 旧 号 不 用 了 ， 现 为 CELLPHONE 。
+E_UNKNOWN 【 唯 品 会 】 CURRENCY 即 领 即 用 ！ 唯 品 会 1 2 . PERIOD 年 庆 ， 全 场 DIGIT + 品 牌 DIGIT 折 起 特 卖 ， 折 后 满 DIGIT 再 减 DIGIT ！ URL 回 FOREIGN 退 订 。
+E_UNKNOWN 我 DATE TIME 到 实 验 室 ， 你 呢 ？
+E_UPDATE 我 是 李 嘉 欣 ， 从 此 刻 起 使 用 LANDLINE 手 机 号 ， DATE 2 4 8 已 丢 进 垃 圾 桶 ， 仅 告 知 ！ 望 知 晓 ！
+E_UPDATE 瓦 特 （ 西 安 ） 新 号 ： LANDLINE ， 请 惠 存 ！
+E_PAYMENT 您 账 户 DIGIT 于 DATE TIME 发 生 【 京 东 支 付 】 的 直 付 通 快 捷 支 付 扣 款 人 民 币 3 2 5 5 . 3 0 [ 招 商 银 行 ]
+E_UNKNOWN 【 西 堤 】 您 的 验 证 码 为 DIGIT 。 欢 迎 您 成 为 西 堤 官 方 微 信 会 员 。
+E_UNKNOWN 【 FOREIGN 优 步 】 您 的 FOREIGN 账 户 验 证 码 为 DIGIT 。 将 此 验 证 码 输 入 应 用 程 序 ， 确 认 FOREIGN 账 户 。
+E_DATE DATE 有 家 酸 菜 鱼 ， 人 均 DIGIT 还 能 喝 两 箱 酒 。
+E_UPDATE 小 丽 ， 你 好 ， 我 是 摩 西 ， 原 来 的 号 码 CELLPHONE 不 用 了 ， 从 现 在 开 始 使 用 新 号 码 CELLPHONE ， 请 保 存 。
+E_MEETING 由 商 务 战 略 部 召 集 的 会 议 将 于 DATE （ DATE ） TIME 在 会 议 室 （ DIGIT ） 召 开 ， 请 大 家 准 时 参 会 。 注 ： 会 议 资 料 已 发 大 家 FOREIGN 邮 箱 。
+E_UPDATE 摩 西 摩 西 ， 原 号 作 废 ， 现 在 用 这 个 号 LANDLINE ， 老 地 方 ， 老 时 间 ， 还 是 那 个 她 ， 等 着 那 个 你 ！
+E_DATE DATE TIME 在 牧 羊 传 奇 和 洪 老 板 吃 个 火 锅 吧 。
+E_CREDIT 您 尾 号 为 DIGIT 的 信 用 卡 截 至 DATE 已 欠 款 CURRENCY ， 请 于 DATE 前 交 纳 。
+E_HOTEL [ 艺 龙 ] 订 单 DIGIT 如 家 精 选 酒 店 （ 上 海 CURRENCY 场 店 ） 已 确 认 房 间 . FOREIGN 可 查 订 单 详 情 及 酒 店 电 话 ， 导 航 带 您 去 酒 店 。
+E_UPDATE 新 号 码 是 LANDLINE ， 是 不 是 很 酷 炫 呢 ？ 还 有 更 吊 炸 天 的 ， 该 卡 搭 载 于 i P h o n e VOLUMN T E WEIGHT 破 解 版 上 ， 就 等 于 是 好 马 配 好 鞍 ， 装 逼 完 毕 ， 望 惠 存 。
+E_EXPRESS 【 菜 鸟 驿 站 】 请 您 在 TIME 前 凭 取 货 号 【 DIGIT 】 至 中 医 药 蔡 伦 路 1 3 8 9 号 菜 鸟 驿 站 领 DATE 圆 通 包 裹 ， 询 CELLPHONE 。
+E_UPDATE 老 号 被 盗 ， 广 而 告 知 新 号 CELLPHONE 。
+E_UPDATE 通 知 ， 我 的 旧 号 码 CELLPHONE 不 用 了 ， 请 保 存 下 我 的 新 号 码 ： LANDLINE 。
+E_MEETING 会 议 通 知 ： 陈 军 LANDLINE 组 织 的 复 旦 高 校 合 作 交 流 于 DATE DATE TIME 召 开 ， 请 您 准 时 参 加 ！ （ 会 议 室 ： 成 都 研 究 所 FOREIGN 座 DIGIT - DIGIT ） 【 Z T E 】
+E_HOTEL [ 艺 龙 ] 确 认 ： 订 单 DIGIT 赵 云 DATE 至 DATE 全 季 酒 店 （ 上 海 张 江 店 ） ， 双 床 房 DIGIT 间 总 价 CURRENCY ； 地 址 ： 上 海 市 浦 东 新 区 张 衡 路 1 7 1 7 号 （ 近 伽 利 略 路 ） LANDLINE ； 保 留 到 TIME ； 取 消 订 单 回 短 信 " FOREIGN " 。
+E_DATE DATE TIME 在 牧 羊 传 奇 和 洪 老 板 吃 个 火 锅 吧 。
+E_PAYMENT 您 工 商 银 行 账 户 DIGIT 于 DATE 消 费 CURRENCY ， 余 额 为 CURRENCY 。
+E_UPDATE 我 是 王 小 丫 ， 相 知 无 远 近 LENGTH 亦 比 邻 我 的 新 号 ： LANDLINE 。
+E_CREDIT 您 尾 号 为 DIGIT 的 信 用 卡 截 至 DATE 已 欠 款 CURRENCY ， 请 于 DATE 前 交 纳 。
+E_UPDATE 在 西 安 的 新 号 码 LANDLINE ， PERIOD 开 机 ， 欢 迎 骚 扰 。
+E_WEATHER 气 象 台 TIME 低 温 报 告 ： 多 云 转 晴 ， TIME 以 前 西 部 和 南 部 阴 有 短 时 小 雪 ， 明 晴 到 多 云 。 西 北 风 DIGIT 级 阵 风 DIGIT - DIGIT 级 ， 今 夜 转 DIGIT - DIGIT 级 阵 风 DIGIT 级 。 - DIGIT - 6 度 。
+E_UNKNOWN 我 爱 你 ！
+E_DATE TIME 去 张 江 镇 吃 烤 羊 腿 或 者 扇 贝 王 都 可 以 啊 ！
+E_MEETING 刚 才 接 到 税 务 局 电 话 通 知 ， DATE TIME 十 点 在 税 务 局 二 楼 会 议 室 召 开 会 议 ， 会 议 要 求 企 业 法 人 参 加 。
+E_UNKNOWN 【 格 瓦 拉 】 过 年 好 哇 啦 ！ 小 格 请 你 CURRENCY 看 大 片 ， 最 强 贺 岁 档 想 看 就 看 ， 祝 您 DATE 烦 恼 清 零 ， 好 运 连 连 ！ 猛 戳 URL 。
+E_REPAYMENT DATE 温 馨 账 单 ： 您 商 旅 信 用 卡 金 卡 应 还 CURRENCY ， 到 期 还 款 日 DATE ， 如 已 还 款 无 须 理 会 。 详 询 DIGIT 选 DIGIT 再 选 DIGIT 【 光 大 银 行 】 。
+E_UPDATE 各 位 好 友 ， 这 是 我 曹 操 的 新 号 码 LANDLINE ， 旧 号 已 停 用 ， 常 联 系 ！ ！ ！
+E_UPDATE 新 号 码 为 LANDLINE ， 原 号 只 保 留 PERIOD 。
+E_UPDATE 好 消 息 ！ LANDLINE 本 人 新 号 ， 请 注 意 查 收 ！
+E_TICKET 【 中 国 国 航 】 张 飞 ， 关 羽 您 好 ， 国 航 小 秘 书 温 馨 提 示 ： 您 购 买 的 国 航 FOREIGN □ DIGIT 航 班 兰 州 （ 兰 州 中 川 机 场 ） - 上 海 （ 上 海 浦 东 机 场 ） （ 单 程 ） 电 子 客 票 已 出 票 。 第 一 航 段 起 飞 时 间 DATE □ TIME 。 客 票 必 须 顺 序 使 用 。 您 的 客 票 号 为 DIGIT - DIGIT ， DIGIT - DIGIT ， 如 有 疑 问 ， 请 致 电 国 航 服 务 热 线 DIGIT 。 体 验 国 航 无 线 及 时 了 解 航 班 动 态 FOREIGN . URL 。
+E_UPDATE 大 家 好 ， 我 是 曹 操 ， 我 南 京 号 码 LANDLINE ， 即 时 启 用 ； 老 号 码 不 再 使 用 ； 请 保 存 。
+E_UPDATE 有 钱 人 换 手 机 ， 没 钱 人 换 号 码 ， 我 是 刘 备 新 换 手 机 号 CELLPHONE 欢 迎 骚 扰 ， 请 吃 饭 按 DIGIT ， 介 绍 对 象 请 直 拨 ， 借 钱 请 打 DIGIT 。
+E_UNKNOWN 【 肯 德 基 宅 急 送 】 DATE 前 网 订 点 外 带 全 家 桶 或 五 味 小 吃 桶 送 香 辣 鸡 腿 堡 1 个 ， DIGIT 1 份 ！ DIGIT 4 0 0 8 8 2 3 8 2 3 . c o m . c n 订 餐 回 T D 退 订 。
+E_DATE DATE 一 起 回 复 旦 大 学 吃 烧 烤 吧 ！
+E_UNKNOWN 【 美 团 网 】 DIGIT （ 动 态 登 录 验 证 码 ） 。 工 作 人 员 不 会 向 您 索 要 ， 请 勿 向 任 何 人 泄 露 。
+E_UNKNOWN 【 淘 宝 电 影 】 DATE □ TIME 中 影 海 艺 数 字 影 城 FOREIGN 厅 《 恶 棍 天 使 》 已 购 票 成 功 。 座 位 ： DIGIT 排 DIGIT 座 ， DIGIT 排 DIGIT 座 取 票 号 ： DATE 4 8 0 6 0 1 5 8 请 您 使 用 【 取 票 号 】 到 影 院 自 助 终 端 机 或 柜 台 取 票 ， 并 对 号 入 座 。 如 有 问 题 致 电 淘 宝 客 服 ： LANDLINE 。
+E_NOTICE 温 馨 提 示 ： 截 至 DATE TIME ， 您 当 月 已 使 用 流 量 DATASIZE ， 其 中 套 餐 外 流 量 DATASIZE ， 按 CURRENCY K B 收 取 。
+E_DATE TIME 去 张 江 镇 吃 烤 羊 腿 或 者 扇 贝 王 都 可 以 啊 ！
+E_UPDATE CELLPHONE 电 话 号 码 已 换 曹 操 。
+E_EXPRESS 【 最 鲜 到 】 您 在 凡 仔 汉 堡 （ 邯 郸 路 店 ） 的 订 单 已 经 开 始 配 送 ， 配 送 员 ： 许 永 继 ， 联 系 电 话 ： CELLPHONE 。
+E_INCOME 您 账 户 DIGIT 于 DATE 入 账 款 项 ， CURRENCY 。 工 资 奖 金 好 去 处 ， 手 机 银 行 专 享 月 开 鑫 DIGIT 号 FOREIGN . FOREIGN u Z I 。 [ 招 商 银 行 ]
+E_UNKNOWN 【 迈 外 迪 】 亲 爱 的 用 户 ， DIGIT 是 您 的 本 次 的 登 录 密 码 。
+E_HOTEL 确 认 ： 蔡 伦 DATE 入 住 上 海 汝 家 快 捷 酒 店 数 码 商 务 房 （ 内 宾 ） ， 1 间 1 DIGIT ， DIGIT ¥ 2 2 7 . 0 0 ， 保 留 至 次 日 中 午 1 2 点 ， 不 能 取 消 修 改 。 如 未 入 住 将 扣 除 您 支 付 的 担 保 金 额 。 （ 邯 郸 路 1 2 0 DIGIT ， 近 运 光 路 口 （ 杨 浦 区 与 虹 口 区 交 界 处 ） ， 0 2 1 - 5 1 0 5 5 5 7 7 ） 。 请 点 击 h t t p ： ？ F C p b 1 r v 4 4 7 F 查 看 订 单 详 情 。 如 有 问 题 ， 请 联 系 1 0 1 0 6 6 6 6 。 【 X C 】
+E_HOTEL [ 艺 龙 ] 确 认 ： 订 单 DIGIT 张 飞 DATE 汉 庭 酒 店 （ 上 海 张 江 店 ） ， 双 床 房 DIGIT 间 总 价 CURRENCY 前 台 自 付 ； 地 址 ： 上 海 市 浦 东 新 区 张 江 高 科 技 园 区 蔡 伦 路 DIGIT 号 （ 近 伽 利 略 路 ） LANDLINE ； 免 费 变 更 取 消 DATE TIME 前 ； 取 消 订 单 回 复 短 信 " FOREIGN " . 过 时 变 更 取 消 或 未 如 约 入 住 ， 艺 龙 将 扣 您 全 部 房 费 支 付 酒 店 。
+E_UPDATE 我 是 张 飞 ， 手 机 号 码 升 级 为 CELLPHONE 。
+E_UNKNOWN 【 大 众 点 评 】 DIGIT （ 大 众 点 评 网 手 机 动 态 码 ， 请 完 成 验 证 ） ， 如 非 本 人 操 作 ， 请 忽 略 本 短 信 。
+E_UPDATE 旧 号 已 废 ， 请 加 CELLPHONE 。
+E_UNKNOWN 我 喜 欢 吃 苹 果 。
+E_DATE 保 罗 回 来 了 ， 约 我 们 DATE 晚 上 一 起 去 本 部 藏 宝 海 湾 玩 桌 游 。
+E_UNKNOWN 【 天 猫 】 年 终 奖 还 不 发 ， 年 货 还 得 买 ， 手 机 天 猫 、 手 机 淘 宝 搜 索 “ 红 包 不 拿 就 是 丢 ” 捡 最 高 CURRENCY 红 包 ， 能 省 TIME 是 TIME ！ 回 FOREIGN 退 订 。
+E_UPDATE 原 联 通 号 码 CELLPHONE 暂 停 使 用 ， 新 的 移 动 号 码 LANDLINE 。
+E_UPDATE 各 位 朋 友 我 换 手 机 号 了 ， 新 手 机 号 为 LANDLINE ， 旧 手 机 号 LANDLINE 将 在 PERIOD 后 不 再 使 用 ， 请 各 位 惠 存 新 手 机 号 。
+E_UNKNOWN 好 的 ， 没 问 题 。 我 可 以 过 去 。

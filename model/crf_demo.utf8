@@ -1,0 +1,2707 @@
+U -2 0 烧烤 O: 1
+U -1 0 洪老板 0 0 吃 O: 1
+U 0 0 酒 0 2 NN 1 2 PU A_OBJECT: 2
+U 1 0 洪老板 2 0 吃 O: 1
+U 0 0 喜多屋 O: -1
+U -1 0 起 1 0 复旦大学 A_OBJECT: -1
+U 1 0 吃 2 0 生蚝 A_LOCATION: -1
+U 0 0 回 -1 2 M 0 2 V O: 1
+U 0 0 DATE 0 2 NT A_OBJECT: -2
+U 0 0 喜多屋 0 2 NR 1 2 V O: -1
+U -2 0 杭州 -1 0 请 O: -1
+U 2 0 ！ O: -2
+U 0 0 和 0 2 C O: 1
+U 0 0 在 O: 1
+U 1 0 牧羊传奇 O: 1
+U 0 0 王 -1 2 NR 0 2 NR O: -1
+U 0 0 生蚝 0 3 FOOD O: -1
+U 0 0 和 A_LOCATION: -1
+U -1 0 能 0 0 喝 A_OBJECT: -1
+U 1 0 个 2 0 自助 A_OBJECT: -1
+U -2 0 有 -1 0 家 O: -1
+U 0 0 非常 0 3 N/A A_OBJECT: -1
+U -1 0 吃 0 0 烧烤 O: -1
+U 0 0 起 0 2 M O: 1
+U 1 0 上 A_OBJECT: -1
+U 1 0 吧 O: -3
+U -1 0 TIME O: 1
+U 0 0 有 1 0 机会 A_LOCATION: -1
+U 2 0 个 A_PEOPLE: 2
+U 0 0 吧 -1 2 NR 0 2 IJ A_OBJECT: -1
+U 0 0 烧烤 0 3 FOOD A_OBJECT: 1
+U -1 0 个 1 0 ， A_OBJECT: 1
+U 0 0 DATE 0 2 NT 1 2 AD A_DATE: 2
+U -2 0 DIGIT A_OBJECT: -1
+U 2 0 烧烤 A_LOCATION: 2
+U 0 0 洪老板 -1 2 C 0 2 NR A_LOCATION: -1
+U -2 0 两 O: -2
+U 1 0 上 2 0 公司 A_OBJECT: -1
+U -1 0 不如 A_DATE: 1
+U -1 0 能 1 0 两 A_OBJECT: -1
+U -2 0 牧羊传奇 -1 0 和 A_LOCATION: -1
+U 1 0 老 2 0 工厂 A_LOCATION: -1
+U 0 0 工厂 0 2 NN O: 1
+U -2 0 王 -1 0 都 A_PEOPLE: -1
+U -1 0 生蚝 A_DATE: -1
+U 0 0 ！ 0 3 PUNCTUATION A_PEOPLE: -1
+U 0 0 。 A_LOCATION: -1
+U 0 0 工厂 0 3 N/A O: 1
+U 0 0 复旦大学 0 2 NR 1 2 V O: -1
+U -2 0 去 -1 0 喜多屋 A_OBJECT: -1
+U 0 0 DATE 0 2 NT 1 2 AD A_OBJECT: -1
+U -2 0 能 O: 1
+U 0 0 徐家汇 0 2 NR A_LOCATION: 2
+U 0 0 的 -1 2 NR 0 2 U O: 1
+U -2 0 和 -1 0 洪老板 A_LOCATION: -1
+U -1 0 不如 1 0 一起 A_OBJECT: -1
+U -1 0 或者 1 0 王 O: -2
+U 0 0 两 0 2 D 1 2 M O: 1
+U -1 0 不如 A_OBJECT: -1
+U 0 0 自助 0 2 NR 1 2 IJ A_DATE: -1
+U 0 0 个 0 3 N/A A_LOCATION: -2
+U -1 0 徐家汇 A_LOCATION: -1
+U 0 0 个 -1 2 V 0 2 M O: 1
+U -2 0 可以 O: 1
+U -1 0 公司 A_PEOPLE: 2
+U 0 0 人均 O: 1
+U -2 0 火锅 -1 0 吧 A_LOCATION: -2
+U -2 0 自助 -1 0 ， O: 1
+U 0 0 可以 -1 2 AD 0 2 V O: 1
+U 1 0 喜多屋 A_OBJECT: -1
+U 0 0 酸菜鱼 0 2 NR A_LOCATION: 1
+U 1 0 复旦大学 A_OBJECT: -1
+U 0 0 TIME 0 2 NT 1 2 P A_TIME: 1
+U 0 0 生蚝 -1 2 V 0 2 NR O: -1
+U 1 0 有 2 0 家 O: -1
+U 0 0 烧烤 0 2 NR O: -1
+U -2 0 吧 O: -2
+U 0 0 王 -1 2 NR 0 2 NR A_PEOPLE: -1
+U 0 0 个 -1 2 P 0 2 M O: 1
+U 0 0 牧羊传奇 -1 2 P 0 2 NR O: -1
+U 0 0 可以 0 2 V 1 2 IJ A_PEOPLE: -1
+U 0 0 就 0 2 AD O: 1
+U -1 0 请 0 0 你们 A_PEOPLE: 2
+U 1 0 机会 O: 2
+U -2 0 牧羊传奇 A_PEOPLE: 2
+U -1 0 一起 A_OBJECT: -1
+U 0 0 不错 0 2 JJ O: 1
+U 0 0 吃 A_OBJECT: -2
+U -1 0 金老板 0 0 。 A_OBJECT: -1
+U 0 0 酸菜鱼 0 3 FOOD A_LOCATION: 1
+U -1 0 家 0 0 酸菜鱼 O: -1
+U 0 0 牧羊传奇 0 3 ORGANIZATION O: -1
+U -1 0 DATE 0 0 一起 O: 1
+U 1 0 喜多屋 2 0 吃 A_OBJECT: -1
+U 0 0 你们 -1 2 V 0 2 PN A_LOCATION: -1
+U -2 0 牧羊传奇 -1 0 和 O: -1
+U 0 0 王 0 3 N/A O: -1
+U 0 0 杭州 0 3 LOCATION O: -2
+U 0 0 扇贝 0 2 NR O: -2
+U 0 0 在 0 2 P 1 2 NR O: 1
+U 0 0 自助 1 0 啊 A_OBJECT: 2
+U -1 0 或者 1 0 王 A_OBJECT: 2
+U 0 0 就 0 2 AD 1 2 JJ O: 1
+U 0 0 复旦大学 O: -1
+U 0 0 ！ 0 3 PUNCTUATION A_LOCATION: -1
+U -2 0 酸菜鱼 -1 0 ， O: 1
+U 1 0 ， A_LOCATION: 1
+U -2 0 你们 A_OBJECT: 1
+U 0 0 ， 0 2 PU O: 1
+U -2 0 洪老板 A_LOCATION: -1
+U -2 0 杭州 O: -1
+U -2 0 起 -1 0 回 A_OBJECT: -1
+U 1 0 一起 2 0 吃 A_DATE: 1
+U 0 0 火锅 1 0 吧 A_OBJECT: 4
+U 0 0 王 O: -1
+U 0 0 你们 A_PEOPLE: 2
+U 1 0 的 2 0 老 A_LOCATION: 2
+U 0 0 DIGIT 1 0 起 A_OBJECT: -1
+U 0 0 有 1 0 机会 O: 2
+U 0 0 DIGIT 0 2 D O: 1
+U 2 0 来 A_LOCATION: -1
+U -2 0 复旦大学 O: -1
+U -1 0 来 A_LOCATION: 2
+U 2 0 你们 O: -2
+U -1 0 箱 A_OBJECT: 2
+U 0 0 生蚝 A_OBJECT: 1
+U -2 0 的 O: 1
+U 0 0 洪老板 0 2 NR 1 2 V A_PEOPLE: 2
+U -1 0 徐家汇 1 0 老 O: 1
+U 0 0 ， -1 2 V 0 2 PU O: 1
+U 0 0 火锅 0 3 N/A A_OBJECT: 4
+U -1 0 在 O: -1
+U 0 0 吃 0 3 N/A A_LOCATION: -1
+U 0 0 生蚝 0 2 NR A_OBJECT: 1
+U -1 0 吃 0 0 烤羊腿 O: -1
+U 0 0 烤羊腿 O: -1
+U 0 0 吃 1 0 个 A_OBJECT: -1
+U 0 0 和 0 3 N/A O: 1
+U -2 0 叫 O: 1
+U 0 0 老 0 2 JJ A_OBJECT: -1
+U 2 0 喝 A_LOCATION: -1
+U 0 0 有 0 3 N/A A_DATE: -1
+U 1 0 。 A_PEOPLE: 2
+U -2 0 杭州 A_LOCATION: -1
+U 0 0 DATE 1 0 TIME A_LOCATION: -1
+U 1 0 的 O: -1
+U -2 0 DATE -1 0 DIGIT O: 1
+U -1 0 公司 0 0 金老板 O: -2
+U 0 0 或者 1 0 扇贝 A_PEOPLE: -1
+U 0 0 DIGIT 0 3 DIGIT O: 1
+U -1 0 ， 1 0 上 A_OBJECT: -1
+U 0 0 酒 -1 2 M 0 2 NN O: -2
+U -2 0 吃 -1 0 个 O: -1
+U 0 0 火锅 0 2 NN A_OBJECT: 4
+U -1 0 回 0 0 复旦大学 A_LOCATION: 2
+U 0 0 吧 0 2 IJ 1 2 PU O: 2
+U 0 0 金老板 O: -2
+U -1 0 DATE A_LOCATION: -2
+U -1 0 啊 A_PEOPLE: -1
+U 0 0 的 1 0 老 A_LOCATION: -1
+U -1 0 的 1 0 工厂 O: 1
+U -2 0 自助 -1 0 ， A_OBJECT: -1
+U -1 0 DATE 0 0 一起 A_LOCATION: -1
+U -2 0 吃 -1 0 烧烤 A_OBJECT: -1
+U 1 0 火锅 2 0 吧 O: 1
+U 0 0 自助 -1 2 M 0 2 V O: -1
+U 0 0 两 A_LOCATION: -1
+U 2 0 吃 A_OBJECT: -2
+U -2 0 DIGIT -1 0 起 A_OBJECT: -1
+U 0 0 TIME -1 2 NT 0 2 NT A_LOCATION: -1
+U 0 0 有 0 2 V 1 2 NN O: 2
+U 2 0 和 O: 1
+U -1 0 一起 0 0 去 O: 1
+U 0 0 工厂 O: 1
+U -1 0 老 1 0 就 O: 1
+U 0 0 杭州 1 0 请 A_LOCATION: 2
+U 0 0 扇贝 A_OBJECT: 2
+U -1 0 回 0 0 复旦大学 O: -1
+U 2 0 生蚝 A_LOCATION: -1
+U 0 0 你们 0 2 PN O: -1
+U 1 0 牧羊传奇 2 0 和 A_LOCATION: -1
+U -2 0 上 O: -2
+U -1 0 请 1 0 吃 A_PEOPLE: 2
+U -2 0 吃 -1 0 烤羊腿 A_PEOPLE: -1
+U -1 0 的 0 0 火锅 A_OBJECT: 2
+U 1 0 请 A_LOCATION: 2
+U 0 0 自助 0 3 DOMAIN A_OBJECT: 2
+U -1 0 或者 0 0 扇贝 A_OBJECT: 2
+U -2 0 公司 O: 1
+U 0 0 人均 0 3 N/A A_DATE: -1
+U 1 0 叫 A_LOCATION: -1
+U 0 0 。 0 2 PU O: 3
+U 0 0 徐家汇 -1 2 PU 0 2 NR O: -2
+U 0 0 非常 0 2 AD 1 2 JJ O: 1
+U 1 0 两 A_OBJECT: -1
+U 2 0 酒 A_LOCATION: -1
+U -1 0 吃 0 0 生蚝 A_OBJECT: 1
+U 0 0 香辣 0 3 N/A O: 1
+U 1 0 有 O: -1
+U -1 0 生蚝 A_OBJECT: 2
+U 0 0 徐家汇 1 0 的 A_LOCATION: 2
+U 1 0 金老板 2 0 。 O: 1
+U 0 0 起 0 3 N/A A_OBJECT: -1
+U -1 0 回 1 0 吃 A_LOCATION: 2
+U -2 0 起 -1 0 回 A_LOCATION: 2
+U -1 0 金老板 0 0 。 O: 1
+U -1 0 来 0 0 杭州 O: -2
+U 0 0 吃 O: 3
+U 0 0 TIME 0 2 NT 1 2 V A_TIME: 2
+U 0 0 扇贝 0 2 NR 1 2 NR O: -2
+U 0 0 非常 O: 1
+U -1 0 复旦大学 1 0 烧烤 A_OBJECT: -1
+U 0 0 你们 0 3 N/A A_PEOPLE: 2
+U 0 0 还 1 0 能 A_LOCATION: -1
+U 0 0 一起 -1 2 NT 0 2 AD A_LOCATION: -1
+U 1 0 在 A_TIME: 1
+U 0 0 喜多屋 1 0 吃 O: -1
+U -2 0 去 -1 0 喜多屋 O: 1
+U 1 0 自助 2 0 啊 A_OBJECT: 1
+U 0 0 TIME 0 3 TIME A_LOCATION: -2
+U -1 0 生蚝 1 0 啊 A_OBJECT: 2
+U 0 0 金老板 0 2 NR 1 2 PU A_PEOPLE: 2
+U -1 0 就 0 0 不错 O: 1
+U 1 0 工厂 2 0 就 A_OBJECT: -1
+U 0 0 烤羊腿 A_OBJECT: 1
+U 0 0 王 0 2 NR 1 2 AD O: -1
+U 0 0 起 A_OBJECT: -1
+U 2 0 张江镇 O: -1
+U -1 0 个 A_OBJECT: 2
+U -1 0 ， 0 0 叫 A_OBJECT: -1
+U -1 0 喜多屋 O: 1
+U 0 0 。 0 3 PUNCTUATION A_OBJECT: -2
+U 1 0 吃 2 0 个 A_PEOPLE: 2
+U 0 0 王 1 0 都 A_OBJECT: 2
+U 2 0 烧烤 O: -1
+U -2 0 DATE O: 3
+U -1 0 吃 1 0 非常 O: 1
+U -1 0 请 O: -1
+U 2 0 香辣 A_LOCATION: -1
+U 1 0 能 2 0 喝 O: 1
+U -2 0 老 O: 1
+U 1 0 能 O: 1
+U -1 0 和 0 0 洪老板 A_LOCATION: -1
+U 1 0 的 2 0 老 O: -2
+U -1 0 都 1 0 啊 A_PEOPLE: -1
+U 1 0 。 O: -2
+U -2 0 火锅 O: 2
+U -2 0 ！ A_LOCATION: -1
+U -2 0 有 A_LOCATION: 1
+U -1 0 啊 0 0 ！ A_PEOPLE: -1
+U 0 0 回 -1 2 M 0 2 V A_OBJECT: -1
+U -2 0 上 -1 0 公司 O: -2
+U 1 0 就 2 0 不错 O: 1
+U 0 0 牧羊传奇 -1 2 P 0 2 NR A_LOCATION: 1
+U 2 0 扇贝 A_OBJECT: 1
+U 1 0 和 2 0 洪老板 O: -1
+U 0 0 徐家汇 0 2 NR 1 2 U O: -2
+U 0 0 或者 1 0 扇贝 A_OBJECT: 2
+U 0 0 金老板 0 2 NR 1 2 PU O: -2
+U 0 0 烤羊腿 1 0 或者 A_OBJECT: 1
+U 0 0 ！ A_LOCATION: -1
+U 0 0 吧 0 2 IJ O: 2
+U 2 0 王 A_OBJECT: 2
+U 0 0 复旦大学 -1 2 V 0 2 NR O: -1
+U -1 0 啊 O: 1
+U 1 0 都 O: -1
+U 0 0 火锅 0 2 NN 1 2 IJ A_LOCATION: -2
+U 0 0 可以 1 0 啊 O: 1
+U 0 0 的 0 3 N/A A_LOCATION: -1
+U 0 0 非常 1 0 香辣 O: 1
+U 1 0 都 A_OBJECT: 2
+U 1 0 能 A_LOCATION: -1
+U 0 0 自助 0 2 NR A_DATE: -1
+U 0 0 在 0 2 P 1 2 NR A_LOCATION: -1
+U 0 0 或者 0 3 N/A A_PEOPLE: -1
+U 2 0 还 A_DATE: -1
+U 0 0 不错 0 2 JJ 1 2 PU O: 1
+U 0 0 DATE 1 0 TIME A_DATE: 1
+U 1 0 回 2 0 复旦大学 O: 1
+U -1 0 金老板 A_OBJECT: -1
+U -2 0 能 -1 0 喝 O: 1
+U -1 0 起 O: 1
+U -2 0 的 -1 0 老 A_LOCATION: -1
+U 1 0 一起 O: -1
+U 0 0 王 1 0 都 A_PEOPLE: -1
+U -2 0 或者 -1 0 扇贝 A_OBJECT: 2
+U 2 0 吃 O: 2
+U 0 0 。 0 3 PUNCTUATION O: 3
+U 1 0 吃 2 0 烧烤 O: -1
+U 1 0 请 2 0 你们 O: -2
+U 0 0 你们 -1 2 V 0 2 PN A_PEOPLE: 2
+U -1 0 扇贝 0 0 王 O: -1
+U 0 0 王 0 2 NR O: -1
+U 1 0 不错 O: 1
+U 0 0 不错 1 0 。 A_LOCATION: -1
+U 0 0 TIME O: -1
+U 0 0 非常 0 2 AD 1 2 JJ A_OBJECT: -1
+U -1 0 DIGIT A_OBJECT: -1
+U -1 0 烤羊腿 1 0 扇贝 A_PEOPLE: -1
+U 0 0 ！ 0 2 PU 1 2 NR O: 1
+U 0 0 DIGIT 0 2 D 1 2 M O: 1
+U 0 0 吧 0 2 IJ 1 2 PU A_LOCATION: -1
+U 0 0 生蚝 0 3 FOOD A_OBJECT: 1
+U -1 0 吃 A_OBJECT: 3
+U 0 0 自助 0 2 V O: -1
+U 1 0 吧 2 0 ！ O: -2
+U 1 0 的 2 0 火锅 A_LOCATION: -1
+U -1 0 复旦大学 A_OBJECT: -1
+U 0 0 起 1 0 回 A_OBJECT: -1
+U -2 0 牧羊传奇 O: -1
+U 0 0 去 0 3 N/A O: 1
+U 0 0 和 0 2 C 1 2 NR O: 1
+U -1 0 洪老板 A_LOCATION: -1
+U -1 0 个 0 0 自助 O: -1
+U 0 0 生蚝 1 0 自助 O: -1
+U 1 0 吃 2 0 烤羊腿 A_LOCATION: 1
+U 1 0 工厂 A_OBJECT: -1
+U 0 0 叫 0 2 V 1 2 U A_OBJECT: -1
+U -2 0 香辣 -1 0 的 A_OBJECT: 2
+U 0 0 酒 0 2 NN A_OBJECT: 2
+U -2 0 老 -1 0 工厂 O: 1
+U 0 0 烤羊腿 -1 2 V 0 2 NR A_OBJECT: 1
+U 1 0 啊 2 0 ！ O: 0
+U 0 0 不错 A_LOCATION: -1
+U 0 0 DATE 1 0 有 A_DATE: 1
+U 0 0 和 1 0 洪老板 O: 1
+U -2 0 TIME -1 0 去 A_PEOPLE: -1
+U 0 0 DATE A_OBJECT: -2
+U -2 0 箱 O: 1
+U 0 0 起 0 2 M 1 2 V O: 1
+U -1 0 烤羊腿 1 0 扇贝 A_OBJECT: 2
+U 0 0 自助 0 2 NR O: -1
+U 2 0 箱 A_OBJECT: -1
+U 1 0 在 A_LOCATION: -1
+U -1 0 的 A_LOCATION: -1
+U -2 0 公司 A_OBJECT: -1
+U 1 0 去 2 0 张江镇 A_LOCATION: -1
+U 1 0 吃 2 0 烤羊腿 A_PEOPLE: -1
+U -2 0 DATE -1 0 DIGIT A_OBJECT: -1
+U 1 0 回 O: 1
+U 0 0 公司 0 2 NN 1 2 NR O: 1
+U -2 0 上 A_PEOPLE: 2
+U -2 0 杭州 -1 0 请 A_PEOPLE: 2
+U 0 0 去 0 2 V A_OBJECT: -1
+U -1 0 去 A_LOCATION: 2
+U 0 0 的 0 2 U A_LOCATION: -1
+U 1 0 回 A_OBJECT: -1
+U -1 0 吃 1 0 吧 O: -1
+U 1 0 个 2 0 自助 O: 1
+U 0 0 老 0 2 JJ 1 2 NN A_OBJECT: -1
+U -2 0 牧羊传奇 -1 0 和 A_PEOPLE: 2
+U -2 0 一起 -1 0 去 A_LOCATION: 1
+U 0 0 非常 -1 2 M 0 2 AD O: 1
+U 0 0 回 0 2 V O: 1
+U 0 0 复旦大学 0 2 NR 1 2 V A_OBJECT: -1
+U 0 0 在 A_LOCATION: -1
+U -1 0 回 1 0 吃 O: -1
+U 0 0 洪老板 0 2 NR O: -1
+U 0 0 还 A_LOCATION: -1
+U -2 0 TIME A_LOCATION: 2
+U 1 0 和 A_LOCATION: 1
+U 0 0 非常 -1 2 M 0 2 AD A_OBJECT: -1
+U 0 0 吃 0 2 V A_LOCATION: -1
+U -1 0 个 O: -1
+U -2 0 牧羊传奇 A_LOCATION: -1
+U 1 0 吃 2 0 烧烤 A_LOCATION: 2
+U 0 0 王 A_OBJECT: 2
+U 1 0 非常 2 0 香辣 O: 1
+U 0 0 起 0 2 M A_OBJECT: -1
+U 2 0 吧 A_LOCATION: -1
+U -2 0 TIME -1 0 在 O: -1
+U 0 0 有 A_DATE: -1
+U 0 0 有 0 3 N/A O: 2
+U 0 0 TIME 0 2 NT 1 2 V A_LOCATION: -1
+U 0 0 火锅 0 3 N/A O: -2
+U 2 0 张江镇 A_TIME: 2
+U -1 0 复旦大学 O: 1
+U 1 0 上 2 0 公司 O: 1
+U 0 0 吃 -1 2 NR 0 2 V A_OBJECT: -2
+U 0 0 喝 -1 2 V 0 2 V O: 1
+U 2 0 王 O: -1
+U 0 0 在 1 0 牧羊传奇 O: 1
+U 0 0 你们 0 2 PN 1 2 V A_LOCATION: -1
+U 0 0 叫 A_OBJECT: -1
+U 0 0 一起 O: 1
+U 0 0 起 -1 2 D 0 2 M A_OBJECT: -1
+U 0 0 老 -1 2 U 0 2 JJ O: 1
+U 1 0 自助 A_OBJECT: 1
+U 0 0 徐家汇 0 2 NR 1 2 U A_LOCATION: 2
+U -1 0 非常 1 0 的 A_LOCATION: -1
+U 0 0 你们 0 2 PN 1 2 V O: -1
+U 0 0 可以 A_PEOPLE: -1
+U -1 0 生蚝 1 0 啊 A_DATE: -1
+U 0 0 ！ 0 2 PU O: 3
+U -1 0 火锅 A_LOCATION: -1
+U -1 0 吧 1 0 徐家汇 A_LOCATION: -1
+U 1 0 DIGIT 2 0 起 A_OBJECT: -1
+U 1 0 起 O: 1
+U 0 0 还 O: 1
+U -1 0 工厂 1 0 不错 A_OBJECT: -1
+U -1 0 自助 1 0 叫 O: 1
+U 1 0 工厂 O: 1
+U 2 0 ！ A_DATE: -1
+U 1 0 扇贝 A_PEOPLE: -1
+U -2 0 的 A_LOCATION: -1
+U 0 0 回 0 3 N/A A_OBJECT: -1
+U -1 0 扇贝 1 0 都 A_PEOPLE: -1
+U 0 0 ， 0 3 PUNCTUATION O: 1
+U -1 0 吃 0 0 烤羊腿 A_OBJECT: 1
+U 1 0 复旦大学 O: 1
+U -1 0 的 1 0 吧 A_OBJECT: 2
+U 0 0 喜多屋 A_LOCATION: 1
+U 2 0 的 A_OBJECT: -1
+U 0 0 就 -1 2 NN 0 2 AD A_OBJECT: -1
+U 1 0 吃 2 0 个 A_LOCATION: -1
+U -1 0 火锅 0 0 吧 O: 1
+U 1 0 金老板 A_OBJECT: -1
+U 2 0 洪老板 A_LOCATION: 1
+U -2 0 有 -1 0 家 A_LOCATION: 1
+U 0 0 不错 O: 1
+U 0 0 TIME 0 2 NT 1 2 P A_LOCATION: -1
+U -2 0 吃 -1 0 个 A_OBJECT: 2
+U -1 0 喜多屋 0 0 吃 O: 1
+U 2 0 人均 A_LOCATION: 1
+U 2 0 在 A_DATE: 1
+U -1 0 回 0 0 复旦大学 A_OBJECT: -1
+U -2 0 DATE A_LOCATION: -1
+U 1 0 去 2 0 张江镇 A_TIME: 2
+U 0 0 和 0 2 C A_LOCATION: -1
+U -2 0 机会 -1 0 来 A_LOCATION: 2
+U -1 0 的 1 0 吧 O: -1
+U -2 0 一起 -1 0 吃 O: 1
+U 0 0 ， O: 1
+U 0 0 就 1 0 不错 O: 1
+U 0 0 自助 A_OBJECT: 3
+U 0 0 烤羊腿 0 3 FOOD O: -1
+U 2 0 去 A_OBJECT: -1
+U 0 0 酸菜鱼 -1 2 NN 0 2 NR O: -1
+U 1 0 不错 2 0 。 A_OBJECT: -1
+U 0 0 。 -1 2 NR 0 2 PU O: 1
+U 0 0 徐家汇 1 0 的 O: -2
+U 0 0 有 O: 2
+U 0 0 你们 1 0 吃 O: -1
+U -1 0 烧烤 0 0 吧 O: 1
+U -1 0 TIME A_LOCATION: -1
+U 1 0 啊 A_OBJECT: 2
+U -2 0 吃 -1 0 生蚝 O: -1
+U -2 0 或者 -1 0 扇贝 A_PEOPLE: -1
+U 2 0 香辣 O: 1
+U 1 0 香辣 2 0 的 A_OBJECT: -1
+U -2 0 香辣 A_OBJECT: 2
+U 1 0 ！ A_OBJECT: -1
+U 0 0 人均 0 2 NR 1 2 D O: 1
+U 2 0 ！ A_OBJECT: 5
+U 0 0 公司 0 3 N/A A_OBJECT: -1
+U -1 0 能 1 0 两 O: 1
+U 0 0 在 -1 2 NT 0 2 P A_LOCATION: -1
+U 1 0 一起 2 0 吃 O: -1
+U 0 0 一起 0 2 AD A_LOCATION: -1
+U -1 0 起 A_OBJECT: -1
+U 1 0 或者 O: -1
+U 0 0 吃 0 2 V 1 2 M A_LOCATION: -1
+U 1 0 能 2 0 喝 A_LOCATION: -1
+U -2 0 烤羊腿 -1 0 或者 A_OBJECT: 2
+U 1 0 两 2 0 箱 O: 1
+U -1 0 个 1 0 吧 A_OBJECT: 2
+U -1 0 去 1 0 吃 O: -1
+U 0 0 吃 -1 2 NR 0 2 V A_LOCATION: -1
+U 0 0 DATE 0 3 DATE A_DATE: 6
+U 0 0 去 -1 2 AD 0 2 V O: 1
+U -1 0 烤羊腿 0 0 或者 A_OBJECT: 2
+U -1 0 来 1 0 请 A_LOCATION: 2
+U 0 0 ， A_LOCATION: -1
+U 0 0 酒 1 0 。 A_OBJECT: 2
+U 0 0 火锅 0 2 NN 1 2 IJ A_OBJECT: 4
+U -2 0 还 -1 0 能 A_OBJECT: -1
+U 1 0 啊 2 0 ！ A_DATE: -1
+U 0 0 洪老板 0 3 PERSON A_LOCATION: -1
+U 1 0 啊 O: 0
+U -1 0 ， 1 0 DIGIT A_DATE: -1
+U 0 0 回 1 0 复旦大学 A_OBJECT: -1
+U 1 0 吃 2 0 烧烤 A_OBJECT: -1
+U 0 0 ！ 0 3 PUNCTUATION A_OBJECT: -1
+U 0 0 扇贝 0 3 FOOD O: -2
+U -1 0 生蚝 O: -1
+U 0 0 一起 -1 2 NT 0 2 AD O: 1
+U -1 0 回 1 0 吃 A_OBJECT: -1
+U -1 0 ！ 0 0 徐家汇 O: -2
+U -1 0 吧 A_OBJECT: -1
+U -2 0 公司 -1 0 金老板 O: 1
+U 0 0 牧羊传奇 A_LOCATION: 1
+U -1 0 工厂 1 0 不错 O: 1
+U 0 0 工厂 0 3 N/A A_LOCATION: -1
+U 0 0 有 0 3 N/A A_LOCATION: -1
+U -2 0 工厂 A_LOCATION: -1
+U -2 0 老 -1 0 工厂 A_OBJECT: -1
+U 0 0 喝 1 0 两 O: 1
+U 0 0 喜多屋 0 3 ORGANIZATION O: -1
+U 1 0 一起 2 0 去 A_OBJECT: -1
+U 0 0 吧 0 3 N/A A_LOCATION: -1
+U 0 0 一起 0 3 N/A O: 1
+U 0 0 就 0 2 AD 1 2 JJ A_OBJECT: -1
+U 0 0 张江镇 0 2 NR A_PEOPLE: -1
+U 1 0 ， O: -2
+U 0 0 DATE 0 2 NT A_LOCATION: -1
+U 0 0 王 -1 2 NR 0 2 NR A_OBJECT: 2
+U 0 0 在 -1 2 NT 0 2 P O: 1
+U 1 0 两 2 0 箱 A_OBJECT: -1
+U -1 0 非常 1 0 的 O: 1
+U -1 0 烧烤 1 0 ！ A_OBJECT: -1
+U 0 0 个 1 0 火锅 O: 1
+U -1 0 去 O: -1
+U 0 0 金老板 0 2 NR A_PEOPLE: 2
+U 0 0 吧 1 0 ！ A_OBJECT: -1
+U 0 0 吃 0 2 V 1 2 M O: 2
+U 0 0 ！ -1 2 IJ 0 2 PU A_LOCATION: -1
+U 0 0 去 0 2 V O: 1
+U -1 0 家 0 0 酸菜鱼 A_LOCATION: 1
+U 0 0 你们 1 0 吃 A_LOCATION: -1
+U 0 0 烧烤 A_OBJECT: 1
+U -2 0 ！ -1 0 徐家汇 A_LOCATION: -1
+U 1 0 啊 A_DATE: -1
+U -1 0 和 A_PEOPLE: 2
+U -1 0 烧烤 1 0 ！ O: 1
+U 0 0 公司 O: 1
+U -2 0 去 A_OBJECT: -1
+U 0 0 烧烤 0 2 NR 1 2 IJ A_OBJECT: 1
+U 0 0 自助 0 2 V 1 2 PU A_OBJECT: 1
+U 1 0 机会 A_LOCATION: -1
+U -2 0 去 O: 1
+U 2 0 扇贝 O: -1
+U -1 0 DATE 0 0 DIGIT O: 1
+U 0 0 。 0 2 PU A_LOCATION: -1
+U -1 0 回 A_OBJECT: -1
+U -2 0 个 -1 0 火锅 A_LOCATION: -1
+U 1 0 烧烤 O: 1
+U 2 0 生蚝 O: -1
+U 0 0 还 0 3 N/A A_LOCATION: -1
+U 0 0 ， 0 2 PU 1 2 V A_LOCATION: -1
+U 0 0 人均 0 3 N/A O: 1
+U 1 0 TIME 2 0 在 A_LOCATION: -1
+U 0 0 自助 0 3 DOMAIN A_DATE: -1
+U 1 0 吧 2 0 。 O: -1
+U -1 0 和 O: -1
+U 0 0 烧烤 0 2 NR 1 2 IJ O: -1
+U 0 0 张江镇 -1 2 V 0 2 NR A_LOCATION: 1
+U -1 0 起 0 0 回 A_OBJECT: -1
+U -2 0 机会 O: -2
+U 2 0 啊 A_OBJECT: 1
+U 0 0 ！ 1 0 徐家汇 A_LOCATION: -1
+U 0 0 洪老板 -1 2 C 0 2 NR O: -1
+U 0 0 酸菜鱼 1 0 ， O: -1
+U 0 0 一起 A_LOCATION: -1
+U 0 0 金老板 -1 2 NN 0 2 NR O: -2
+U 1 0 吃 A_LOCATION: 1
+U 2 0 就 A_OBJECT: -1
+U 0 0 或者 0 2 C A_OBJECT: 2
+U -2 0 在 A_LOCATION: -1
+U -2 0 一起 O: 0
+U 0 0 DATE 0 2 NT 1 2 NT A_DATE: 1
+U 0 0 洪老板 0 3 PERSON A_PEOPLE: 2
+U 0 0 DATE 0 2 NT A_DATE: 6
+U 0 0 火锅 -1 2 M 0 2 NN A_OBJECT: 2
+U 1 0 都 A_PEOPLE: -1
+U -1 0 吃 1 0 吧 A_OBJECT: 1
+U 2 0 复旦大学 A_OBJECT: -1
+U 0 0 ， 0 2 PU 1 2 V O: 1
+U -2 0 香辣 -1 0 的 O: -1
+U 0 0 张江镇 0 3 LOCATION A_PEOPLE: -1
+U 0 0 酸菜鱼 A_LOCATION: 1
+U -1 0 和 1 0 吃 A_LOCATION: -1
+U 0 0 DIGIT 1 0 起 O: 1
+U 0 0 老 -1 2 U 0 2 JJ A_OBJECT: -1
+U -1 0 TIME 0 0 在 O: 1
+U -2 0 和 O: 1
+U 0 0 或者 0 3 N/A A_OBJECT: 2
+U -1 0 DIGIT 1 0 回 A_OBJECT: -1
+U -1 0 ！ 1 0 的 O: -2
+U -2 0 烧烤 A_OBJECT: -1
+U 0 0 火锅 1 0 吧 A_LOCATION: -2
+U -2 0 烤羊腿 -1 0 或者 O: -2
+U 0 0 喜多屋 0 3 ORGANIZATION A_LOCATION: 1
+U -1 0 的 0 0 老 O: 1
+U 0 0 酒 0 3 N/A O: -2
+U 0 0 个 0 2 M A_LOCATION: -2
+U 0 0 和 1 0 洪老板 A_LOCATION: -1
+U 1 0 烧烤 2 0 吧 O: 1
+U -1 0 请 0 0 你们 A_LOCATION: -1
+U -2 0 王 A_PEOPLE: -1
+U 0 0 非常 A_OBJECT: -1
+U 0 0 烧烤 0 3 FOOD O: -1
+U 0 0 吃 A_LOCATION: -1
+U 0 0 吧 A_OBJECT: -1
+U -1 0 扇贝 1 0 都 O: -1
+U 0 0 人均 -1 2 PU 0 2 NR A_DATE: -1
+U 0 0 吃 0 3 N/A A_OBJECT: -2
+U 0 0 回 A_OBJECT: -1
+U -1 0 DATE 0 0 TIME A_TIME: 1
+U 0 0 自助 1 0 ， A_OBJECT: 1
+U 0 0 DIGIT 0 3 DIGIT A_OBJECT: -1
+U 2 0 吃 A_DATE: 1
+U -2 0 吧 A_LOCATION: 2
+U -1 0 个 1 0 吧 A_LOCATION: -1
+U -1 0 ！ 1 0 的 A_LOCATION: 2
+U -1 0 一起 1 0 喜多屋 A_OBJECT: -1
+U -2 0 吧 -1 0 ！ O: -2
+U 1 0 ， A_OBJECT: 1
+U 0 0 起 O: 1
+U 1 0 去 A_LOCATION: -1
+U 0 0 自助 O: -2
+U 0 0 公司 -1 2 U 0 2 NN O: 1
+U -2 0 你们 -1 0 吃 A_OBJECT: 1
+U 0 0 和 -1 2 NR 0 2 C A_LOCATION: -1
+U -1 0 喝 1 0 箱 O: 1
+U -1 0 ， 1 0 上 O: 1
+U -1 0 喝 0 0 两 O: 1
+U 0 0 叫 0 2 V A_OBJECT: -1
+U -1 0 徐家汇 1 0 老 A_LOCATION: -1
+U 0 0 去 0 3 N/A A_OBJECT: -1
+U -1 0 烤羊腿 O: -1
+U 1 0 不错 A_OBJECT: -1
+U -1 0 去 0 0 喜多屋 A_LOCATION: 1
+U 0 0 扇贝 0 2 NR A_OBJECT: 2
+U -1 0 吃 0 0 烧烤 A_OBJECT: 1
+U 1 0 ， 2 0 叫 A_OBJECT: 1
+U -1 0 能 0 0 喝 O: 1
+U -2 0 可以 A_PEOPLE: -1
+U 1 0 王 O: -2
+U -1 0 就 0 0 不错 A_LOCATION: -1
+U 0 0 老 0 2 JJ O: 1
+U -1 0 老 0 0 工厂 O: 1
+U -1 0 吧 A_LOCATION: -2
+U 2 0 起 O: -1
+U -2 0 个 -1 0 非常 A_LOCATION: -1
+U -1 0 吃 1 0 自助 O: -1
+U 0 0 你们 0 2 PN A_LOCATION: -1
+U -2 0 或者 -1 0 扇贝 O: -1
+U -1 0 ， O: 2
+U 0 0 叫 1 0 上 O: 1
+U -1 0 箱 0 0 酒 A_OBJECT: 2
+U 1 0 都 2 0 可以 A_PEOPLE: -1
+U 0 0 喜多屋 1 0 吃 A_LOCATION: 1
+U 1 0 香辣 A_OBJECT: -1
+U -1 0 在 1 0 和 A_LOCATION: 1
+U 0 0 自助 1 0 啊 A_DATE: -1
+U 0 0 TIME 0 3 TIME A_TIME: 3
+U 0 0 老 0 2 JJ 1 2 NN O: 1
+U 0 0 酒 1 0 。 O: -2
+U 2 0 啊 O: -1
+U -1 0 的 0 0 火锅 O: -1
+U 1 0 请 O: -2
+U 0 0 复旦大学 0 2 NR 1 2 V A_LOCATION: 2
+U 0 0 自助 -1 2 NR 0 2 NR A_DATE: -1
+U -2 0 火锅 A_LOCATION: -2
+U -2 0 一起 -1 0 去 O: -1
+U 0 0 还 0 2 AD A_LOCATION: -1
+U 1 0 DIGIT A_OBJECT: -1
+U -2 0 上 -1 0 公司 A_PEOPLE: 2
+U -2 0 还 -1 0 能 O: 1
+U 0 0 DATE 0 2 NT 1 2 D A_OBJECT: -1
+U 0 0 工厂 1 0 就 A_LOCATION: -1
+U 0 0 杭州 0 3 LOCATION A_LOCATION: 2
+U 0 0 你们 0 3 N/A O: -1
+U -1 0 金老板 O: 1
+U -1 0 老 1 0 就 A_LOCATION: -1
+U 2 0 洪老板 O: -1
+U 1 0 吃 2 0 生蚝 A_PEOPLE: 2
+U 1 0 扇贝 A_OBJECT: 2
+U -2 0 个 -1 0 火锅 O: 1
+U -1 0 个 0 0 火锅 A_LOCATION: -1
+U -1 0 上 0 0 公司 A_OBJECT: -1
+U -1 0 DATE 0 0 DIGIT A_OBJECT: -1
+U -1 0 牧羊传奇 O: 1
+U 0 0 吧 0 2 IJ A_LOCATION: -1
+U -1 0 ， 0 0 叫 O: 1
+U 1 0 起 A_OBJECT: -1
+U 1 0 火锅 2 0 吧 A_LOCATION: -1
+U -2 0 自助 O: 1
+U 1 0 有 A_DATE: 1
+U 1 0 DIGIT O: 0
+U -2 0 能 -1 0 喝 A_LOCATION: -1
+U 0 0 TIME 1 0 去 A_LOCATION: -1
+U 0 0 牧羊传奇 O: -1
+U -1 0 ， 0 0 人均 O: 1
+U 0 0 的 1 0 老 O: 1
+U 1 0 都 2 0 可以 A_OBJECT: 2
+U 1 0 个 O: 2
+U -1 0 吃 1 0 自助 A_OBJECT: 1
+U 0 0 徐家汇 A_LOCATION: 2
+U 1 0 火锅 O: 1
+U -2 0 张江镇 -1 0 吃 A_OBJECT: 1
+U 0 0 生蚝 -1 2 V 0 2 NR A_OBJECT: 1
+U -1 0 DATE 1 0 在 A_LOCATION: -1
+U -1 0 生蚝 0 0 自助 A_DATE: -1
+U 1 0 去 2 0 张江镇 O: -1
+U -2 0 徐家汇 -1 0 的 O: 1
+U 2 0 起 A_DATE: 2
+U -2 0 TIME O: -1
+U 0 0 ， 0 3 PUNCTUATION A_LOCATION: -1
+U 0 0 金老板 0 3 PERSON A_PEOPLE: 2
+U -1 0 老 0 0 工厂 A_LOCATION: -1
+U -1 0 DIGIT 0 0 还 A_LOCATION: -1
+U 0 0 个 -1 2 P 0 2 M A_LOCATION: -1
+U -2 0 叫 -1 0 上 A_OBJECT: -1
+U 0 0 复旦大学 -1 2 V 0 2 NR A_OBJECT: -1
+U 0 0 王 0 2 NR 1 2 AD A_OBJECT: 2
+U -1 0 吃 O: -1
+U 0 0 酸菜鱼 0 3 FOOD O: -1
+U 0 0 个 O: 2
+U 0 0 可以 0 2 V O: 1
+U -2 0 公司 -1 0 金老板 A_OBJECT: -1
+U 0 0 牧羊传奇 1 0 和 O: -1
+U 0 0 工厂 0 2 NN A_LOCATION: -1
+U 0 0 工厂 -1 2 JJ 0 2 NN A_LOCATION: -1
+U -1 0 个 0 0 非常 O: 1
+U 2 0 。 A_OBJECT: 0
+U -2 0 和 -1 0 洪老板 O: 1
+U -1 0 请 A_LOCATION: -1
+U 0 0 叫 0 3 N/A A_OBJECT: -1
+U 0 0 徐家汇 0 3 PERSON A_LOCATION: 2
+U 0 0 或者 0 2 C A_PEOPLE: -1
+U -2 0 酸菜鱼 A_DATE: -1
+U 0 0 你们 0 2 PN A_PEOPLE: 2
+U 0 0 复旦大学 A_OBJECT: -1
+U 1 0 老 A_LOCATION: -1
+U 0 0 酸菜鱼 0 2 NR 1 2 PU O: -1
+U -1 0 上 A_OBJECT: -1
+U -1 0 ， A_OBJECT: -1
+U 2 0 张江镇 A_LOCATION: -1
+U -2 0 DATE -1 0 一起 O: 1
+U -1 0 扇贝 1 0 都 A_OBJECT: 2
+U -2 0 洪老板 -1 0 吃 A_LOCATION: -1
+U 0 0 TIME 0 2 NT 1 2 V O: -1
+U -2 0 吃 -1 0 生蚝 A_DATE: -1
+U -2 0 一起 -1 0 吃 A_LOCATION: -1
+U -2 0 吃 -1 0 烤羊腿 O: -1
+U 0 0 两 0 2 D A_LOCATION: -1
+U 0 0 复旦大学 1 0 吃 A_LOCATION: 2
+U 1 0 王 A_OBJECT: 2
+U 0 0 火锅 0 3 N/A A_LOCATION: -2
+U 0 0 复旦大学 0 3 ORGANIZATION A_LOCATION: 2
+U -2 0 老 A_OBJECT: -1
+U -1 0 来 1 0 请 O: -2
+U 0 0 人均 1 0 DIGIT A_DATE: -1
+U 0 0 火锅 A_OBJECT: 4
+U 0 0 的 0 2 U 1 2 JJ O: 1
+U 1 0 牧羊传奇 2 0 和 O: 1
+U 0 0 在 0 2 P O: 1
+U 0 0 杭州 0 2 NR O: -2
+U -2 0 吃 O: -2
+U 0 0 香辣 A_LOCATION: -1
+U -1 0 烧烤 0 0 吧 A_OBJECT: -1
+U 0 0 烤羊腿 1 0 或者 O: -1
+U 0 0 可以 0 2 V 1 2 IJ O: 1
+U 0 0 ！ 0 2 PU A_OBJECT: -1
+U -1 0 一起 0 0 去 A_OBJECT: -1
+U -1 0 就 1 0 。 A_LOCATION: -1
+U -1 0 非常 O: 1
+U 0 0 。 -1 2 IJ 0 2 PU A_LOCATION: -1
+U -1 0 啊 0 0 ！ O: 1
+U 0 0 ， 1 0 叫 O: 1
+U 0 0 非常 0 3 N/A O: 1
+U 0 0 回 0 3 N/A O: 1
+U 0 0 自助 -1 2 M 0 2 V A_OBJECT: 1
+U 0 0 ， 1 0 叫 A_LOCATION: -1
+U 0 0 就 1 0 不错 A_OBJECT: -1
+U -1 0 家 A_LOCATION: 1
+U -2 0 吧 -1 0 ！ A_LOCATION: 2
+U 2 0 ！ A_PEOPLE: -1
+U -2 0 人均 O: 1
+U 0 0 在 0 2 P A_LOCATION: -1
+U 0 0 吃 0 2 V 1 2 NR O: 1
+U -1 0 箱 0 0 酒 O: -2
+U 0 0 不错 0 3 N/A A_LOCATION: -1
+U -2 0 TIME -1 0 在 A_LOCATION: 1
+U 0 0 的 -1 2 NR 0 2 U A_LOCATION: -1
+U 1 0 和 2 0 洪老板 A_LOCATION: 1
+U 0 0 吃 1 0 个 A_LOCATION: -1
+U -2 0 人均 -1 0 DIGIT O: 1
+U -1 0 都 A_PEOPLE: -1
+U 0 0 洪老板 A_LOCATION: -1
+U 0 0 吧 -1 2 NN 0 2 IJ A_LOCATION: -1
+U -1 0 来 0 0 杭州 A_LOCATION: 2
+U 0 0 或者 1 0 扇贝 O: -1
+U 2 0 个 O: -1
+U -1 0 和 1 0 吃 A_PEOPLE: 2
+U 2 0 老 A_LOCATION: 2
+U -1 0 都 1 0 啊 O: 1
+U 0 0 喝 0 2 V 1 2 D A_OBJECT: -1
+U 1 0 王 2 0 都 A_OBJECT: 2
+U -2 0 DIGIT -1 0 起 O: 1
+U -1 0 酒 O: 1
+U -1 0 家 1 0 ， A_LOCATION: 1
+U -1 0 去 0 0 喜多屋 O: -1
+U 0 0 自助 0 2 NR A_OBJECT: 2
+U 0 0 或者 A_PEOPLE: -1
+U 0 0 ！ -1 2 IJ 0 2 PU A_OBJECT: -1
+U 0 0 和 0 2 C 1 2 NR A_LOCATION: -1
+U 0 0 火锅 -1 2 U 0 2 NN O: -1
+U 2 0 牧羊传奇 A_TIME: 1
+U 0 0 的 O: 1
+U -1 0 公司 0 0 金老板 A_PEOPLE: 2
+U -2 0 DATE A_OBJECT: -2
+U 0 0 叫 0 3 N/A O: 1
+U -1 0 非常 A_LOCATION: -1
+U -1 0 就 O: 1
+U 0 0 牧羊传奇 0 2 NR A_LOCATION: 1
+U -2 0 在 -1 0 牧羊传奇 O: 1
+U 0 0 老 0 3 N/A A_OBJECT: -1
+U -1 0 公司 1 0 。 O: -2
+U 0 0 DATE A_LOCATION: -1
+U 0 0 两 0 3 N/A A_LOCATION: -1
+U 1 0 去 A_TIME: 2
+U 0 0 DATE 0 3 DATE A_LOCATION: -1
+U 0 0 可以 O: 1
+U 0 0 洪老板 0 2 NR 1 2 V A_LOCATION: -1
+U 0 0 叫 O: 1
+U 1 0 机会 2 0 来 O: 2
+U 0 0 自助 0 3 DOMAIN O: -1
+U -1 0 请 1 0 吃 A_LOCATION: -1
+U -1 0 不如 1 0 一起 A_DATE: 1
+U 1 0 吧 2 0 。 A_OBJECT: 2
+U 2 0 。 O: 1
+U 2 0 。 A_LOCATION: -1
+U 0 0 香辣 -1 2 AD 0 2 JJ O: 1
+U 0 0 张江镇 0 3 LOCATION A_LOCATION: 1
+U -2 0 人均 A_LOCATION: -1
+U 0 0 杭州 -1 2 V 0 2 NR A_LOCATION: 2
+U 0 0 烧烤 -1 2 V 0 2 NR A_OBJECT: 1
+U 2 0 烤羊腿 A_PEOPLE: -1
+U 0 0 TIME 0 2 NT O: -1
+U -1 0 TIME 0 0 在 A_LOCATION: -1
+U 1 0 吧 2 0 。 A_LOCATION: -1
+U -1 0 酒 A_OBJECT: -1
+U 1 0 香辣 O: 1
+U 1 0 吃 A_OBJECT: -1
+U 0 0 烤羊腿 -1 2 V 0 2 NR O: -1
+U -2 0 起 -1 0 回 O: -1
+U 1 0 个 2 0 火锅 O: 1
+U 0 0 吧 0 2 IJ 1 2 PU A_OBJECT: -1
+U 0 0 杭州 1 0 请 O: -2
+U 0 0 喝 0 3 N/A O: 1
+U 0 0 吃 0 2 V 1 2 NR A_OBJECT: -1
+U 1 0 都 2 0 可以 O: -1
+U 0 0 火锅 0 2 NN A_LOCATION: -2
+U 1 0 DIGIT 2 0 还 A_DATE: -1
+U -1 0 DIGIT O: 2
+U 0 0 张江镇 -1 2 V 0 2 NR A_PEOPLE: -1
+U -1 0 起 1 0 复旦大学 O: 1
+U 2 0 还 O: 1
+U 0 0 金老板 1 0 。 O: -2
+U 1 0 扇贝 2 0 王 O: -1
+U 0 0 烤羊腿 0 3 FOOD A_OBJECT: 1
+U 0 0 老 1 0 工厂 O: 1
+U -2 0 张江镇 -1 0 吃 O: -1
+U 0 0 吧 0 3 N/A O: 2
+U -1 0 TIME 1 0 牧羊传奇 O: 1
+U 0 0 火锅 -1 2 U 0 2 NN A_LOCATION: -1
+U 1 0 TIME A_LOCATION: -1
+U 0 0 杭州 O: -2
+U 1 0 扇贝 O: -1
+U 0 0 吃 0 2 V O: 3
+U 0 0 不错 1 0 。 O: 1
+U 1 0 起 2 0 回 A_OBJECT: -1
+U -2 0 两 -1 0 箱 A_OBJECT: 2
+U -1 0 喜多屋 1 0 个 O: 1
+U 0 0 金老板 1 0 。 A_PEOPLE: 2
+U 1 0 回 2 0 复旦大学 A_OBJECT: -1
+U 0 0 张江镇 0 2 NR 1 2 V A_LOCATION: 1
+U 0 0 ！ 0 2 PU A_PEOPLE: -1
+U 0 0 还 -1 2 D 0 2 AD A_LOCATION: -1
+U -2 0 能 A_LOCATION: -1
+U 0 0 两 O: 1
+U -1 0 或者 O: -2
+U 1 0 香辣 2 0 的 O: 1
+U -1 0 吃 1 0 非常 A_LOCATION: -1
+U -1 0 TIME 1 0 牧羊传奇 A_LOCATION: -1
+U 0 0 你们 O: -1
+U 0 0 吃 -1 2 NR 0 2 V O: 3
+U 0 0 DATE 0 2 NT 1 2 D A_DATE: 2
+U 0 0 生蚝 1 0 自助 A_OBJECT: 1
+U 0 0 TIME 1 0 在 A_LOCATION: -1
+U 0 0 喜多屋 0 2 NR O: -1
+U 2 0 在 A_LOCATION: -1
+U -1 0 或者 A_OBJECT: 2
+U -1 0 都 O: 1
+U 0 0 吧 1 0 。 A_LOCATION: -1
+U -2 0 或者 A_OBJECT: 2
+U -2 0 杭州 -1 0 请 A_LOCATION: -1
+U -1 0 吧 0 0 ！ A_LOCATION: -1
+U -2 0 自助 A_OBJECT: -1
+U -1 0 吧 0 0 。 A_LOCATION: -1
+U 0 0 洪老板 1 0 吃 A_LOCATION: -1
+U 0 0 一起 1 0 吃 A_LOCATION: -1
+U -2 0 徐家汇 -1 0 的 A_OBJECT: -1
+U -1 0 和 A_LOCATION: -1
+U -1 0 ！ 0 0 徐家汇 A_LOCATION: 2
+U -1 0 的 O: 0
+U -1 0 烤羊腿 0 0 或者 A_PEOPLE: -1
+U 0 0 酒 A_OBJECT: 2
+U 0 0 ！ 0 2 PU A_LOCATION: -1
+U -1 0 能 O: 1
+U 0 0 喝 0 2 V A_OBJECT: -1
+U 0 0 酸菜鱼 1 0 ， A_LOCATION: 1
+U 0 0 香辣 1 0 的 O: 1
+U 0 0 酒 O: -2
+U 0 0 牧羊传奇 1 0 和 A_LOCATION: 1
+U 0 0 牧羊传奇 0 2 NR 1 2 C A_LOCATION: 1
+U 1 0 自助 2 0 啊 O: -1
+U 0 0 还 0 2 AD 1 2 V A_LOCATION: -1
+U -1 0 个 1 0 吧 O: -1
+U -1 0 生蚝 0 0 自助 O: -1
+U -1 0 复旦大学 0 0 吃 O: 1
+U 2 0 吃 A_LOCATION: -1
+U -2 0 王 O: 1
+U -1 0 在 A_LOCATION: 1
+U 1 0 DIGIT 2 0 起 A_DATE: 2
+U 0 0 洪老板 1 0 吃 O: -1
+U 0 0 公司 -1 2 U 0 2 NN A_OBJECT: -1
+U 0 0 扇贝 0 2 NR 1 2 NR A_OBJECT: 2
+U -1 0 请 1 0 吃 O: -1
+U 0 0 或者 -1 2 NR 0 2 C O: -1
+U 1 0 自助 O: -1
+U -1 0 吧 1 0 徐家汇 O: 1
+U 0 0 一起 0 2 AD O: 1
+U -1 0 徐家汇 O: 1
+U -1 0 箱 1 0 。 O: -2
+U 1 0 王 2 0 都 O: -2
+U 0 0 叫 0 2 V O: 1
+U -2 0 箱 -1 0 酒 O: 1
+U 1 0 TIME 2 0 在 A_DATE: 1
+U 0 0 吧 O: 2
+U 0 0 烧烤 O: -1
+U -1 0 DIGIT 1 0 能 O: 1
+U 0 0 生蚝 0 2 NR 1 2 NR O: -1
+U -1 0 洪老板 1 0 个 A_LOCATION: -1
+U 0 0 金老板 -1 2 NN 0 2 NR A_PEOPLE: 2
+U -2 0 在 O: 1
+U -1 0 非常 0 0 香辣 O: 1
+U 0 0 的 A_LOCATION: -1
+U -1 0 酒 0 0 。 O: 1
+U -1 0 去 0 0 张江镇 A_PEOPLE: -1
+U 0 0 扇贝 -1 2 C 0 2 NR O: -2
+U 0 0 烧烤 0 2 NR A_OBJECT: 1
+U 0 0 可以 -1 2 AD 0 2 V A_PEOPLE: -1
+U -1 0 烤羊腿 0 0 或者 O: -1
+U 2 0 家 A_DATE: 1
+U 2 0 人均 O: -1
+U 0 0 杭州 0 2 NR 1 2 V O: -2
+U 0 0 起 0 3 N/A O: 1
+U -2 0 箱 -1 0 酒 A_OBJECT: -1
+U 1 0 火锅 A_LOCATION: -1
+U 0 0 你们 1 0 吃 A_PEOPLE: 2
+U 0 0 洪老板 A_PEOPLE: 2
+U 0 0 叫 0 2 V 1 2 U O: 1
+U -2 0 个 A_LOCATION: -3
+U -1 0 烤羊腿 A_PEOPLE: -1
+U 0 0 张江镇 0 2 NR A_LOCATION: 1
+U -2 0 TIME -1 0 去 A_LOCATION: 1
+U -1 0 的 0 0 老 A_OBJECT: -1
+U -2 0 DATE -1 0 一起 A_OBJECT: -1
+U 0 0 叫 -1 2 PU 0 2 V A_OBJECT: -1
+U 1 0 机会 A_DATE: -1
+U -1 0 都 0 0 可以 A_PEOPLE: -1
+U -1 0 烧烤 A_OBJECT: -1
+U 0 0 牧羊传奇 0 2 NR 1 2 C O: -1
+U 1 0 非常 O: 1
+U 0 0 王 0 2 NR 1 2 AD A_PEOPLE: -1
+U -2 0 杭州 A_PEOPLE: 2
+U -2 0 箱 A_OBJECT: -1
+U 0 0 DATE 1 0 一起 A_OBJECT: -1
+U 0 0 就 0 2 AD A_OBJECT: -1
+U 0 0 吧 0 3 N/A A_OBJECT: -1
+U 1 0 叫 2 0 上 A_LOCATION: -1
+U 2 0 ！ A_LOCATION: -1
+U 0 0 个 0 3 N/A O: 2
+U 1 0 烧烤 2 0 吧 A_OBJECT: -1
+U 2 0 来 A_DATE: -1
+U 0 0 非常 1 0 香辣 A_OBJECT: -1
+U 0 0 公司 A_OBJECT: -1
+U 0 0 香辣 0 2 JJ 1 2 U A_LOCATION: -1
+U 0 0 一起 0 3 N/A A_LOCATION: -1
+U 0 0 火锅 O: -2
+U -1 0 个 1 0 ， O: -1
+U 0 0 公司 0 2 NN O: 1
+U 1 0 吧 A_OBJECT: 5
+U -1 0 自助 1 0 叫 A_LOCATION: -1
+U -2 0 在 -1 0 牧羊传奇 A_LOCATION: -1
+U -1 0 扇贝 O: -1
+U -2 0 王 -1 0 都 O: 1
+U 1 0 金老板 2 0 。 A_OBJECT: -1
+U -2 0 个 -1 0 自助 A_LOCATION: -1
+U -1 0 洪老板 O: 1
+U 2 0 吧 O: 2
+U -1 0 个 0 0 自助 A_OBJECT: 1
+U -1 0 来 O: -2
+U 0 0 DIGIT 0 2 D 1 2 M A_OBJECT: -1
+U 0 0 ， 0 2 PU A_LOCATION: -1
+U 2 0 家 O: -1
+U 0 0 老 0 3 N/A O: 1
+U -1 0 在 0 0 牧羊传奇 O: -1
+U 1 0 或者 2 0 扇贝 A_OBJECT: 1
+U 0 0 喝 0 2 V 1 2 D O: 1
+U 0 0 人均 0 2 NR 1 2 D A_DATE: -1
+U 0 0 复旦大学 0 3 ORGANIZATION A_OBJECT: -1
+U -2 0 烧烤 -1 0 吧 A_OBJECT: -1
+U 0 0 TIME -1 2 NT 0 2 NT A_TIME: 1
+U 0 0 自助 0 3 N/A O: -1
+U -1 0 非常 0 0 香辣 A_LOCATION: -1
+U 0 0 洪老板 0 2 NR A_PEOPLE: 2
+U 0 0 DATE 1 0 DIGIT A_DATE: 2
+U 0 0 ， -1 2 V 0 2 PU A_LOCATION: -1
+U 1 0 就 A_LOCATION: -1
+U 0 0 扇贝 -1 2 C 0 2 NR A_OBJECT: 2
+U -2 0 工厂 -1 0 就 O: 1
+U 1 0 洪老板 2 0 吃 A_LOCATION: -1
+U 0 0 或者 O: -1
+U -1 0 和 0 0 洪老板 O: -1
+U 0 0 回 O: 1
+U 0 0 牧羊传奇 0 3 ORGANIZATION A_LOCATION: 1
+U 0 0 吧 A_LOCATION: -1
+U 0 0 个 0 2 M 1 2 AD A_LOCATION: -1
+U 0 0 或者 0 2 C O: -1
+U -2 0 个 -1 0 自助 O: 1
+U 0 0 有 0 2 V 1 2 NN A_LOCATION: -1
+U 0 0 回 0 2 V 1 2 NR A_OBJECT: -1
+U -2 0 洪老板 -1 0 吃 O: 1
+U 0 0 ！ -1 2 IJ 0 2 PU A_PEOPLE: -1
+U -1 0 个 A_LOCATION: -1
+U -1 0 牧羊传奇 0 0 和 O: 1
+U -2 0 工厂 O: 1
+U 0 0 DIGIT 0 2 D A_OBJECT: -1
+U 0 0 金老板 A_PEOPLE: 2
+U 0 0 香辣 0 2 JJ O: 1
+U 0 0 不错 0 3 N/A O: 1
+U 0 0 TIME 1 0 去 A_TIME: 2
+U 0 0 工厂 -1 2 JJ 0 2 NN O: 1
+U -2 0 吃 -1 0 烧烤 O: 1
+U -1 0 老 A_LOCATION: -1
+U -1 0 请 A_PEOPLE: 2
+U 0 0 在 0 3 N/A A_LOCATION: -1
+U 2 0 上 A_LOCATION: -1
+U 1 0 一起 2 0 去 A_DATE: 1
+U -2 0 火锅 -1 0 吧 O: 2
+U -1 0 烤羊腿 A_OBJECT: 2
+U 0 0 不错 0 2 JJ 1 2 PU A_LOCATION: -1
+U -1 0 喝 O: 1
+U -1 0 ！ A_LOCATION: 2
+U 0 0 回 0 2 V A_OBJECT: -1
+U 0 0 喝 -1 2 V 0 2 V A_OBJECT: -1
+U 0 0 老 1 0 工厂 A_OBJECT: -1
+U 0 0 或者 A_OBJECT: 2
+U 0 0 吃 1 0 烧烤 A_OBJECT: -1
+U 1 0 去 O: -1
+U 1 0 DIGIT 2 0 起 O: -1
+U 1 0 DIGIT A_DATE: 1
+U 0 0 人均 -1 2 PU 0 2 NR O: 1
+U 1 0 ， 2 0 人均 A_LOCATION: 1
+U -1 0 的 1 0 吧 A_LOCATION: -1
+U 1 0 吃 2 0 个 O: -1
+U 0 0 张江镇 A_PEOPLE: -1
+U -1 0 ， 0 0 人均 A_DATE: -1
+U -2 0 ！ -1 0 徐家汇 O: 1
+U -1 0 徐家汇 0 0 的 O: 1
+U -2 0 人均 -1 0 DIGIT A_LOCATION: -1
+U 0 0 DATE 1 0 一起 O: -1
+U 1 0 徐家汇 2 0 的 O: 1
+U -2 0 徐家汇 A_OBJECT: -1
+U -1 0 吃 0 0 生蚝 O: -1
+U 0 0 吧 -1 2 NR 0 2 IJ O: 1
+U 0 0 DIGIT -1 2 NT 0 2 D O: 1
+U 0 0 和 -1 2 NR 0 2 C O: 1
+U 0 0 徐家汇 0 3 PERSON O: -2
+U 0 0 张江镇 0 2 NR 1 2 V A_PEOPLE: -1
+U 2 0 工厂 A_LOCATION: -1
+U 0 0 张江镇 A_LOCATION: 1
+U -1 0 喜多屋 0 0 吃 A_OBJECT: -1
+U -1 0 公司 1 0 。 A_PEOPLE: 2
+U -1 0 都 0 0 可以 O: 1
+U -1 0 DATE 1 0 起 O: 1
+U 1 0 啊 2 0 ！ A_OBJECT: 2
+U 0 0 复旦大学 1 0 吃 A_OBJECT: -1
+U 0 0 去 1 0 喜多屋 O: 1
+U -2 0 起 O: -1
+U 0 0 有 0 2 V A_LOCATION: -1
+U 0 0 DATE 1 0 DIGIT O: -1
+U -1 0 烧烤 O: 1
+U -1 0 酒 0 0 。 A_OBJECT: -1
+U -2 0 复旦大学 -1 0 吃 A_OBJECT: 1
+U 0 0 还 1 0 能 O: 1
+U 0 0 火锅 -1 2 M 0 2 NN A_LOCATION: -1
+U 0 0 。 O: 3
+U 1 0 吧 2 0 ！ A_LOCATION: -1
+U 2 0 回 O: 1
+U 1 0 复旦大学 2 0 吃 O: 1
+U -2 0 可以 -1 0 啊 A_PEOPLE: -1
+U 0 0 扇贝 1 0 王 A_OBJECT: 2
+U 1 0 牧羊传奇 A_LOCATION: -1
+U 0 0 喜多屋 -1 2 V 0 2 NR A_LOCATION: 1
+U 0 0 王 0 3 N/A A_PEOPLE: -1
+U 0 0 吃 0 2 V 1 2 M A_OBJECT: -1
+U 1 0 扇贝 2 0 王 A_PEOPLE: -1
+U -1 0 上 0 0 公司 O: 1
+U -1 0 箱 O: -2
+U -1 0 老 O: 1
+U -1 0 洪老板 0 0 吃 A_LOCATION: -1
+U 0 0 酒 0 2 NN 1 2 PU O: -2
+U -2 0 烤羊腿 O: -2
+U -1 0 和 1 0 吃 O: -1
+U 0 0 喝 1 0 两 A_OBJECT: -1
+U 0 0 酸菜鱼 0 2 NR 1 2 PU A_LOCATION: 1
+U -1 0 牧羊传奇 A_LOCATION: -1
+U 0 0 或者 0 3 N/A O: -1
+U 0 0 就 A_OBJECT: -1
+U 1 0 TIME A_DATE: 1
+U 2 0 牧羊传奇 A_LOCATION: -1
+U -1 0 DIGIT 1 0 回 O: 1
+U -1 0 吃 1 0 火锅 O: 1
+U 2 0 王 A_PEOPLE: -1
+U -2 0 的 -1 0 老 O: 1
+U 0 0 烧烤 1 0 吧 A_OBJECT: 1
+U -2 0 一起 A_LOCATION: 0
+U 1 0 吧 A_LOCATION: -2
+U -2 0 DATE -1 0 TIME O: 1
+U -1 0 喝 0 0 两 A_LOCATION: -1
+U 1 0 吃 A_PEOPLE: 3
+U -1 0 吧 0 0 ！ A_OBJECT: -1
+U -1 0 吃 0 0 个 A_LOCATION: -2
+U 1 0 喜多屋 O: 1
+U 1 0 吃 O: -3
+U -1 0 工厂 A_OBJECT: -1
+U 0 0 火锅 -1 2 U 0 2 NN A_OBJECT: 2
+U -2 0 吃 -1 0 烤羊腿 A_OBJECT: 2
+U 0 0 。 -1 2 IJ 0 2 PU O: 1
+U 2 0 叫 A_OBJECT: 1
+U 0 0 杭州 A_LOCATION: 2
+U 0 0 两 -1 2 V 0 2 D A_LOCATION: -1
+U 2 0 和 A_LOCATION: -1
+U -2 0 烤羊腿 A_OBJECT: 2
+U 1 0 洪老板 O: 1
+U 0 0 两 1 0 箱 O: 1
+U -1 0 上 O: 1
+U 0 0 杭州 -1 2 V 0 2 NR O: -2
+U -1 0 自助 O: 1
+U 0 0 TIME 0 2 NT A_LOCATION: -2
+U 0 0 起 0 2 M 1 2 V A_OBJECT: -1
+U -2 0 起 A_OBJECT: -1
+U 0 0 复旦大学 1 0 吃 O: -1
+U 0 0 两 0 3 N/A O: 1
+U -1 0 的 0 0 火锅 A_LOCATION: -1
+U -2 0 吃 A_DATE: -1
+U 0 0 工厂 0 2 NN 1 2 AD A_LOCATION: -1
+U -1 0 牧羊传奇 1 0 洪老板 O: 1
+U 0 0 复旦大学 0 2 NR A_LOCATION: 2
+U 0 0 你们 -1 2 V 0 2 PN O: -1
+U 0 0 吃 1 0 烧烤 O: 1
+U 0 0 徐家汇 -1 2 PU 0 2 NR A_LOCATION: 2
+U 0 0 酸菜鱼 O: -1
+U -2 0 机会 A_LOCATION: 2
+U 0 0 就 0 3 N/A A_OBJECT: -1
+U 0 0 生蚝 0 2 NR 1 2 NR A_OBJECT: 1
+U -2 0 个 O: 3
+U 0 0 ！ -1 2 IJ 0 2 PU O: 3
+U 0 0 一起 0 2 AD 1 2 P O: 1
+U -1 0 DATE 1 0 起 A_OBJECT: -1
+U 1 0 啊 A_PEOPLE: -1
+U 0 0 吃 0 2 V A_OBJECT: -2
+U 1 0 机会 2 0 来 A_LOCATION: -1
+U 0 0 不错 -1 2 AD 0 2 JJ O: 1
+U -1 0 喜多屋 A_OBJECT: -1
+U 1 0 复旦大学 2 0 吃 A_OBJECT: -1
+U 2 0 公司 A_OBJECT: -1
+U 0 0 。 -1 2 NN 0 2 PU A_OBJECT: -1
+U 0 0 烧烤 1 0 吧 O: -1
+U 0 0 去 A_OBJECT: -1
+U 0 0 两 -1 2 V 0 2 D O: 1
+U 1 0 。 A_LOCATION: -2
+U 2 0 火锅 O: 2
+U 2 0 个 A_LOCATION: -1
+U 2 0 不错 A_LOCATION: -1
+U -1 0 吃 1 0 或者 A_OBJECT: 1
+U 0 0 复旦大学 A_LOCATION: 2
+U 1 0 金老板 O: 1
+U -1 0 DIGIT 0 0 还 O: 1
+U 0 0 自助 0 2 NR 1 2 IJ O: -1
+U 0 0 人均 0 2 NR O: 1
+U 0 0 香辣 0 2 JJ 1 2 U O: 1
+U -2 0 吃 -1 0 生蚝 A_OBJECT: 2
+U -1 0 能 A_OBJECT: -1
+U -1 0 ， A_DATE: -1
+U 0 0 有 1 0 机会 A_DATE: -1
+U 1 0 箱 O: 1
+U 0 0 去 -1 2 AD 0 2 V A_OBJECT: -1
+U -1 0 在 0 0 牧羊传奇 A_LOCATION: 1
+U 0 0 和 0 3 N/A A_LOCATION: -1
+U -1 0 火锅 1 0 。 O: 1
+U 2 0 自助 A_OBJECT: -1
+U -1 0 或者 0 0 扇贝 O: -2
+U -1 0 ！ O: -2
+U -1 0 不如 0 0 DATE A_DATE: 1
+U 0 0 去 0 2 V 1 2 NR A_OBJECT: -1
+U 0 0 你们 0 3 N/A A_LOCATION: -1
+U 0 0 DIGIT O: 1
+U 1 0 箱 2 0 酒 O: 1
+U -1 0 个 0 0 火锅 A_OBJECT: 2
+U 1 0 ， 2 0 人均 O: -1
+U 0 0 生蚝 0 2 NR O: -1
+U -2 0 回 -1 0 复旦大学 O: 1
+U 0 0 两 1 0 箱 A_LOCATION: -1
+U -1 0 请 0 0 你们 O: -1
+U 0 0 或者 -1 2 NR 0 2 C A_PEOPLE: -1
+U 1 0 工厂 2 0 就 O: 1
+U 0 0 DATE 0 3 DATE O: -3
+U 0 0 王 0 3 N/A A_OBJECT: 2
+U 0 0 可以 0 2 V A_PEOPLE: -1
+U -1 0 吃 1 0 火锅 A_LOCATION: -1
+U 0 0 工厂 A_LOCATION: -1
+U 1 0 叫 2 0 上 O: 1
+U -1 0 火锅 1 0 。 A_LOCATION: -1
+U -1 0 去 1 0 吃 A_LOCATION: 2
+U -1 0 家 1 0 ， O: -1
+U -1 0 喝 1 0 箱 A_LOCATION: -1
+U -1 0 去 1 0 吃 A_PEOPLE: -1
+U 1 0 箱 2 0 酒 A_LOCATION: -1
+U -2 0 回 A_OBJECT: -1
+U 2 0 都 O: -2
+U 0 0 人均 0 2 NR A_DATE: -1
+U 0 0 TIME A_TIME: 3
+U -1 0 的 A_OBJECT: 1
+U 0 0 个 -1 2 V 0 2 M A_LOCATION: -1
+U 1 0 DIGIT 2 0 还 O: 1
+U 1 0 老 O: 1
+U -1 0 箱 1 0 。 A_OBJECT: 2
+U 0 0 。 0 3 PUNCTUATION A_LOCATION: -1
+U 0 0 TIME A_LOCATION: -2
+U 0 0 自助 -1 2 NR 0 2 NR O: -1
+U -1 0 个 0 0 非常 A_OBJECT: -1
+U -2 0 还 O: 1
+U -2 0 徐家汇 O: 1
+U 0 0 还 0 2 AD O: 1
+U 0 0 在 1 0 牧羊传奇 A_LOCATION: -1
+U 1 0 ， 2 0 叫 O: -1
+U 0 0 DATE 1 0 一起 A_DATE: 2
+U -2 0 张江镇 A_OBJECT: 1
+U -1 0 工厂 0 0 就 A_OBJECT: -1
+U 1 0 喜多屋 2 0 吃 O: 1
+U 0 0 就 0 3 N/A O: 1
+U 0 0 DATE -1 2 V 0 2 NT A_DATE: 1
+U 0 0 金老板 0 3 PERSON O: -2
+U -1 0 DATE O: 2
+U 0 0 两 0 2 D O: 1
+U 0 0 不错 -1 2 AD 0 2 JJ A_LOCATION: -1
+U -2 0 回 -1 0 复旦大学 A_OBJECT: -1
+U 1 0 非常 A_LOCATION: -1
+U 0 0 还 -1 2 D 0 2 AD O: 1
+U 0 0 个 0 2 M 1 2 NN O: 1
+U 0 0 DATE 0 2 NT 1 2 NT A_LOCATION: -1
+U 0 0 回 1 0 复旦大学 O: 1
+U 2 0 自助 O: 1
+U -1 0 自助 A_LOCATION: -1
+U 1 0 一起 A_OBJECT: -1
+U -1 0 去 0 0 张江镇 A_LOCATION: 1
+U -1 0 扇贝 0 0 王 A_PEOPLE: -1
+U 0 0 张江镇 1 0 吃 A_LOCATION: 1
+U 1 0 老 2 0 工厂 O: 1
+U 0 0 。 0 2 PU A_OBJECT: -2
+U 2 0 你们 A_LOCATION: 2
+U 0 0 烧烤 -1 2 V 0 2 NR O: -1
+U 0 0 去 O: 1
+U -2 0 吃 A_PEOPLE: -1
+U 2 0 火锅 A_LOCATION: -2
+U 0 0 起 1 0 回 O: 1
+U -1 0 个 1 0 香辣 A_OBJECT: -1
+U -1 0 吃 1 0 或者 O: -1
+U -1 0 一起 1 0 喜多屋 O: 1
+U 1 0 个 A_OBJECT: -1
+U 1 0 起 2 0 回 O: 1
+U 1 0 吃 2 0 生蚝 O: -1
+U 0 0 的 0 3 N/A O: 1
+U 2 0 可以 A_PEOPLE: -1
+U 0 0 自助 -1 2 NR 0 2 NR A_OBJECT: 2
+U -1 0 个 0 0 火锅 O: -1
+U 0 0 DATE 0 2 NT 1 2 V O: -1
+U 1 0 。 A_OBJECT: 2
+U -1 0 牧羊传奇 1 0 洪老板 A_LOCATION: -1
+U 1 0 就 2 0 不错 A_LOCATION: -1
+U 0 0 公司 1 0 金老板 O: 1
+U 0 0 自助 1 0 啊 O: -1
+U 1 0 烧烤 A_OBJECT: -1
+U 0 0 洪老板 0 2 NR 1 2 V O: -1
+U 1 0 和 O: -1
+U 0 0 徐家汇 O: -2
+U 0 0 金老板 0 2 NR O: -2
+U 0 0 TIME 0 2 NT A_TIME: 3
+U -1 0 火锅 0 0 吧 A_LOCATION: -1
+U 0 0 酒 0 2 NN O: -2
+U 0 0 王 A_PEOPLE: -1
+U 0 0 火锅 1 0 吧 O: -2
+U 0 0 你们 0 2 PN 1 2 V A_PEOPLE: 2
+U -2 0 和 A_LOCATION: -1
+U 0 0 ！ O: 3
+U 0 0 喜多屋 0 2 NR A_LOCATION: 1
+U 0 0 。 A_OBJECT: -2
+U 0 0 洪老板 0 2 NR A_LOCATION: -1
+U -1 0 生蚝 0 0 自助 A_OBJECT: 2
+U 1 0 的 A_LOCATION: 1
+U -1 0 喝 A_LOCATION: -1
+U 2 0 的 O: 2
+U 2 0 起 A_OBJECT: -1
+U 2 0 叫 O: -1
+U -1 0 火锅 O: 1
+U -2 0 有 O: -1
+U 0 0 喝 O: 1
+U 0 0 有 0 2 V A_DATE: -1
+U 0 0 TIME 1 0 在 A_TIME: 1
+U -2 0 洪老板 O: 1
+U -2 0 或者 A_PEOPLE: -1
+U 0 0 的 0 2 U 1 2 JJ A_LOCATION: -1
+U 0 0 和 O: 1
+U -1 0 就 1 0 。 O: 1
+U 2 0 烧烤 A_OBJECT: -1
+U -1 0 和 0 0 洪老板 A_PEOPLE: 2
+U -1 0 自助 0 0 ， A_LOCATION: -1
+U -2 0 吃 -1 0 个 A_LOCATION: -1
+U -2 0 两 -1 0 箱 O: -2
+U 1 0 徐家汇 A_LOCATION: -1
+U 0 0 DATE 0 2 NT O: -3
+U 0 0 酸菜鱼 -1 2 NN 0 2 NR A_LOCATION: 1
+U 0 0 TIME 0 3 TIME O: -1
+U 2 0 酒 O: 1
+U 1 0 个 2 0 火锅 A_LOCATION: -1
+U 0 0 叫 1 0 上 A_OBJECT: -1
+U 0 0 烤羊腿 0 2 NR O: -1
+U -1 0 DATE 0 0 TIME A_LOCATION: -1
+U 0 0 自助 0 2 NR 1 2 IJ A_OBJECT: 2
+U -1 0 DATE A_OBJECT: -1
+U -1 0 DIGIT 0 0 起 A_OBJECT: -1
+U 0 0 香辣 O: 1
+U -1 0 复旦大学 0 0 吃 A_OBJECT: -1
+U -2 0 还 A_OBJECT: -1
+U 0 0 工厂 1 0 就 O: 1
+U -2 0 ！ O: 1
+U 1 0 啊 2 0 ！ A_PEOPLE: -1
+U -1 0 DIGIT A_LOCATION: -1
+U 0 0 可以 0 3 N/A O: 1
+U 0 0 喝 0 2 V O: 1
+U 0 0 或者 0 2 C 1 2 NR O: -1
+U -1 0 吧 0 0 。 O: 1
+U -1 0 起 0 0 回 O: 1
+U 0 0 个 0 2 M O: 2
+U 0 0 复旦大学 -1 2 V 0 2 NR A_LOCATION: 2
+U 0 0 吧 0 2 IJ A_OBJECT: -1
+U 0 0 吃 0 3 N/A O: 3
+U -2 0 或者 O: -1
+U -2 0 可以 -1 0 啊 O: 1
+U -2 0 机会 -1 0 来 O: -2
+U 0 0 火锅 0 2 NN 1 2 IJ O: -2
+U -2 0 张江镇 O: -1
+U 0 0 个 1 0 非常 A_LOCATION: -1
+U 0 0 不错 0 2 JJ A_LOCATION: -1
+U 1 0 徐家汇 O: 1
+U 0 0 在 0 3 N/A O: 1
+U -2 0 复旦大学 A_OBJECT: 1
+U -2 0 酸菜鱼 O: 1
+U -1 0 洪老板 1 0 个 O: 1
+U 0 0 扇贝 0 3 FOOD A_OBJECT: 2
+U 0 0 复旦大学 0 2 NR A_OBJECT: -1
+U -2 0 叫 A_OBJECT: -1
+U 1 0 扇贝 2 0 王 A_OBJECT: 2
+U 0 0 人均 1 0 DIGIT O: 1
+U 0 0 还 0 2 AD 1 2 V O: 1
+U -1 0 DATE 1 0 吃 A_LOCATION: -1
+U 2 0 喝 O: 1
+U 2 0 烤羊腿 A_LOCATION: 1
+U -1 0 工厂 0 0 就 O: 1
+U 0 0 一起 0 2 AD 1 2 P A_LOCATION: -1
+U 0 0 DIGIT -1 2 NT 0 2 D A_OBJECT: -1
+U -2 0 香辣 O: -1
+U -1 0 不如 0 0 DATE A_OBJECT: -1
+U -1 0 上 1 0 金老板 A_OBJECT: -1
+U 2 0 可以 O: -1
+U 0 0 喝 A_OBJECT: -1
+U 0 0 自助 0 2 V A_OBJECT: 1
+U 0 0 自助 0 2 V 1 2 PU O: -1
+U 0 0 ！ 0 2 PU 1 2 NR A_LOCATION: -1
+U 0 0 复旦大学 0 2 NR O: -1
+U 0 0 烤羊腿 0 2 NR A_OBJECT: 1
+U 0 0 就 -1 2 NN 0 2 AD O: 1
+U 0 0 自助 A_DATE: -1
+U 0 0 工厂 0 2 NN 1 2 AD O: 1
+U 0 0 DATE 1 0 DIGIT A_OBJECT: -1
+U 0 0 或者 0 2 C 1 2 NR A_OBJECT: 2
+U -2 0 香辣 -1 0 的 A_LOCATION: -1
+U 0 0 酸菜鱼 0 2 NR O: -1
+U 1 0 洪老板 A_LOCATION: -1
+U 0 0 火锅 A_LOCATION: -2
+U -2 0 工厂 -1 0 就 A_LOCATION: -1
+U -2 0 TIME A_PEOPLE: -1
+U 0 0 自助 1 0 ， O: -1
+U -1 0 家 O: -1
+U 0 0 王 1 0 都 O: -1
+U 1 0 有 2 0 家 A_DATE: 1
+U 2 0 吧 A_OBJECT: -1
+U 0 0 非常 0 2 AD A_OBJECT: -1
+U 0 0 喝 0 3 N/A A_OBJECT: -1
+U 0 0 吧 1 0 ！ O: 1
+U 2 0 都 A_OBJECT: 2
+U 0 0 个 1 0 火锅 A_LOCATION: -1
+U -1 0 DIGIT 0 0 起 O: 1
+U 0 0 喜多屋 0 2 NR 1 2 V A_LOCATION: 1
+U -1 0 自助 0 0 ， O: 1
+U 1 0 ！ O: 1
+U 0 0 有 A_LOCATION: -1
+U 0 0 老 O: 1
+U 0 0 人均 A_DATE: -1
+U 0 0 扇贝 1 0 王 O: -2
+U 2 0 来 O: 2
+U 0 0 DATE 0 2 NT 1 2 D O: -1
+U 0 0 DATE 0 2 NT 1 2 V A_DATE: 1
+U 1 0 叫 O: 1
+U 1 0 徐家汇 2 0 的 A_LOCATION: -1
+U 1 0 两 O: 1
+U 0 0 可以 0 3 N/A A_PEOPLE: -1
+U 0 0 个 0 2 M 1 2 AD O: 1
+U -2 0 烧烤 -1 0 吧 O: 1
+U 0 0 。 -1 2 NR 0 2 PU A_OBJECT: -1
+U -1 0 工厂 O: 1
+U -1 0 DATE 1 0 在 A_TIME: 1
+U -1 0 个 1 0 香辣 O: 1
+U -2 0 DATE -1 0 TIME A_LOCATION: -1
+U 0 0 有 0 2 V 1 2 NN A_DATE: -1
+U 0 0 烤羊腿 0 2 NR 1 2 C O: -1
+U 2 0 回 A_OBJECT: -1
+U 0 0 回 0 2 V 1 2 NR O: 1
+U 0 0 DATE 0 2 NT 1 2 AD O: -1
+U -1 0 吃 0 0 个 O: 2
+U -1 0 吧 O: 3
+U 0 0 公司 1 0 金老板 A_OBJECT: -1
+U 1 0 不错 2 0 。 O: 1
+U 0 0 或者 -1 2 NR 0 2 C A_OBJECT: 2
+U 0 0 ！ 1 0 徐家汇 O: 1
+U 2 0 老 O: -2
+U -1 0 上 1 0 金老板 O: 1
+U 0 0 还 0 3 N/A O: 1
+U 0 0 香辣 1 0 的 A_LOCATION: -1
+U 0 0 火锅 -1 2 M 0 2 NN O: -1
+U 0 0 香辣 0 2 JJ A_LOCATION: -1
+U -1 0 的 1 0 工厂 A_OBJECT: -1
+U 1 0 的 2 0 火锅 O: 1
+U -2 0 香辣 A_LOCATION: -1
+U 0 0 吧 1 0 。 O: 1
+U 0 0 一起 1 0 吃 O: 1
+U 0 0 ！ A_PEOPLE: -1
+U 0 0 个 0 2 M 1 2 NN A_LOCATION: -1
+U 0 0 DATE 0 3 DATE A_OBJECT: -2
+U -1 0 就 A_LOCATION: -1
+U -1 0 喜多屋 1 0 个 A_OBJECT: -1
+U 1 0 请 2 0 你们 A_LOCATION: 2
+U -2 0 酸菜鱼 -1 0 ， A_DATE: -1
+U -1 0 生蚝 1 0 啊 O: -1
+U 1 0 一起 A_DATE: 2
+U 0 0 王 0 2 NR A_OBJECT: 2
+U 0 0 洪老板 0 3 PERSON O: -1
+U -2 0 DIGIT O: 1
+U -1 0 DIGIT 1 0 能 A_LOCATION: -1
+U 2 0 的 A_LOCATION: -1
+U -1 0 公司 O: -2
+U 1 0 在 2 0 牧羊传奇 A_TIME: 1
+U -1 0 吃 A_LOCATION: -2
+U 0 0 洪老板 1 0 吃 A_PEOPLE: 2
+U -1 0 一起 O: 1
+U 1 0 或者 2 0 扇贝 O: -1
+U -1 0 复旦大学 1 0 烧烤 O: 1
+U 0 0 老 A_OBJECT: -1
+U 0 0 徐家汇 0 2 NR O: -2
+U 0 0 DATE 1 0 有 O: -1
+U 1 0 或者 A_OBJECT: 1
+U 0 0 起 -1 2 D 0 2 M O: 1
+U 1 0 就 O: 1
+U -1 0 扇贝 A_OBJECT: 2
+U 0 0 。 -1 2 NN 0 2 PU O: 1
+U -2 0 你们 -1 0 吃 O: -1
+U -2 0 叫 -1 0 上 O: 1
+U 0 0 ！ A_OBJECT: -1
+U 1 0 上 O: 1
+U 0 0 DATE A_DATE: 6
+U 1 0 机会 2 0 来 A_DATE: -1
+U 0 0 张江镇 1 0 吃 A_PEOPLE: -1
+U 0 0 ！ 0 3 PUNCTUATION O: 3
+U -1 0 牧羊传奇 0 0 和 A_LOCATION: -1
+U 1 0 箱 A_LOCATION: -1
+U -2 0 起 A_LOCATION: 2
+U 0 0 吧 -1 2 NN 0 2 IJ O: 1
+U 0 0 公司 0 3 N/A O: 1
+U 0 0 DATE O: -3
+U 0 0 酒 -1 2 M 0 2 NN A_OBJECT: 2
+U 0 0 喜多屋 -1 2 V 0 2 NR O: -1
+U -1 0 扇贝 0 0 王 A_OBJECT: 2
+U 0 0 去 1 0 喜多屋 A_OBJECT: -1
+U 1 0 非常 2 0 香辣 A_LOCATION: -1
+U 0 0 酒 0 3 N/A A_OBJECT: 2
+U 0 0 香辣 0 3 N/A A_LOCATION: -1
+U 0 0 两 0 2 D 1 2 M A_LOCATION: -1
+U -2 0 个 -1 0 非常 O: 1
+U 0 0 洪老板 O: -1
+U 0 0 或者 0 2 C 1 2 NR A_PEOPLE: -1
+U -2 0 两 A_OBJECT: 2
+U 2 0 工厂 O: 1
+U 0 0 牧羊传奇 0 2 NR O: -1
+U -1 0 回 A_LOCATION: 2
+U 0 0 烤羊腿 0 2 NR 1 2 C A_OBJECT: 1
+U 0 0 个 A_LOCATION: -2
+U 0 0 可以 1 0 啊 A_PEOPLE: -1
+U 0 0 香辣 -1 2 AD 0 2 JJ A_LOCATION: -1
+U 2 0 箱 O: 1
+U 2 0 可以 A_OBJECT: 2
+U 0 0 自助 0 3 N/A A_OBJECT: 1
+U 2 0 就 O: 1
+U -2 0 吃 A_LOCATION: -1
+U 0 0 生蚝 O: -1
+U 2 0 复旦大学 O: 1
+U 0 0 有 0 2 V O: 2
+U 0 0 叫 -1 2 PU 0 2 V O: 1
+U -1 0 扇贝 A_PEOPLE: -1
+U -1 0 回 O: -1
+U 0 0 公司 0 2 NN A_OBJECT: -1
+U -1 0 吧 0 0 ！ O: 2
+U 0 0 TIME 1 0 去 O: -1
+U 1 0 在 2 0 牧羊传奇 A_LOCATION: -1
+U -2 0 你们 O: -1
+U 0 0 DATE -1 2 V 0 2 NT A_OBJECT: -1
+U 0 0 公司 0 2 NN 1 2 NR A_OBJECT: -1
+U -1 0 在 1 0 和 O: -1
+U -2 0 吃 A_OBJECT: 5
+U 0 0 王 0 2 NR A_PEOPLE: -1
+U 1 0 吧 2 0 ！ A_OBJECT: 3
+U 0 0 你们 A_LOCATION: -1
+U 0 0 非常 0 2 AD O: 1
+U -1 0 DATE 1 0 吃 O: 1
+U 0 0 就 O: 1
+U 0 0 DIGIT A_OBJECT: -1
+U 0 0 的 0 2 U O: 1
+U 1 0 个 A_LOCATION: -1
+U 2 0 去 A_DATE: 1
+U 0 0 个 1 0 非常 O: 1
+U 0 0 杭州 0 2 NR 1 2 V A_LOCATION: 2
+U -1 0 DATE A_TIME: 1
+U 0 0 洪老板 -1 2 C 0 2 NR A_PEOPLE: 2
+U 0 0 去 0 2 V 1 2 NR O: 1
+U 0 0 火锅 0 2 NN O: -2
+U -1 0 徐家汇 0 0 的 A_LOCATION: -1
+U 2 0 公司 O: 1
+U -1 0 ， 1 0 DIGIT O: 1
+U 2 0 上 O: 1
+U -2 0 回 O: 1
+U -1 0 烤羊腿 1 0 扇贝 O: -1
+U 2 0 生蚝 A_PEOPLE: 2
+U -2 0 复旦大学 -1 0 吃 O: -1
+U 0 0 扇贝 O: -2
+U 2 0 不错 O: 1
+U -1 0 去 A_PEOPLE: -1
+U 0 0 复旦大学 0 3 ORGANIZATION O: -1
+U 0 0 杭州 0 2 NR A_LOCATION: 2
+U 0 0 吃 1 0 个 O: 2
+B -1 0 工厂 1 0 不错 O A_OBJECT: -1
+B 0 0 金老板 0 2 NR O A_PEOPLE: 2
+B 0 0 就 O O: 1
+B 0 0 王 1 0 都 O A_PEOPLE: -1
+B -1 0 TIME 1 0 牧羊传奇 A_LOCATION A_LOCATION: -1
+B 0 0 公司 0 2 NN O A_OBJECT: -1
+B 0 0 人均 0 2 NR O A_DATE: -1
+B 2 0 烧烤 A_OBJECT A_OBJECT: -1
+B 0 0 喝 O O: 1
+B 1 0 工厂 O A_OBJECT: -1
+B 0 0 在 0 3 N/A A_TIME O: 1
+B -2 0 机会 O O: -2
+B 0 0 酒 O A_OBJECT: 2
+B 0 0 个 1 0 非常 O A_LOCATION: -1
+B 2 0 老 O A_LOCATION: 2
+B -1 0 喝 A_OBJECT A_LOCATION: -1
+B 1 0 扇贝 A_OBJECT O: -1
+B 0 0 TIME 0 3 TIME A_LOCATION A_LOCATION: -1
+B -1 0 火锅 1 0 。 A_OBJECT O: 1
+B 0 0 起 O O: 1
+B 0 0 你们 0 2 PN O A_PEOPLE: 2
+B -1 0 烤羊腿 A_OBJECT O: -1
+B 0 0 扇贝 0 2 NR A_OBJECT A_OBJECT: 2
+B -1 0 DIGIT 0 0 还 O A_LOCATION: -1
+B 0 0 吃 0 3 N/A A_PEOPLE O: 1
+B 0 0 香辣 0 2 JJ O O: 1
+B -1 0 金老板 0 0 。 A_PEOPLE O: 1
+B 0 0 生蚝 0 3 FOOD O A_OBJECT: 1
+B 0 0 烤羊腿 0 2 NR O O: -1
+B 0 0 老 1 0 工厂 O A_OBJECT: -1
+B -2 0 可以 O A_PEOPLE: -1
+B -1 0 老 0 0 工厂 O A_LOCATION: -1
+B -1 0 ！ O A_LOCATION: 2
+B 0 0 金老板 0 3 PERSON O A_PEOPLE: 2
+B -1 0 DATE 0 0 一起 A_DATE O: 1
+B -1 0 一起 1 0 喜多屋 O A_OBJECT: -1
+B 0 0 你们 O O: -1
+B -1 0 起 0 0 回 O O: 1
+B -1 0 火锅 A_OBJECT O: 1
+B 0 0 就 0 2 AD O O: 1
+B 0 0 就 0 3 N/A O O: 1
+B -1 0 个 1 0 ， O O: -1
+B 1 0 DIGIT O O: 1
+B 0 0 扇贝 0 3 FOOD A_OBJECT A_OBJECT: 2
+B 0 0 老 0 3 N/A O O: 1
+B 1 0 洪老板 A_LOCATION A_LOCATION: -1
+B -1 0 ！ 0 0 徐家汇 A_LOCATION O: -1
+B -1 0 徐家汇 1 0 老 O A_LOCATION: -1
+B 2 0 烤羊腿 O A_PEOPLE: -1
+B -2 0 徐家汇 O A_OBJECT: -1
+B -1 0 公司 1 0 。 O A_PEOPLE: 2
+B 0 0 人均 1 0 DIGIT O O: 1
+B -1 0 上 0 0 公司 O A_OBJECT: -1
+B -2 0 吃 O A_OBJECT: 2
+B -1 0 老 1 0 就 O O: 1
+B -1 0 扇贝 0 0 王 A_OBJECT A_OBJECT: 2
+B 0 0 洪老板 1 0 吃 O O: -1
+B 2 0 吃 A_LOCATION O: 1
+B -1 0 都 0 0 可以 O A_PEOPLE: -1
+B 0 0 喜多屋 A_OBJECT O: -1
+B 1 0 老 A_LOCATION O: 1
+B -1 0 烤羊腿 1 0 扇贝 A_OBJECT A_OBJECT: 2
+B 0 0 酸菜鱼 0 3 FOOD O O: -1
+B -1 0 吃 O A_LOCATION: -1
+B 2 0 吃 A_OBJECT A_OBJECT: -1
+B 0 0 。 0 2 PU O O: 1
+B 0 0 酒 O O: -2
+B ╠ A_LOCATION: -3
+B -2 0 吃 A_OBJECT O: 0
+B 0 0 吃 0 2 V A_PEOPLE O: 1
+B -2 0 张江镇 O O: -1
+B -2 0 上 O O: -1
+B 0 0 香辣 0 3 N/A O O: 1
+B 0 0 王 O A_PEOPLE: -1
+B 1 0 上 O O: 1
+B -1 0 吃 0 0 个 O A_LOCATION: -1
+B 0 0 DIGIT 1 0 起 A_OBJECT A_OBJECT: -1
+B 0 0 的 O A_LOCATION: -1
+B 2 0 生蚝 O O: -1
+B 0 0 徐家汇 A_LOCATION O: -1
+B 0 0 你们 1 0 吃 O A_LOCATION: -1
+B ╠ O: -2
+B 0 0 在 0 2 P A_TIME O: 1
+B -1 0 去 1 0 吃 A_OBJECT O: -1
+B 0 0 TIME A_LOCATION A_LOCATION: -1
+B 0 0 一起 0 2 AD A_DATE O: 1
+B 0 0 你们 1 0 吃 O A_PEOPLE: 2
+B 0 0 。 0 2 PU A_OBJECT O: 1
+B ╠ A_TIME: 2
+B -1 0 和 O O: -1
+B 0 0 去 0 3 N/A O A_OBJECT: -1
+B 0 0 牧羊传奇 0 2 NR O A_LOCATION: 1
+B -1 0 TIME 1 0 牧羊传奇 A_TIME O: 1
+B 0 0 香辣 1 0 的 O O: 1
+B 0 0 老 1 0 工厂 O O: 1
+B -2 0 王 O A_PEOPLE: -1
+B -1 0 或者 1 0 王 A_PEOPLE O: -1
+B 0 0 非常 0 3 N/A O O: 1
+B 2 0 老 O O: -1
+B 1 0 啊 O O: 0
+B 1 0 的 O O: 0
+B -1 0 来 O A_LOCATION: 2
+B 0 0 或者 0 2 C A_OBJECT A_OBJECT: 2
+B 0 0 可以 0 3 N/A O O: 1
+B -1 0 ！ 0 0 徐家汇 O O: -1
+B -1 0 酒 0 0 。 A_OBJECT A_OBJECT: -1
+B 0 0 公司 O O: 1
+B -2 0 上 A_OBJECT O: -1
+B -2 0 回 A_LOCATION O: 1
+B -1 0 都 O O: 1
+B -1 0 回 O O: -1
+B 1 0 一起 O A_OBJECT: -1
+B -1 0 生蚝 0 0 自助 O O: -1
+B -1 0 回 0 0 复旦大学 A_OBJECT A_OBJECT: -1
+B -1 0 DATE 0 0 一起 O A_LOCATION: -1
+B 0 0 牧羊传奇 1 0 和 O A_LOCATION: 1
+B -2 0 DATE A_OBJECT A_OBJECT: -1
+B 0 0 ， 0 3 PUNCTUATION A_OBJECT O: 1
+B -1 0 ， 1 0 上 O O: 1
+B -1 0 箱 0 0 酒 O O: -2
+B 0 0 ！ 0 2 PU A_OBJECT A_OBJECT: -1
+B -1 0 ！ 1 0 的 O O: -1
+B -2 0 老 O A_OBJECT: -1
+B -1 0 自助 A_OBJECT O: 1
+B -2 0 叫 O A_OBJECT: -1
+B A_DATE O: 20
+B 2 0 扇贝 O O: -1
+B -1 0 或者 A_PEOPLE O: -1
+B 0 0 洪老板 1 0 吃 O A_PEOPLE: 2
+B -1 0 吧 1 0 徐家汇 O O: 1
+B -1 0 徐家汇 A_LOCATION O: 1
+B 0 0 人均 0 2 NR O O: 1
+B 0 0 。 0 3 PUNCTUATION A_OBJECT A_OBJECT: -1
+B -1 0 吧 0 0 ！ A_OBJECT A_OBJECT: -1
+B -1 0 吃 0 0 烤羊腿 O A_OBJECT: 1
+B -2 0 或者 O A_PEOPLE: -1
+B 2 0 去 O A_OBJECT: -1
+B -1 0 都 1 0 啊 O O: 1
+B 0 0 一起 0 3 N/A A_DATE O: 1
+B 0 0 就 O A_OBJECT: -1
+B 0 0 两 0 2 D A_OBJECT A_LOCATION: -1
+B 0 0 个 1 0 火锅 O O: 1
+B -1 0 火锅 0 0 吧 A_LOCATION A_LOCATION: -1
+B 2 0 火锅 A_LOCATION A_LOCATION: -1
+B -1 0 来 0 0 杭州 O A_LOCATION: 2
+B 0 0 洪老板 0 3 PERSON A_LOCATION A_LOCATION: -1
+B O A_DATE: 0
+B 0 0 王 0 2 NR O A_PEOPLE: -1
+B 0 0 吃 O A_OBJECT: -1
+B -1 0 能 0 0 喝 O A_OBJECT: -1
+B 0 0 叫 0 3 N/A O O: 1
+B 0 0 酸菜鱼 O A_LOCATION: 1
+B -1 0 DATE 0 0 TIME A_LOCATION A_LOCATION: -1
+B -1 0 在 0 0 牧羊传奇 O O: -1
+B 2 0 公司 O O: 1
+B -1 0 复旦大学 0 0 吃 A_LOCATION O: 1
+B 2 0 箱 O O: 1
+B -1 0 DIGIT 1 0 回 O O: 1
+B 0 0 你们 O A_LOCATION: -1
+B 0 0 复旦大学 0 3 ORGANIZATION A_OBJECT A_OBJECT: -1
+B 0 0 王 0 3 N/A O O: -1
+B 1 0 扇贝 A_OBJECT A_OBJECT: 2
+B 0 0 牧羊传奇 0 3 ORGANIZATION O O: -1
+B 0 0 酸菜鱼 0 2 NR O A_LOCATION: 1
+B 0 0 非常 O O: 1
+B -1 0 DATE 1 0 吃 O A_LOCATION: -1
+B 0 0 人均 O A_DATE: -1
+B -1 0 生蚝 0 0 自助 A_OBJECT A_DATE: -1
+B 2 0 吧 A_LOCATION A_LOCATION: -1
+B 0 0 DATE O A_DATE: 1
+B -2 0 一起 A_OBJECT O: -1
+B 0 0 回 O O: 1
+B 0 0 或者 0 2 C O A_PEOPLE: -1
+B 0 0 自助 1 0 ， O O: -1
+B 0 0 火锅 O A_OBJECT: 4
+B -1 0 的 1 0 吧 O A_OBJECT: 2
+B 0 0 扇贝 0 2 NR A_PEOPLE O: -1
+B 2 0 你们 O A_LOCATION: 2
+B 2 0 还 O A_DATE: -1
+B -1 0 就 O A_LOCATION: -1
+B 1 0 自助 O A_OBJECT: 1
+B -1 0 喝 O O: 1
+B -1 0 起 1 0 复旦大学 A_OBJECT A_OBJECT: -1
+B -1 0 吧 0 0 。 O O: 1
+B -1 0 能 O O: 1
+B 0 0 叫 O A_OBJECT: -1
+B -2 0 箱 A_OBJECT A_OBJECT: -1
+B 0 0 叫 O O: 1
+B 1 0 和 O O: -1
+B -1 0 ， 0 0 人均 O O: 1
+B -1 0 非常 0 0 香辣 O O: 1
+B 2 0 都 A_PEOPLE O: -1
+B -1 0 公司 O O: -1
+B 0 0 牧羊传奇 1 0 和 O O: -1
+B 0 0 可以 0 2 V O O: 1
+B -1 0 洪老板 1 0 个 A_LOCATION A_LOCATION: -1
+B 2 0 。 A_LOCATION A_LOCATION: -1
+B 0 0 自助 0 3 DOMAIN A_OBJECT A_OBJECT: 2
+B -2 0 DATE O O: 2
+B -1 0 或者 A_OBJECT A_OBJECT: 2
+B -1 0 个 1 0 ， O A_OBJECT: 1
+B -1 0 洪老板 1 0 个 A_PEOPLE O: 1
+B 0 0 王 0 3 N/A O A_PEOPLE: -1
+B 0 0 吧 0 2 IJ A_OBJECT A_OBJECT: -1
+B -1 0 上 1 0 金老板 O A_OBJECT: -1
+B 0 0 火锅 1 0 吧 O A_OBJECT: 4
+B -1 0 金老板 O A_OBJECT: -1
+B 0 0 。 A_OBJECT A_OBJECT: -1
+B 0 0 个 0 2 M O O: 2
+B 2 0 个 O A_LOCATION: 0
+B -1 0 DIGIT 0 0 还 O O: 1
+B 0 0 ， 1 0 叫 A_OBJECT O: 1
+B -1 0 吃 0 0 个 O O: 2
+B 2 0 个 O O: -1
+B A_DATE A_TIME: 10
+B 2 0 香辣 O O: 1
+B 0 0 不错 1 0 。 O A_LOCATION: -1
+B 1 0 都 O O: -1
+B 0 0 自助 0 2 NR A_OBJECT A_DATE: -1
+B -1 0 或者 O O: -1
+B 0 0 工厂 1 0 就 O A_LOCATION: -1
+B 0 0 还 0 3 N/A O A_LOCATION: -1
+B 1 0 两 O A_OBJECT: -1
+B 1 0 箱 A_OBJECT A_LOCATION: -1
+B 0 0 在 1 0 牧羊传奇 A_LOCATION A_LOCATION: -1
+B -1 0 DATE A_DATE O: 2
+B -1 0 牧羊传奇 1 0 洪老板 A_LOCATION A_LOCATION: -1
+B 0 0 自助 1 0 啊 O O: -1
+B -1 0 DATE A_OBJECT A_OBJECT: -1
+B -2 0 公司 O A_OBJECT: -1
+B -1 0 喝 1 0 箱 A_OBJECT A_LOCATION: -1
+B -1 0 箱 O A_OBJECT: 2
+B 0 0 一起 0 3 N/A O A_LOCATION: -1
+B 0 0 起 0 2 M O O: 1
+B -2 0 的 O A_LOCATION: -1
+B 0 0 自助 1 0 ， O A_OBJECT: 1
+B -1 0 扇贝 0 0 王 O A_PEOPLE: -1
+B -1 0 徐家汇 0 0 的 O A_LOCATION: -1
+B 0 0 王 1 0 都 O O: -1
+B -1 0 TIME 0 0 在 A_LOCATION A_LOCATION: -1
+B 2 0 吃 O A_OBJECT: -1
+B -2 0 杭州 O A_LOCATION: -1
+B 1 0 不错 O O: 1
+B 0 0 喜多屋 0 2 NR A_OBJECT O: -1
+B -1 0 复旦大学 A_OBJECT A_OBJECT: -1
+B -1 0 的 0 0 老 O A_OBJECT: -1
+B -1 0 个 1 0 吧 O O: -1
+B -1 0 回 0 0 复旦大学 O O: -1
+B 2 0 吃 O O: 2
+B -1 0 请 0 0 你们 O A_PEOPLE: 2
+B 0 0 去 O A_OBJECT: -1
+B 2 0 上 A_OBJECT O: 1
+B 0 0 你们 0 2 PN O A_LOCATION: -1
+B 1 0 吃 A_OBJECT A_OBJECT: -1
+B 2 0 ！ O A_OBJECT: 3
+B 0 0 杭州 0 2 NR O O: -2
+B -1 0 去 1 0 吃 O A_LOCATION: 2
+B 0 0 在 A_LOCATION A_LOCATION: -1
+B -1 0 个 1 0 香辣 O O: 1
+B 0 0 酒 0 2 NN O A_OBJECT: 2
+B 0 0 叫 1 0 上 O A_OBJECT: -1
+B 0 0 ！ 0 2 PU O O: 3
+B 0 0 起 1 0 回 A_OBJECT A_OBJECT: -1
+B -2 0 在 A_LOCATION A_LOCATION: -1
+B A_LOCATION O: 30
+B 1 0 两 O O: 1
+B 0 0 烧烤 1 0 吧 O O: -1
+B 2 0 ！ O A_LOCATION: -1
+B 2 0 牧羊传奇 A_DATE A_TIME: 1
+B -1 0 自助 0 0 ， A_OBJECT A_LOCATION: -1
+B 0 0 。 0 2 PU O A_OBJECT: -1
+B 1 0 。 O A_OBJECT: 2
+B 2 0 复旦大学 O O: 1
+B -1 0 非常 0 0 香辣 O A_LOCATION: -1
+B -2 0 回 A_OBJECT A_OBJECT: -1
+B -1 0 火锅 1 0 。 A_LOCATION A_LOCATION: -1
+B -2 0 去 O A_OBJECT: -1
+B -1 0 吧 A_OBJECT A_OBJECT: -1
+B -1 0 家 0 0 酸菜鱼 O O: -1
+B -1 0 ， O A_DATE: -1
+B 0 0 酸菜鱼 1 0 ， O A_LOCATION: 1
+B -2 0 个 A_OBJECT A_LOCATION: -1
+B -1 0 非常 O O: 1
+B 2 0 洪老板 O O: -1
+B 0 0 复旦大学 0 2 NR O O: -1
+B 0 0 你们 0 3 N/A O O: -1
+B -1 0 DATE A_DATE A_TIME: 1
+B 0 0 生蚝 O A_OBJECT: 1
+B -2 0 牧羊传奇 A_LOCATION A_LOCATION: -1
+B -1 0 去 O A_LOCATION: 2
+B -1 0 喜多屋 O A_OBJECT: -1
+B -1 0 老 1 0 就 O A_LOCATION: -1
+B A_LOCATION A_LOCATION: -90
+B 0 0 火锅 1 0 吧 A_LOCATION A_LOCATION: -1
+B -1 0 烤羊腿 O A_PEOPLE: -1
+B 0 0 或者 0 3 N/A A_OBJECT O: -1
+B -2 0 人均 O A_LOCATION: -1
+B 1 0 的 O A_LOCATION: 1
+B 0 0 徐家汇 O A_LOCATION: 2
+B -1 0 扇贝 0 0 王 O O: -1
+B 2 0 ！ O O: -2
+B 0 0 。 0 2 PU A_OBJECT A_OBJECT: -1
+B 1 0 吃 A_DATE O: 1
+B -1 0 或者 1 0 王 O O: -1
+B 0 0 工厂 0 2 NN O O: 1
+B 0 0 公司 O A_OBJECT: -1
+B 0 0 的 A_LOCATION O: 1
+B 1 0 牧羊传奇 A_LOCATION A_LOCATION: -1
+B -1 0 请 1 0 吃 O A_LOCATION: -1
+B 1 0 喜多屋 O A_OBJECT: -1
+B 0 0 公司 1 0 金老板 O A_OBJECT: -1
+B 0 0 ！ 0 3 PUNCTUATION O A_PEOPLE: -1
+B -1 0 烤羊腿 A_OBJECT A_OBJECT: 2
+B 0 0 金老板 0 2 NR A_OBJECT O: -1
+B -1 0 的 O A_LOCATION: -1
+B O A_PEOPLE: 10
+B -1 0 DATE 0 0 TIME A_DATE A_TIME: 1
+B -1 0 老 O A_LOCATION: -1
+B -1 0 的 1 0 工厂 O A_OBJECT: -1
+B -1 0 喜多屋 0 0 吃 A_LOCATION O: 1
+B -1 0 牧羊传奇 A_LOCATION O: 1
+B -2 0 两 O O: -2
+B -1 0 不如 0 0 DATE O A_DATE: 1
+B -1 0 个 0 0 火锅 O A_OBJECT: 2
+B 1 0 。 A_LOCATION A_LOCATION: -1
+B -1 0 ！ A_LOCATION O: -1
+B 0 0 个 0 3 N/A O A_LOCATION: -1
+B -2 0 火锅 A_LOCATION A_LOCATION: -1
+B 1 0 在 A_DATE A_TIME: 1
+B 1 0 请 O O: -2
+B 0 0 吃 0 3 N/A A_LOCATION A_LOCATION: -1
+B 0 0 火锅 0 2 NN A_LOCATION A_LOCATION: -1
+B -1 0 不如 O A_OBJECT: -1
+B 0 0 和 1 0 洪老板 A_LOCATION O: 1
+B -1 0 上 0 0 公司 O O: 1
+B -1 0 来 1 0 请 O O: -2
+B 0 0 自助 O A_OBJECT: 1
+B 1 0 复旦大学 A_OBJECT A_OBJECT: -1
+B -2 0 能 A_OBJECT A_LOCATION: -1
+B 1 0 个 A_LOCATION A_LOCATION: -1
+B -1 0 公司 0 0 金老板 O O: -1
+B -2 0 或者 O O: -1
+B -2 0 可以 O O: 1
+B 0 0 不错 0 2 JJ O O: 1
+B -1 0 起 A_OBJECT A_OBJECT: -1
+B -2 0 公司 A_PEOPLE O: 1
+B 0 0 吃 0 2 V A_LOCATION A_LOCATION: -1
+B -1 0 个 1 0 吧 A_LOCATION A_LOCATION: -1
+B -2 0 一起 O O: 1
+B 2 0 个 A_LOCATION A_LOCATION: -1
+B -2 0 人均 O O: 1
+B 1 0 火锅 O O: 1
+B 0 0 烧烤 0 2 NR O A_OBJECT: 1
+B 2 0 扇贝 O A_OBJECT: 1
+B 2 0 生蚝 O A_PEOPLE: 2
+B 0 0 复旦大学 1 0 吃 O A_LOCATION: 2
+B 0 0 吃 1 0 个 O A_OBJECT: -1
+B 0 0 。 A_PEOPLE O: 1
+B 0 0 扇贝 A_OBJECT A_OBJECT: 2
+B -1 0 的 O A_OBJECT: 1
+B 1 0 王 A_PEOPLE O: -1
+B 0 0 酸菜鱼 O O: -1
+B 0 0 TIME 1 0 在 A_LOCATION A_LOCATION: -1
+B -1 0 喜多屋 1 0 个 A_LOCATION O: 1
+B 0 0 。 0 2 PU A_LOCATION A_LOCATION: -1
+B 0 0 自助 O O: -2
+B 0 0 火锅 A_LOCATION A_LOCATION: -1
+B 0 0 ！ 0 3 PUNCTUATION O A_LOCATION: -1
+B -1 0 去 1 0 吃 O A_PEOPLE: -1
+B -2 0 起 O A_LOCATION: 2
+B 0 0 回 0 3 N/A A_OBJECT A_OBJECT: -1
+B -1 0 去 A_OBJECT O: -1
+B -2 0 酸菜鱼 O A_DATE: -1
+B 0 0 洪老板 O O: -1
+B 0 0 洪老板 0 3 PERSON O A_PEOPLE: 2
+B 0 0 去 0 3 N/A O O: 1
+B 1 0 老 O A_LOCATION: -1
+B -1 0 的 1 0 工厂 O O: 1
+B -1 0 ！ 0 0 徐家汇 O A_LOCATION: 2
+B 0 0 去 1 0 喜多屋 O O: 1
+B -1 0 ， O A_OBJECT: -1
+B -1 0 吃 A_LOCATION A_LOCATION: -1
+B -1 0 起 0 0 回 A_OBJECT A_OBJECT: -1
+B 2 0 就 O O: 1
+B 0 0 。 0 3 PUNCTUATION O O: 1
+B 0 0 DIGIT 0 2 D A_DATE O: 1
+B 0 0 。 0 3 PUNCTUATION A_OBJECT O: 1
+B 2 0 还 O O: 1
+B -1 0 DATE A_LOCATION A_LOCATION: -1
+B -1 0 洪老板 A_PEOPLE O: 1
+B 1 0 洪老板 A_LOCATION O: 1
+B -2 0 有 O O: -1
+B -2 0 烤羊腿 O O: -1
+B 1 0 个 A_LOCATION O: 1
+B 1 0 扇贝 O A_PEOPLE: -1
+B -1 0 烧烤 1 0 ！ A_OBJECT A_OBJECT: -1
+B 2 0 烧烤 O A_LOCATION: 2
+B -1 0 烧烤 1 0 ！ A_OBJECT O: 1
+B 0 0 张江镇 O A_LOCATION: 1
+B 1 0 箱 O O: 1
+B 0 0 TIME 0 3 TIME A_DATE A_TIME: 1
+B -2 0 吧 A_LOCATION O: -1
+B -1 0 DIGIT A_OBJECT A_OBJECT: -1
+B 0 0 烤羊腿 0 3 FOOD O A_OBJECT: 1
+B -1 0 去 0 0 张江镇 O A_LOCATION: 1
+B 2 0 香辣 O A_LOCATION: -1
+B -1 0 吃 1 0 自助 O O: -1
+B 0 0 老 O A_OBJECT: -1
+B -1 0 都 1 0 啊 O A_PEOPLE: -1
+B -2 0 个 O O: 1
+B -2 0 香辣 O A_LOCATION: -1
+B -1 0 和 A_LOCATION A_LOCATION: -1
+B 0 0 TIME 0 2 NT A_DATE A_TIME: 1
+B -2 0 在 A_LOCATION O: 1
+B 0 0 吃 1 0 烧烤 A_LOCATION O: 1
+B 0 0 TIME 0 2 NT A_LOCATION A_LOCATION: -1
+B 0 0 叫 0 2 V O O: 1
+B 1 0 烧烤 A_OBJECT A_OBJECT: -1
+B 0 0 金老板 O A_PEOPLE: 2
+B 0 0 或者 1 0 扇贝 A_OBJECT A_OBJECT: 2
+B -2 0 徐家汇 O O: 1
+B 0 0 牧羊传奇 O A_LOCATION: 1
+B A_TIME O: 10
+B 0 0 。 0 3 PUNCTUATION O A_OBJECT: -1
+B 0 0 自助 1 0 啊 A_OBJECT A_OBJECT: 2
+B -1 0 DATE 0 0 DIGIT A_OBJECT A_OBJECT: -1
+B 0 0 你们 1 0 吃 O O: -1
+B 0 0 生蚝 0 2 NR O O: -1
+B 0 0 徐家汇 0 3 PERSON O A_LOCATION: 2
+B -1 0 扇贝 1 0 都 A_OBJECT A_OBJECT: 2
+B 0 0 公司 0 3 N/A O A_OBJECT: -1
+B 0 0 一起 0 2 AD O A_LOCATION: -1
+B -1 0 洪老板 0 0 吃 A_PEOPLE O: 1
+B -1 0 生蚝 1 0 啊 A_OBJECT A_OBJECT: 2
+B -1 0 吃 O O: -1
+B -1 0 回 O A_LOCATION: 2
+B -1 0 工厂 1 0 不错 O O: 1
+B -1 0 DIGIT 0 0 起 O O: 1
+B 0 0 你们 0 3 N/A O A_LOCATION: -1
+B -1 0 起 O O: 1
+B 0 0 两 0 2 D O O: 1
+B 1 0 喜多屋 O O: 1
+B 0 0 公司 0 2 NN O O: 1
+B 1 0 吧 O O: -3
+B 0 0 杭州 O O: -2
+B 2 0 可以 O O: -1
+B -1 0 个 1 0 吧 O A_OBJECT: 2
+B 0 0 吃 0 3 N/A A_LOCATION O: 2
+B 0 0 个 0 3 N/A A_LOCATION A_LOCATION: -1
+B 1 0 ， O O: -2
+B 0 0 扇贝 1 0 王 A_OBJECT A_OBJECT: 2
+B 0 0 扇贝 0 3 FOOD A_PEOPLE O: -1
+B -1 0 在 1 0 和 O A_LOCATION: 1
+B 2 0 上 A_OBJECT A_LOCATION: -1
+B 1 0 或者 O A_OBJECT: 1
+B 0 0 老 0 2 JJ O A_OBJECT: -1
+B 0 0 的 1 0 老 A_LOCATION O: 1
+B 1 0 吃 A_OBJECT O: -1
+B 1 0 火锅 A_LOCATION A_LOCATION: -1
+B -1 0 的 O O: 0
+B -1 0 请 0 0 你们 O O: -1
+B 0 0 DATE 1 0 一起 O A_DATE: 1
+B 0 0 非常 1 0 香辣 O A_OBJECT: -1
+B 1 0 啊 O A_PEOPLE: -1
+B 1 0 能 O O: 1
+B 0 0 金老板 A_OBJECT O: -1
+B 0 0 的 0 2 U O A_LOCATION: -1
+B -2 0 香辣 O O: -1
+B 0 0 你们 0 3 N/A O A_PEOPLE: 2
+B 1 0 都 O A_PEOPLE: -1
+B -2 0 烤羊腿 A_PEOPLE O: -1
+B 1 0 吃 O A_PEOPLE: 3
+B 0 0 杭州 0 3 LOCATION O O: -2
+B -1 0 吧 O O: 3
+B -2 0 还 O A_OBJECT: -1
+B -1 0 的 0 0 老 O O: 1
+B -1 0 吧 0 0 ！ O A_LOCATION: -1
+B 0 0 生蚝 0 2 NR O A_OBJECT: 1
+B -1 0 啊 O O: 1
+B -1 0 生蚝 A_OBJECT A_OBJECT: 2
+B -1 0 都 0 0 可以 O O: 1
+B 0 0 一起 1 0 吃 O A_LOCATION: -1
+B 0 0 TIME A_DATE A_TIME: 1
+B 0 0 公司 1 0 金老板 O O: 1
+B -1 0 在 0 0 牧羊传奇 O A_LOCATION: 1
+B 0 0 金老板 0 2 NR O O: -1
+B -1 0 个 A_LOCATION A_LOCATION: -1
+B -1 0 自助 A_OBJECT A_LOCATION: -1
+B -1 0 箱 O O: -2
+B -1 0 喝 0 0 两 O O: 1
+B -1 0 和 1 0 吃 O A_PEOPLE: 2
+B 0 0 金老板 1 0 。 O A_PEOPLE: 2
+B 0 0 喜多屋 0 3 ORGANIZATION O A_LOCATION: 1
+B -1 0 个 1 0 香辣 O A_OBJECT: -1
+B 1 0 吃 A_LOCATION A_LOCATION: -1
+B -1 0 箱 0 0 酒 O A_OBJECT: 2
+B 0 0 ！ O A_LOCATION: -1
+B 1 0 牧羊传奇 A_TIME O: 1
+B 0 0 去 0 2 V O O: 1
+B -1 0 生蚝 0 0 自助 A_OBJECT A_OBJECT: 2
+B 0 0 烤羊腿 1 0 或者 O O: -1
+B -1 0 DATE 0 0 DIGIT A_DATE O: 1
+B 0 0 徐家汇 0 2 NR A_LOCATION O: -1
+B 2 0 喝 O A_LOCATION: -1
+B -2 0 DATE A_TIME O: 1
+B O A_OBJECT: 0
+B 0 0 火锅 0 3 N/A O A_OBJECT: 4
+B -1 0 去 O A_PEOPLE: -1
+B 0 0 在 A_TIME O: 1
+B -1 0 ， 0 0 叫 O O: 1
+B 0 0 酸菜鱼 1 0 ， O O: -1
+B -1 0 吧 O A_LOCATION: -1
+B 2 0 不错 O A_LOCATION: -1
+B 0 0 吧 0 3 N/A A_OBJECT A_OBJECT: -1
+B 2 0 不错 O O: 1
+B -1 0 回 1 0 吃 A_OBJECT A_OBJECT: -1
+B 0 0 吧 0 2 IJ A_OBJECT O: 2
+B 0 0 复旦大学 1 0 吃 O O: -1
+B -1 0 个 0 0 火锅 O O: -1
+B 0 0 的 0 2 U A_LOCATION O: 1
+B 0 0 复旦大学 0 2 NR A_OBJECT A_OBJECT: -1
+B 0 0 金老板 1 0 。 O O: -1
+B A_OBJECT A_OBJECT: 0
+B -1 0 烧烤 A_OBJECT A_OBJECT: -1
+B -1 0 火锅 0 0 吧 A_OBJECT O: 1
+B 1 0 啊 A_OBJECT A_OBJECT: 2
+B 0 0 喝 0 3 N/A O A_OBJECT: -1
+B -1 0 老 0 0 工厂 O O: 1
+B 0 0 人均 0 3 N/A O O: 1
+B -1 0 洪老板 A_LOCATION A_LOCATION: -1
+B -1 0 ， O O: 2
+B -2 0 火锅 O O: 2
+B 2 0 个 A_OBJECT O: -1
+B 0 0 吃 0 2 V A_LOCATION O: 2
+B 0 0 生蚝 0 3 FOOD O O: -1
+B 1 0 工厂 O O: 1
+B 0 0 就 1 0 不错 O A_OBJECT: -1
+B 0 0 吧 0 2 IJ A_LOCATION A_LOCATION: -1
+B -2 0 或者 A_OBJECT A_OBJECT: 2
+B -1 0 生蚝 O O: -1
+B 0 0 还 O O: 1
+B -1 0 就 0 0 不错 O A_LOCATION: -1
+B 2 0 箱 O A_OBJECT: -1
+B 2 0 ！ A_OBJECT A_DATE: -1
+B -1 0 去 0 0 张江镇 O A_PEOPLE: -1
+B -2 0 烧烤 O O: 1
+B 0 0 两 0 3 N/A O O: 1
+B -1 0 吃 1 0 自助 O A_OBJECT: 1
+B 0 0 酒 0 2 NN O O: -2
+B 2 0 你们 O O: -2
+B 0 0 喝 1 0 两 O O: 1
+B -1 0 DATE 1 0 起 A_DATE O: 1
+B 2 0 可以 A_OBJECT A_OBJECT: 2
+B -1 0 DIGIT 1 0 能 O A_LOCATION: -1
+B 2 0 吧 A_LOCATION O: 1
+B -1 0 烧烤 A_OBJECT O: 1
+B -1 0 吧 1 0 徐家汇 O A_LOCATION: -1
+B 1 0 在 A_LOCATION A_LOCATION: -1
+B 1 0 。 O O: -2
+B 0 0 徐家汇 0 2 NR O A_LOCATION: 2
+B -1 0 牧羊传奇 0 0 和 A_LOCATION A_LOCATION: -1
+B 0 0 你们 0 2 PN O O: -1
+B 0 0 洪老板 1 0 吃 A_LOCATION A_LOCATION: -1
+B 0 0 生蚝 O O: -1
+B 0 0 个 O A_LOCATION: -1
+B 2 0 酒 O O: 1
+B 0 0 个 O O: 2
+B 1 0 或者 O O: -1
+B 1 0 王 A_OBJECT A_OBJECT: 2
+B 0 0 起 A_OBJECT A_OBJECT: -1
+B -2 0 工厂 O O: 1
+B -1 0 吃 1 0 吧 O A_OBJECT: 1
+B 1 0 个 O A_OBJECT: -1
+B 0 0 香辣 O A_LOCATION: -1
+B -1 0 来 0 0 杭州 O O: -2
+B -1 0 扇贝 O A_PEOPLE: -1
+B -2 0 复旦大学 O O: -1
+B 0 0 自助 A_OBJECT A_DATE: -1
+B -1 0 能 0 0 喝 O O: 1
+B 0 0 烤羊腿 O A_OBJECT: 1
+B -1 0 箱 1 0 。 O O: -2
+B -2 0 还 O O: 1
+B -1 0 DATE 1 0 在 A_DATE A_TIME: 1
+B -1 0 徐家汇 0 0 的 A_LOCATION O: 1
+B 1 0 王 O O: -1
+B 0 0 张江镇 O A_PEOPLE: -1
+B 0 0 吃 1 0 烧烤 A_OBJECT A_OBJECT: -1
+B 0 0 就 0 3 N/A O A_OBJECT: -1
+B 0 0 和 0 3 N/A A_LOCATION A_LOCATION: -1
+B 0 0 酒 0 3 N/A O A_OBJECT: 2
+B 2 0 的 O A_OBJECT: -1
+B 0 0 喜多屋 1 0 吃 O A_LOCATION: 1
+B -1 0 回 1 0 吃 O A_LOCATION: 2
+B 0 0 扇贝 0 2 NR O O: -1
+B 0 0 就 1 0 不错 O O: 1
+B 1 0 都 A_OBJECT A_OBJECT: 2
+B -1 0 或者 1 0 王 A_OBJECT A_OBJECT: 2
+B -2 0 能 O O: 1
+B 0 0 扇贝 1 0 王 A_PEOPLE O: -1
+B 0 0 王 0 2 NR O O: -1
+B 0 0 吃 A_PEOPLE O: 1
+B -1 0 个 O O: -1
+B -1 0 个 0 0 火锅 A_LOCATION A_LOCATION: -1
+B 1 0 非常 O O: 1
+B 0 0 烧烤 O A_OBJECT: 1
+B 1 0 ， O A_OBJECT: 1
+B 0 0 回 1 0 复旦大学 A_OBJECT A_OBJECT: -1
+B 1 0 烧烤 A_LOCATION O: 1
+B 0 0 火锅 0 2 NN O O: -2
+B -1 0 生蚝 1 0 啊 O O: -1
+B 0 0 公司 0 3 N/A O O: 1
+B 0 0 不错 0 3 N/A O O: 1
+B -1 0 ， 1 0 DIGIT O A_DATE: -1
+B 0 0 工厂 O A_LOCATION: -1
+B -1 0 工厂 0 0 就 O A_OBJECT: -1
+B 0 0 个 0 2 M O A_LOCATION: -1
+B 0 0 非常 1 0 香辣 O O: 1
+B 1 0 ！ A_OBJECT A_OBJECT: -1
+B 0 0 或者 A_OBJECT A_OBJECT: 2
+B 2 0 吧 O O: 1
+B 2 0 个 O A_PEOPLE: 2
+B O O: 20
+B 0 0 徐家汇 1 0 的 A_LOCATION O: -1
+B 1 0 香辣 O A_OBJECT: -1
+B -1 0 酒 0 0 。 A_OBJECT O: 1
+B 0 0 还 1 0 能 O O: 1
+B 0 0 ， 0 2 PU A_OBJECT A_LOCATION: -1
+B ╠ A_OBJECT: -1
+B 0 0 DIGIT A_DATE O: 1
+B 0 0 金老板 0 3 PERSON O O: -1
+B 0 0 ！ 0 3 PUNCTUATION A_OBJECT A_OBJECT: -1
+B 0 0 或者 0 3 N/A O A_PEOPLE: -1
+B 0 0 吃 A_LOCATION A_LOCATION: -1
+B -2 0 DATE A_LOCATION A_LOCATION: -1
+B 0 0 喝 1 0 两 O A_OBJECT: -1
+B 1 0 的 A_LOCATION O: -1
+B 0 0 火锅 1 0 吧 O O: -2
+B -2 0 火锅 O A_LOCATION: -1
+B -2 0 机会 O A_LOCATION: 2
+B 0 0 自助 0 3 N/A O A_OBJECT: 1
+B 2 0 都 O O: -1
+B -1 0 一起 0 0 去 O O: 1
+B -1 0 金老板 A_PEOPLE O: 1
+B -1 0 老 O O: 1
+B 1 0 起 A_OBJECT A_OBJECT: -1
+B 1 0 吃 O A_LOCATION: 2
+B -1 0 DIGIT O O: 2
+B -1 0 喜多屋 A_LOCATION O: 1
+B 0 0 回 0 2 V O O: 1
+B 0 0 的 1 0 老 O A_LOCATION: -1
+B 0 0 ！ O O: 3
+B 0 0 吃 A_LOCATION O: 2
+B 0 0 你们 O A_PEOPLE: 2
+B 0 0 火锅 0 3 N/A O A_LOCATION: -1
+B 0 0 金老板 1 0 。 A_OBJECT O: -1
+B A_OBJECT A_DATE: -10
+B -2 0 有 O A_LOCATION: 1
+B 0 0 和 1 0 洪老板 A_LOCATION A_LOCATION: -1
+B 2 0 回 A_OBJECT A_OBJECT: -1
+B -1 0 去 0 0 喜多屋 A_OBJECT O: -1
+B -1 0 吧 A_LOCATION A_LOCATION: -1
+B 0 0 不错 O A_LOCATION: -1
+B 2 0 的 O A_LOCATION: -1
+B -1 0 喜多屋 0 0 吃 O A_OBJECT: -1
+B 0 0 烤羊腿 0 2 NR O A_OBJECT: 1
+B 0 0 徐家汇 0 3 PERSON A_LOCATION O: -1
+B -2 0 TIME O A_PEOPLE: -1
+B 0 0 DIGIT 0 2 D A_OBJECT A_OBJECT: -1
+B -1 0 上 O A_OBJECT: -1
+B -2 0 ！ A_LOCATION O: 1
+B -1 0 和 1 0 吃 O O: -1
+B -1 0 一起 0 0 去 O A_OBJECT: -1
+B 0 0 自助 0 2 V O O: -1
+B -2 0 TIME O A_LOCATION: 2
+B -1 0 来 1 0 请 O A_LOCATION: 2
+B 0 0 喜多屋 0 3 ORGANIZATION A_OBJECT O: -1
+B 0 0 王 0 3 N/A A_OBJECT A_OBJECT: 2
+B 0 0 或者 0 3 N/A A_OBJECT A_OBJECT: 2
+B 2 0 叫 O O: -1
+B -1 0 自助 1 0 叫 A_OBJECT A_LOCATION: -1
+B -1 0 金老板 0 0 。 O A_OBJECT: -1
+B 1 0 DIGIT O A_DATE: -1
+B 1 0 复旦大学 O O: 1
+B 0 0 张江镇 0 2 NR O A_PEOPLE: -1
+B 0 0 牧羊传奇 0 3 ORGANIZATION O A_LOCATION: 1
+B 0 0 吃 0 3 N/A O A_OBJECT: -1
+B 1 0 香辣 O O: 1
+B -1 0 吃 1 0 非常 O O: 1
+B -1 0 来 O O: -2
+B -1 0 吃 O A_OBJECT: 3
+B -1 0 火锅 A_LOCATION A_LOCATION: -1
+B 1 0 。 O A_PEOPLE: 2
+B 0 0 徐家汇 0 3 PERSON O O: -1
+B -1 0 吧 0 0 ！ O O: 2
+B 2 0 和 A_TIME O: 1
+B -1 0 请 1 0 吃 O O: -1
+B -1 0 吧 0 0 。 A_LOCATION A_LOCATION: -1
+B 1 0 啊 A_OBJECT A_DATE: -1
+B -1 0 家 1 0 ， O O: -1
+B -1 0 非常 1 0 的 O A_LOCATION: -1
+B 0 0 生蚝 1 0 自助 O O: -1
+B -1 0 生蚝 A_OBJECT A_DATE: -1
+B -1 0 个 0 0 非常 O O: 1
+B 0 0 烧烤 O O: -1
+B 0 0 杭州 0 3 LOCATION O A_LOCATION: 2
+B 0 0 可以 0 3 N/A O A_PEOPLE: -1
+B 0 0 一起 1 0 吃 A_DATE O: 1
+B 2 0 ！ A_OBJECT A_OBJECT: 2
+B A_OBJECT O: 10
+B -1 0 吃 1 0 或者 O A_OBJECT: 1
+B 1 0 吧 O A_LOCATION: -1
+B 0 0 火锅 1 0 吧 O A_LOCATION: -1
+B 0 0 回 0 3 N/A O O: 1
+B -1 0 能 1 0 两 O O: 1
+B 0 0 个 0 2 M A_LOCATION A_LOCATION: -1
+B 0 0 可以 1 0 啊 O A_PEOPLE: -1
+B 0 0 复旦大学 0 3 ORGANIZATION O O: -1
+B 0 0 酒 1 0 。 O A_OBJECT: 2
+B 0 0 可以 O A_PEOPLE: -1
+B 1 0 吃 O O: -3
+B 0 0 烧烤 0 2 NR O O: -1
+B 0 0 还 1 0 能 O A_LOCATION: -1
+B -2 0 DIGIT A_OBJECT A_OBJECT: -1
+B 0 0 吧 1 0 ！ A_OBJECT O: 1
+B -1 0 喜多屋 1 0 个 O A_OBJECT: -1
+B 2 0 人均 O O: -1
+B -2 0 王 O O: 1
+B 0 0 可以 1 0 啊 O O: 1
+B 0 0 DIGIT 1 0 起 A_DATE O: 1
+B 0 0 和 A_LOCATION O: 1
+B 0 0 烧烤 0 3 FOOD O O: -1
+B 0 0 。 0 2 PU A_PEOPLE O: 1
+B -2 0 香辣 O A_OBJECT: 2
+B -2 0 叫 O O: 1
+B 0 0 或者 A_OBJECT O: -1
+B 2 0 生蚝 O A_LOCATION: -1
+B 0 0 在 1 0 牧羊传奇 A_TIME O: 1
+B -2 0 个 A_OBJECT O: 2
+B -1 0 的 1 0 吧 O O: -1
+B 0 0 吧 A_OBJECT O: 2
+B 1 0 上 O A_OBJECT: -1
+B -1 0 扇贝 O O: -1
+B -2 0 烤羊腿 A_OBJECT A_OBJECT: 2
+B 0 0 TIME 1 0 在 A_DATE A_TIME: 1
+B 0 0 还 0 2 AD O A_LOCATION: -1
+B -1 0 在 1 0 和 O O: -1
+B 1 0 和 O A_LOCATION: 1
+B 2 0 酒 A_OBJECT A_LOCATION: -1
+B 0 0 就 0 2 AD O A_OBJECT: -1
+B 0 0 不错 0 3 N/A O A_LOCATION: -1
+B -1 0 回 0 0 复旦大学 O A_LOCATION: 2
+B 0 0 DIGIT 0 3 DIGIT A_OBJECT A_OBJECT: -1
+B 2 0 复旦大学 A_OBJECT A_OBJECT: -1
+B -2 0 牧羊传奇 O A_PEOPLE: 2
+B 0 0 或者 O A_PEOPLE: -1
+B -2 0 吧 O A_LOCATION: 2
+B 0 0 叫 0 3 N/A O A_OBJECT: -1
+B -1 0 ！ 1 0 的 O A_LOCATION: 2
+B 0 0 在 0 2 P A_LOCATION A_LOCATION: -1
+B 0 0 和 A_LOCATION A_LOCATION: -1
+B 1 0 就 O A_LOCATION: -1
+B -2 0 酸菜鱼 O O: 1
+B 0 0 吧 A_OBJECT A_OBJECT: -1
+B -2 0 自助 O O: 1
+B 0 0 自助 0 2 NR O O: -1
+B -1 0 和 O A_PEOPLE: 2
+B -1 0 DIGIT 0 0 起 A_OBJECT A_OBJECT: -1
+B -1 0 ， 0 0 人均 O A_DATE: -1
+B 0 0 烧烤 0 3 FOOD O A_OBJECT: 1
+B 2 0 人均 O A_LOCATION: 1
+B 0 0 酒 1 0 。 O O: -2
+B 0 0 喜多屋 O A_LOCATION: 1
+B -1 0 家 O O: -1
+B 0 0 杭州 1 0 请 O O: -2
+B 2 0 吃 A_LOCATION A_LOCATION: -1
+B 0 0 个 A_LOCATION A_LOCATION: -1
+B -1 0 扇贝 A_OBJECT A_OBJECT: 2
+B 0 0 烤羊腿 1 0 或者 O A_OBJECT: 1
+B -2 0 个 A_LOCATION A_LOCATION: -1
+B -1 0 非常 O A_LOCATION: -1
+B -1 0 工厂 0 0 就 O O: 1
+B -2 0 杭州 O O: -1
+B -1 0 回 A_OBJECT A_OBJECT: -1
+B -1 0 的 0 0 火锅 O O: -1
+B 2 0 。 O A_OBJECT: 0
+B -1 0 吃 1 0 吧 O O: -1
+B -2 0 吃 A_OBJECT A_OBJECT: 3
+B 0 0 工厂 1 0 就 O O: 1
+B 0 0 复旦大学 1 0 吃 A_OBJECT A_OBJECT: -1
+B 0 0 酸菜鱼 0 3 FOOD O A_LOCATION: 1
+B -2 0 TIME O O: -1
+B -1 0 个 0 0 自助 O O: -1
+B 2 0 火锅 O A_LOCATION: -1
+B 0 0 香辣 1 0 的 O A_LOCATION: -1
+B 0 0 洪老板 0 3 PERSON O O: -1
+B -1 0 个 0 0 自助 O A_OBJECT: 1
+B -2 0 牧羊传奇 O O: -1
+B -1 0 烤羊腿 0 0 或者 A_OBJECT A_OBJECT: 2
+B 1 0 一起 O A_DATE: 1
+B -1 0 去 0 0 喜多屋 O A_LOCATION: 1
+B 2 0 的 O O: 2
+B 0 0 。 O A_OBJECT: -1
+B 1 0 金老板 O A_OBJECT: -1
+B -2 0 去 A_LOCATION O: 1
+B -2 0 DIGIT O O: 1
+B 0 0 王 1 0 都 A_OBJECT A_OBJECT: 2
+B 2 0 老 A_LOCATION O: -1
+B -1 0 TIME 0 0 在 A_TIME O: 1
+B 1 0 叫 A_OBJECT A_LOCATION: -1
+B 2 0 洪老板 O A_LOCATION: 1
+B 2 0 烧烤 O O: -1
+B -2 0 工厂 O A_LOCATION: -1
+B 0 0 洪老板 0 2 NR A_LOCATION A_LOCATION: -1
+B 1 0 叫 A_OBJECT O: 1
+B -2 0 洪老板 A_LOCATION A_LOCATION: -1
+B -1 0 烤羊腿 1 0 扇贝 A_OBJECT O: -1
+B -1 0 复旦大学 A_LOCATION O: 1
+B -2 0 你们 O O: -1
+B 0 0 DATE 0 3 DATE O A_OBJECT: -1
+B -1 0 生蚝 1 0 啊 A_OBJECT A_DATE: -1
+B -1 0 扇贝 1 0 都 O A_PEOPLE: -1
+B -1 0 自助 1 0 叫 A_OBJECT O: 1
+B -1 0 能 O A_OBJECT: -1
+B 1 0 回 A_OBJECT A_OBJECT: -1
+B 0 0 扇贝 O O: -1
+B 0 0 起 0 3 N/A O O: 1
+B ╠ A_DATE: 4
+B 1 0 请 O A_LOCATION: 2
+B 0 0 洪老板 A_LOCATION A_LOCATION: -1
+B 0 0 洪老板 O A_PEOPLE: 2
+B 0 0 DATE 0 2 NT O A_OBJECT: -1
+B -1 0 一起 O A_OBJECT: -1
+B 0 0 复旦大学 0 2 NR O A_LOCATION: 2
+B 0 0 还 O A_LOCATION: -1
+B 0 0 DATE O A_OBJECT: -1
+B -1 0 烤羊腿 1 0 扇贝 O A_PEOPLE: -1
+B -1 0 上 O O: 1
+B 0 0 DATE 0 2 NT O A_DATE: 1
+B 0 0 人均 0 3 N/A O A_DATE: -1
+B -2 0 你们 O A_OBJECT: 1
+B 0 0 ！ A_OBJECT A_OBJECT: -1
+B 0 0 个 0 3 N/A O O: 2
+B -2 0 两 O A_OBJECT: 2
+B -1 0 吃 0 0 烧烤 O O: -1
+B 0 0 自助 0 2 NR A_OBJECT A_OBJECT: 2
+B 0 0 喝 0 2 V O O: 1
+B -1 0 上 1 0 金老板 O O: 1
+B 1 0 自助 O O: -1
+B -1 0 牧羊传奇 1 0 洪老板 A_LOCATION O: 1
+B 0 0 烧烤 1 0 吧 O A_OBJECT: 1
+B -1 0 在 O A_LOCATION: 1
+B 0 0 杭州 1 0 请 O A_LOCATION: 2
+B -1 0 请 0 0 你们 O A_LOCATION: -1
+B 0 0 或者 0 2 C A_OBJECT O: -1
+B 2 0 啊 O O: -1
+B -2 0 箱 A_OBJECT O: 1
+B 2 0 啊 O A_OBJECT: 1
+B 1 0 能 O A_LOCATION: -1
+B -1 0 请 O O: -1
+B 2 0 火锅 O O: 1
+B -1 0 就 0 0 不错 O O: 1
+B -1 0 不如 O A_DATE: 1
+B -1 0 或者 0 0 扇贝 A_OBJECT A_OBJECT: 2
+B 1 0 非常 O A_LOCATION: -1
+B 0 0 徐家汇 1 0 的 O O: -1
+B 0 0 ！ 0 3 PUNCTUATION O O: 3
+B -1 0 工厂 O A_OBJECT: -1
+B 2 0 和 A_LOCATION A_LOCATION: -1
+B 0 0 自助 0 3 N/A O O: -1
+B 0 0 吧 A_LOCATION A_LOCATION: -1
+B -2 0 一起 O A_LOCATION: 0
+B -1 0 请 1 0 吃 O A_PEOPLE: 2
+B 0 0 非常 0 3 N/A O A_OBJECT: -1
+B 0 0 DIGIT 0 3 DIGIT A_DATE O: 1
+B 0 0 。 O O: 1
+B 0 0 复旦大学 O O: -1
+B -1 0 的 1 0 吧 O A_LOCATION: -1
+B 2 0 自助 A_LOCATION O: 1
+B 0 0 杭州 O A_LOCATION: 2
+B -2 0 吃 A_LOCATION A_LOCATION: -1
+B 0 0 。 0 3 PUNCTUATION A_PEOPLE O: 1
+B 0 0 扇贝 1 0 王 O O: -1
+B 0 0 扇贝 A_PEOPLE O: -1
+B 0 0 工厂 0 3 N/A O O: 1
+B 0 0 回 0 2 V A_OBJECT A_OBJECT: -1
+B -1 0 徐家汇 1 0 老 A_LOCATION O: 1
+B -1 0 烧烤 0 0 吧 A_OBJECT O: 1
+B 0 0 洪老板 0 2 NR O O: -1
+B 0 0 回 A_OBJECT A_OBJECT: -1
+B 0 0 非常 0 2 AD O A_OBJECT: -1
+B 0 0 去 O O: 1
+B -1 0 都 O A_PEOPLE: -1
+B 2 0 可以 O A_PEOPLE: -1
+B -1 0 公司 1 0 。 A_OBJECT O: -1
+B -1 0 DATE O A_LOCATION: -1
+B -1 0 扇贝 1 0 都 O O: -1
+B -1 0 就 1 0 。 O A_LOCATION: -1
+B 0 0 生蚝 1 0 自助 O A_OBJECT: 1
+B -1 0 洪老板 0 0 吃 A_LOCATION A_LOCATION: -1
+B 0 0 自助 0 3 DOMAIN O O: -1
+B 0 0 回 1 0 复旦大学 O O: 1
+B -1 0 啊 O A_PEOPLE: -1
+B 1 0 吧 O A_OBJECT: 5
+B 0 0 吃 A_OBJECT A_OBJECT: -1
+B 0 0 喜多屋 0 2 NR O A_LOCATION: 1
+B -1 0 吃 1 0 非常 O A_LOCATION: -1
+B 2 0 工厂 A_LOCATION O: 1
+B -1 0 或者 0 0 扇贝 A_PEOPLE O: -1
+B 1 0 回 O O: 1
+B 0 0 。 A_LOCATION A_LOCATION: -1
+B 0 0 吧 0 3 N/A A_LOCATION A_LOCATION: -1
+B 1 0 ， O A_LOCATION: 1
+B 0 0 。 A_OBJECT O: 1
+B 0 0 牧羊传奇 O O: -1
+B -2 0 吃 A_OBJECT A_DATE: -1
+B 0 0 ， 0 3 PUNCTUATION A_OBJECT A_LOCATION: -1
+B -1 0 工厂 O O: 1
+B 0 0 火锅 0 3 N/A O O: -2
+B -1 0 复旦大学 0 0 吃 A_OBJECT A_OBJECT: -1
+B O A_LOCATION: 0
+B 0 0 吃 0 3 N/A A_OBJECT A_OBJECT: -1
+B 0 0 吃 0 2 V A_OBJECT A_OBJECT: -1
+B 0 0 复旦大学 0 3 ORGANIZATION O A_LOCATION: 2
+B 0 0 自助 A_OBJECT A_OBJECT: 2
+B -1 0 ！ O O: -1
+B 0 0 。 0 3 PUNCTUATION A_LOCATION A_LOCATION: -1
+B -1 0 ！ 1 0 的 A_LOCATION O: -1
+B 2 0 喝 O O: 1
+B 0 0 叫 1 0 上 O O: 1
+B 1 0 吧 A_LOCATION A_LOCATION: -1
+B 0 0 一起 O A_LOCATION: -1
+B 0 0 火锅 0 3 N/A A_LOCATION A_LOCATION: -1
+B -2 0 张江镇 O A_OBJECT: 1
+B -2 0 自助 O A_OBJECT: -1
+B 1 0 不错 O A_OBJECT: -1
+B -1 0 DATE 1 0 吃 A_DATE O: 1
+B 0 0 金老板 O O: -1
+B 0 0 不错 0 2 JJ O A_LOCATION: -1
+B 0 0 两 O O: 1
+B -1 0 不如 1 0 一起 O A_OBJECT: -1
+B 1 0 。 A_OBJECT O: 0
+B 0 0 酸菜鱼 0 2 NR O O: -1
+B 0 0 吃 1 0 个 A_LOCATION A_LOCATION: -1
+B -2 0 复旦大学 O A_OBJECT: 1
+B 0 0 去 0 2 V O A_OBJECT: -1
+B 0 0 人均 1 0 DIGIT O A_DATE: -1
+B 0 0 ！ 0 2 PU O A_LOCATION: -1
+B -1 0 或者 0 0 扇贝 O O: -1
+B 0 0 ， 1 0 叫 A_OBJECT A_LOCATION: -1
+B -1 0 TIME A_TIME O: 1
+B 0 0 两 1 0 箱 A_OBJECT A_LOCATION: -1
+B 0 0 ， A_OBJECT A_LOCATION: -1
+B 0 0 起 1 0 回 O O: 1
+B -1 0 ， 1 0 DIGIT O O: 1
+B 0 0 烤羊腿 0 3 FOOD O O: -1
+B -2 0 烧烤 A_OBJECT A_OBJECT: -1
+B -2 0 DATE O A_OBJECT: -1
+B -2 0 ！ O A_LOCATION: -1
+B 0 0 不错 O O: 1
+B -1 0 DATE 1 0 起 A_OBJECT A_OBJECT: -1
+B 2 0 火锅 A_PEOPLE O: 1
+B -2 0 吃 O O: -2
+B 0 0 自助 0 3 DOMAIN A_OBJECT A_DATE: -1
+B -1 0 吃 0 0 生蚝 O O: -1
+B 0 0 工厂 O O: 1
+B -1 0 DIGIT O A_LOCATION: -1
+B 0 0 ， 0 2 PU A_OBJECT O: 1
+B -1 0 牧羊传奇 0 0 和 A_LOCATION O: 1
+B -1 0 DIGIT 1 0 能 O O: 1
+B 0 0 个 1 0 火锅 A_LOCATION A_LOCATION: -1
+B 0 0 张江镇 1 0 吃 O A_PEOPLE: -1
+B 0 0 工厂 0 3 N/A O A_LOCATION: -1
+B 0 0 喝 0 3 N/A O O: 1
+B -1 0 烧烤 0 0 吧 A_OBJECT A_OBJECT: -1
+B -2 0 的 O O: 1
+B 0 0 在 0 3 N/A A_LOCATION A_LOCATION: -1
+B -1 0 家 0 0 酸菜鱼 O A_LOCATION: 1
+B -1 0 家 1 0 ， O A_LOCATION: 1
+B -1 0 吃 0 0 烤羊腿 O O: -1
+B 0 0 徐家汇 1 0 的 O A_LOCATION: 2
+B 0 0 老 0 2 JJ O O: 1
+B 0 0 去 1 0 喜多屋 O A_OBJECT: -1
+B -1 0 公司 O A_PEOPLE: 2
+B -1 0 不如 1 0 一起 O A_DATE: 1
+B 0 0 金老板 0 3 PERSON A_OBJECT O: -1
+B -2 0 吧 O O: -1
+B 0 0 张江镇 0 2 NR O A_LOCATION: 1
+B -1 0 吃 1 0 或者 O O: -1
+B 0 0 王 0 2 NR A_OBJECT A_OBJECT: 2
+B 0 0 喜多屋 1 0 吃 A_OBJECT O: -1
+B 0 0 火锅 O O: -2
+B -1 0 就 O O: 1
+B -1 0 复旦大学 1 0 烧烤 A_OBJECT A_OBJECT: -1
+B 0 0 张江镇 0 3 LOCATION O A_PEOPLE: -1
+B 0 0 工厂 0 2 NN O A_LOCATION: -1
+B -2 0 和 A_PEOPLE O: 1
+B 2 0 都 A_OBJECT A_OBJECT: 2
+B -1 0 DATE 1 0 在 A_LOCATION A_LOCATION: -1
+B -1 0 公司 0 0 金老板 A_OBJECT O: -1
+B -1 0 徐家汇 O A_LOCATION: -1
+B -1 0 牧羊传奇 A_LOCATION A_LOCATION: -1
+B -1 0 和 0 0 洪老板 O A_PEOPLE: 2
+B 0 0 的 0 3 N/A A_LOCATION O: 1
+B -1 0 一起 1 0 喜多屋 O O: 1
+B 2 0 王 A_OBJECT A_OBJECT: 2
+B 0 0 两 A_OBJECT A_LOCATION: -1
+B 0 0 非常 O A_OBJECT: -1
+B 1 0 。 O A_LOCATION: -1
+B 2 0 吧 A_OBJECT A_OBJECT: -1
+B 0 0 还 0 2 AD O O: 1
+B -1 0 DIGIT 1 0 回 A_OBJECT A_OBJECT: -1
+B -1 0 酒 A_OBJECT A_OBJECT: -1
+B 0 0 和 0 2 C A_LOCATION A_LOCATION: -1
+B 2 0 个 A_DATE O: 1
+B -2 0 和 A_LOCATION A_LOCATION: -1
+B 0 0 张江镇 1 0 吃 O A_LOCATION: 1
+B 0 0 牧羊传奇 0 2 NR O O: -1
+B -2 0 老 O O: 1
+B -1 0 吃 1 0 火锅 O O: 1
+B 0 0 老 O O: 1
+B -1 0 个 O A_OBJECT: 2
+B 0 0 香辣 O O: 1
+B -1 0 的 0 0 火锅 O A_OBJECT: 2
+B 0 0 喝 0 2 V O A_OBJECT: -1
+B -1 0 请 O A_PEOPLE: 2
+B 0 0 ， A_OBJECT O: 1
+B 0 0 吧 1 0 。 A_LOCATION A_LOCATION: -1
+B 0 0 ！ 0 2 PU O A_PEOPLE: -1
+B -1 0 家 O A_LOCATION: 1
+B 0 0 ！ 1 0 徐家汇 O O: 1
+B -1 0 复旦大学 1 0 烧烤 A_LOCATION O: 1
+B -1 0 请 O A_LOCATION: -1
+B 2 0 王 O A_PEOPLE: -1
+B 0 0 DATE 0 3 DATE O A_DATE: 1
+B 0 0 或者 1 0 扇贝 O A_PEOPLE: -1
+B 2 0 ！ O A_PEOPLE: -1
+B -1 0 喝 1 0 箱 O O: 1
+B 0 0 两 0 3 N/A A_OBJECT A_LOCATION: -1
+B 0 0 王 O O: -1
+B -1 0 ， 1 0 上 O A_OBJECT: -1
+B -1 0 公司 A_OBJECT O: -1
+B -1 0 和 0 0 洪老板 A_LOCATION A_LOCATION: -1
+B -1 0 回 1 0 吃 O O: -1
+B 1 0 就 O O: 1
+B 0 0 起 0 3 N/A A_OBJECT A_OBJECT: -1
+B 0 0 火锅 0 2 NN O A_OBJECT: 4
+B -1 0 公司 0 0 金老板 O A_PEOPLE: 2
+B 0 0 和 0 2 C A_LOCATION O: 1
+B 2 0 去 O A_DATE: 1
+B 1 0 徐家汇 O A_LOCATION: -1
+B -2 0 上 O A_PEOPLE: 2
+B 0 0 DIGIT A_OBJECT A_OBJECT: -1
+B -1 0 和 1 0 吃 A_LOCATION A_LOCATION: -1
+B 0 0 洪老板 0 2 NR O A_PEOPLE: 2
+B -1 0 的 0 0 火锅 O A_LOCATION: -1
+B 0 0 喝 O A_OBJECT: -1
+B -1 0 吃 0 0 个 A_LOCATION A_LOCATION: -1
+B 2 0 。 O O: 1
+B -1 0 能 1 0 两 O A_OBJECT: -1
+B 0 0 一起 A_DATE O: 1
+B 2 0 牧羊传奇 A_LOCATION A_LOCATION: -1
+B 0 0 吃 0 2 V O A_OBJECT: -1
+B 0 0 可以 O O: 1
+B -1 0 在 O O: -1
+B 0 0 吧 1 0 ！ A_OBJECT A_OBJECT: -1
+B A_OBJECT A_LOCATION: -20
+B 0 0 不错 1 0 。 O O: 1
+B -1 0 起 1 0 复旦大学 O O: 1
+B -1 0 和 0 0 洪老板 O O: -1
+B 1 0 ！ A_OBJECT O: 1
+B 0 0 王 A_OBJECT A_OBJECT: 2
+B 0 0 人均 O O: 1
+B -2 0 洪老板 O O: 1
+B -1 0 烤羊腿 0 0 或者 A_OBJECT O: -1
+B -1 0 啊 0 0 ！ O O: 1
+B 0 0 和 0 3 N/A A_LOCATION O: 1
+B 0 0 吃 1 0 个 A_PEOPLE O: 1
+B -2 0 个 O A_LOCATION: -1
+B 2 0 王 A_OBJECT O: -1
+B 2 0 公司 O A_OBJECT: -1
+B 0 0 香辣 0 2 JJ O A_LOCATION: -1
+B -1 0 就 1 0 。 O O: 1
+B 2 0 自助 O A_OBJECT: -1
+B 0 0 自助 1 0 啊 A_OBJECT A_DATE: -1
+B 0 0 ！ 1 0 徐家汇 O A_LOCATION: -1
+B 0 0 DATE 1 0 一起 O A_OBJECT: -1
+B 0 0 可以 0 2 V O A_PEOPLE: -1
+B 0 0 火锅 O A_LOCATION: -1
+B 0 0 吧 1 0 。 A_OBJECT O: 1
+B -1 0 酒 A_OBJECT O: 1
+B 0 0 ！ O A_PEOPLE: -1
+B 0 0 复旦大学 A_OBJECT A_OBJECT: -1
+B -1 0 吃 0 0 烧烤 O A_OBJECT: 1
+B 2 0 就 O A_OBJECT: -1
+B 0 0 两 1 0 箱 O O: 1
+B 0 0 烤羊腿 O O: -1
+B 0 0 香辣 0 3 N/A O A_LOCATION: -1
+B 0 0 老 0 3 N/A O A_OBJECT: -1
+B 1 0 金老板 O O: 1
+B 0 0 个 1 0 非常 O O: 1
+B -1 0 吃 0 0 生蚝 O A_OBJECT: 1
+B 0 0 还 0 3 N/A O O: 1
+B 0 0 的 0 3 N/A O A_LOCATION: -1
+B -2 0 吃 O A_PEOPLE: -1
+B -1 0 个 0 0 非常 O A_OBJECT: -1
+B 0 0 自助 0 2 V O A_OBJECT: 1
+B 0 0 酒 0 3 N/A O O: -2
+B 0 0 徐家汇 O O: -1
+B -1 0 烤羊腿 0 0 或者 O A_PEOPLE: -1
+B -1 0 啊 0 0 ！ O A_PEOPLE: -1
+B 0 0 起 0 2 M A_OBJECT A_OBJECT: -1
+B 2 0 烤羊腿 O A_LOCATION: 1
+B -1 0 不如 0 0 DATE O A_OBJECT: -1
+B 0 0 复旦大学 O A_LOCATION: 2
+B 2 0 工厂 O A_LOCATION: -1
+B -1 0 箱 1 0 。 O A_OBJECT: 2
+B -1 0 吃 1 0 火锅 A_LOCATION A_LOCATION: -1
+B -1 0 TIME A_LOCATION A_LOCATION: -1
+B -2 0 起 A_OBJECT A_OBJECT: -1
+B 0 0 徐家汇 0 2 NR O O: -1
+B 2 0 叫 O A_OBJECT: 1
+B 1 0 个 A_PEOPLE O: 1
+B -1 0 公司 1 0 。 O O: -1
+B 1 0 徐家汇 O O: 1
+B 0 0 叫 0 2 V O A_OBJECT: -1
+B 1 0 起 A_DATE O: 1
+B 0 0 吃 1 0 个 A_LOCATION O: 1
+B 2 0 回 A_DATE O: 1
+B -1 0 喝 0 0 两 A_OBJECT A_LOCATION: -1
+B 0 0 吧 0 3 N/A A_OBJECT O: 2
+B A_PEOPLE O: 10
+B -1 0 非常 1 0 的 O O: 1
+B -2 0 起 O O: -1
+B 0 0 非常 0 2 AD O O: 1
+B -1 0 ， 0 0 叫 O A_OBJECT: -1
+B 0 0 张江镇 0 3 LOCATION O A_LOCATION: 1
+B 0 0 扇贝 0 3 FOOD O O: -1
+B -1 0 自助 0 0 ， A_OBJECT O: 1
+B -1 0 一起 O O: 1
+B 0 0 杭州 0 2 NR O A_LOCATION: 2
+B -2 0 杭州 O A_PEOPLE: 2
+B 0 0 火锅 0 2 NN O A_LOCATION: -1
+B 0 0 或者 1 0 扇贝 A_OBJECT O: -1

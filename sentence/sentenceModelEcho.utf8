@@ -1,0 +1,242 @@
+Network setting: 
+  corpusFile: sentence/sentence_corpus.utf8
+  tokenFile: sentence/token.utf8
+  labelFile: sentence/classificationLabel.utf8
+  isReadEmbedding: false
+  embeddingFile: embedding/Word2Vector.class
+  isExternalFeature: false
+  externalFeatureFile: conf/charactersWithExternalFeature.utf8
+  isReadNetworkSetting: false
+  inputNetworkSettingFile: model/sentenceModel.class
+  outputNetworkSettingFile: model/sentenceModel.class
+  echoFile: sentence/sentenceModelEcho.utf8
+  featureDimension: 60
+  internalFeatureDimension: 60
+  externalFeatureDimension: 0
+  numberOfLayer: 2
+  numberOfTopK: 5
+  windowSize: 5/3
+  featureMap: 2/3
+  isIgnoreAlphabetNumber: true
+  learningRate: 0.05
+  regularizationRate: 1.0E-4
+  errorLimit: 1.0E-4
+  learningTimes: 1000
+  The size of tagset: 15
+  The size of the lookup table: 839
+
+The current learning time 0 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 21
+The total count: 111
+The tagging precision: 0.18918918918918926
+The learning rate: 0.05
+
+The current learning time 1 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 33
+The total count: 111
+The tagging precision: 0.29729729729729737
+The learning rate: 0.04995
+
+The current learning time 2 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 42
+The total count: 111
+The tagging precision: 0.3783783783783784
+The learning rate: 0.0499
+
+The current learning time 3 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 48
+The total count: 111
+The tagging precision: 0.43243243243243246
+The learning rate: 0.049850000000000005
+
+The current learning time 4 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 57
+The total count: 111
+The tagging precision: 0.5135135135135135
+The learning rate: 0.049800000000000004
+
+The current learning time 5 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 69
+The total count: 111
+The tagging precision: 0.6216216216216216
+The learning rate: 0.04975
+
+The current learning time 6 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 66
+The total count: 111
+The tagging precision: 0.5945945945945946
+The learning rate: 0.0497
+
+The current learning time 7 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 74
+The total count: 111
+The tagging precision: 0.6666666666666666
+The learning rate: 0.04965
+
+The current learning time 8 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 84
+The total count: 111
+The tagging precision: 0.7567567567567568
+The learning rate: 0.049600000000000005
+
+The current learning time 9 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 88
+The total count: 111
+The tagging precision: 0.7927927927927928
+The learning rate: 0.049550000000000004
+
+The current learning time 10 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 94
+The total count: 111
+The tagging precision: 0.8468468468468469
+The learning rate: 0.0495
+
+The current learning time 11 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 84
+The total count: 111
+The tagging precision: 0.7567567567567568
+The learning rate: 0.04945
+
+The current learning time 12 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 85
+The total count: 111
+The tagging precision: 0.7657657657657657
+The learning rate: 0.0494
+
+The current learning time 13 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 88
+The total count: 111
+The tagging precision: 0.7927927927927928
+The learning rate: 0.049350000000000005
+
+The current learning time 14 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 92
+The total count: 111
+The tagging precision: 0.8288288288288288
+The learning rate: 0.049300000000000004
+
+The current learning time 15 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 92
+The total count: 111
+The tagging precision: 0.8288288288288288
+The learning rate: 0.04925
+
+The current learning time 16 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 95
+The total count: 111
+The tagging precision: 0.8558558558558559
+The learning rate: 0.0492
+
+The current learning time 17 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 99
+The total count: 111
+The tagging precision: 0.8918918918918919
+The learning rate: 0.04915
+
+The current learning time 18 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 104
+The total count: 111
+The tagging precision: 0.9369369369369369
+The learning rate: 0.049100000000000005
+
+The current learning time 19 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 104
+The total count: 111
+The tagging precision: 0.9369369369369369
+The learning rate: 0.04905
+
+The current learning time 20 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 98
+The total count: 111
+The tagging precision: 0.8828828828828829
+The learning rate: 0.049
+
+The current learning time 21 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 103
+The total count: 111
+The tagging precision: 0.9279279279279279
+The learning rate: 0.04895
+
+The current learning time 22 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 102
+The total count: 111
+The tagging precision: 0.918918918918919
+The learning rate: 0.0489
+
+The current learning time 23 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 102
+The total count: 111
+The tagging precision: 0.918918918918919
+The learning rate: 0.048850000000000005
+
+The current learning time 24 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 107
+The total count: 111
+The tagging precision: 0.963963963963964
+The learning rate: 0.0488
+
+The current learning time 25 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 104
+The total count: 111
+The tagging precision: 0.9369369369369369
+The learning rate: 0.04875
+
+The current learning time 26 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 106
+The total count: 111
+The tagging precision: 0.954954954954955
+The learning rate: 0.0487
+
+The current learning time 27 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 107
+The total count: 111
+The tagging precision: 0.963963963963964
+The learning rate: 0.04865
+
+The current learning time 28 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 108
+The total count: 111
+The tagging precision: 0.972972972972973
+The learning rate: 0.048600000000000004
+
+The current learning time 29 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 108
+The total count: 111
+The tagging precision: 0.972972972972973
+The learning rate: 0.04855
+
+The current learning time 30 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 108
+The total count: 111
+The tagging precision: 0.972972972972973
+The learning rate: 0.0485
+
+The current learning time 31 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 105
+The total count: 111
+The tagging precision: 0.9459459459459459
+The learning rate: 0.04845
+
+The current learning time 32 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 109
+The total count: 111
+The tagging precision: 0.9819819819819819
+The learning rate: 0.0484
+
+The current learning time 33 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 107
+The total count: 111
+The tagging precision: 0.963963963963964
+The learning rate: 0.048350000000000004
+
+The current learning time 34 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 110
+The total count: 111
+The tagging precision: 0.990990990990991
+The learning rate: 0.0483
+
+The current learning time 35 (Sentence model with dynamic-k pooling layer.): 
+The correct count: 111
+The total count: 111
+The tagging precision: 1.0
+The learning rate: 0.04825

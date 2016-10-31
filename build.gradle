@@ -1,0 +1,28 @@
+group 'top.vk.BMCore'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'war'
+
+sourceCompatibility = 1.7
+
+repositories {
+//    使用指定的本地maven 库
+    mavenLocal()
+
+    //或者使用指定的远程maven库
+    maven{
+        url "http://mvnrepository.com/"
+    }
+    //从中央库里面获取依赖
+    mavenCentral()
+}
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+
+dependencies {
+    compile fileTree(dir: 'lib', include: ['*.jar'])
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compile group: 'org.json', name: 'json', version: '20160810'
+}
