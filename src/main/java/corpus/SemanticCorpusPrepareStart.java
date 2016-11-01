@@ -3,7 +3,7 @@ package corpus;
 import cn.edu.fudan.corpus.SemanticCorpusPrepare;
 
 /**
-* 三（1） 训练基于CRF的中文语义分析模型
+* 三（1） 训练基于CRF的中文语义分析模型--准备训练样本
  * preprocessFile : conf/Preprocess.properties  指向预处理模块的配置文件路径，该配置文件参数详见3.1.2节
  * posTaggerFile : conf/PosTagger.properties 指向中文词性标注模块的配置文件路径，该配置文件参数详见3.3.2节
 * */
